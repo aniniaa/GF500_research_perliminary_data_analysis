@@ -1,0 +1,518 @@
+﻿Rank,Company Name,Target summary,Sector (final classification),Region,RE100 (Y/N),Joining year,Target year,"SBT (Y = yes, N=no)",Target status - NT,Target classification NT - temp,"Target year NT (earlier of the two dates if there were two) - if committed, then year set to 2030",Net zero committed (SBTi),SBTi NZ approved year,Commitment date (SBTi),Commitment year (SBTi),"Carbon neutral commitment (C = company, V = value chain, G= Government, S = subsidiary, U = unspecified, x = less than 50% of rev, N=no)",Carbon neutral scope(s) (in their words) (+ indicates two targets/ a later target),Carbon neutral claim (in their words),Carbon neutral commitment - EARLY,Earlier carbon neutral target year,Earlier carbon neutral announcement year,Carbon neutral commitment - LATE,Later carbon neutral target year,Later carbon neutral announcement year,"Carbon credits (Y = yes, N = no, R = removals only, U = unclear)",Souce Date,"Net zero commitment (V = value chain, C = company, S = subsidiary, U = unclear, x = less than 50% rev)",Primary net zero scope (in their words),Primary net zero claim (in their words),Net Zero Target - EARLY,Earlier net zero target year,Earlier net zero announcement year,Net Zero Target - LATE,Later net zero target year,Later net zero announcement year,"Carbon credits (Y = yes, N = no, R = removals only, U = unclear).1","Reduction targets for Decarbonization (V = value chain, C = company)",CN already achieved ,CN 2024-2030,CN 2031-2050,Any CN,NZ already achieved,NZ 2024-2030,NZ 2031-2050,Any NZ,SBT already achieved,SBT 2024-2030,SBT 2031-2050,Any SBT,RE100 already achieved,RE100 2024-2030,RE100 2031-2050,Any RE100,CN/NZ - does the company have a voluntary CN or NZ target?,CN/NZ by 2030,CN/NZ by 2050,will use cabon credits,will NOT use carbon credits,any commitment,any commitment already achieved,any commitment by 2030,any commitment by 2050,NZ covering VC already achieved,NZ covering VC 2024-2030,NZ covering VC 2031-2050,Any NZ covering VC
+1,Walmart, NZ SBT RE100,Retail,North America,Y,2015,2035,Y,Targets Set,1.5Â°C,2025,No,,01/11/2016,2016,N,,,N,,,,,,,,C,operations,Scope 1 + 2,C,2050,2020,,,,N,,,,,,,,1,1,,1,,1,,,1,1,1,,1,,1,1,,1,1,,,,
+2,Amazon, NZ,Retail,North America,N,,,N,Removed,,,No,,01/06/2020,2020,N,,,N,,,,,,,,C,Scope 1 and 2,Net Zero,C,2040,2019,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+3,State Grid,,Energy and utilities,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Saudi Aramco, NZ,Metals and mining,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 and 2,Net Zero,C,2050,2021,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+5,Sinopec Group,,Oil and gas,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,China National Petroleum,,Oil and gas,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2020,,,,,,I,,,I,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Apple,CN SBT RE100,Technology,North America,Y,2016,2021,Y,Targets Set,1.5Â°C,2030,No,,01/05/2021,2021,"C, V","corporate operations, entire value chain",carbon neutrality,C,2020,2020,V,2030,2020,R,2024,N,,,N,,,,,,,,1,,,1,,,,,,1,,1,1,,,1,1,1,1,1,,1,1,1,1,,,,
+8,UnitedHealth Group, NZ SBT,Health care and pharmaceuticals,North America,N,,,N,Committed,,2030,Yes,,01/06/2022,2022,N,,,N,,,,,,,,C,operational,Net Zero,C,2035,2022,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+9,Berkshire Hathaway,,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,CVS Health,CN NZ SBT,Health care and pharmaceuticals,North America,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2050,01/10/2021,2021,C,company,carbon neutrality,C,2030,2021,,,,U,2023,"C, V","direct operations, across our value chain",Net Zero Emissions,C,2048,2021,V,2050,2021,U,,,1,,1,,,1,1,,1,,1,,,,,1,1,1,,,1,,1,1,,,1,1
+11,Volkswagen,CN SBT,Automotive,Europe,N,,,Y,Targets Set,1.5Â°C/2Â°C,2025,No,,01/04/2022,2022,C,Supply chain ,Net Carbon Neutrality,C,2050,2021,,,,Y,2023,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+12,Exxon Mobil, NZ,Oil and gas,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 and 2,Net Zero,C,2050,2022,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+13,Shell, NZ,Oil and gas,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 + 2 + 3 (partially),Net Zero,C,2050,2020,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+14,China State Construction Engineering,CN,Engineering and construction,Asia,N,,,N,,,,,,,,C,the group,carbon neutrality,C,2050,2021,,,,U,2023,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+15,Toyota Motor,CN SBT,Automotive,Asia,N,,,Y,Targets Set,1.5Â°C/Well-below 2Â°C,2030,No,,01/11/2022,2022,V,"scope 1, 2, 3 (all categories)",carbon neutrality,V,2050,2024,,,,Y,2024,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+16,McKesson, SBT,Retail,North America,N,,,Y,Targets Set,1.5Â°C,2032,No,,01/01/2023,2023,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,1,,,1,,,,
+17,Alphabet, NZ SBT,Technology,North America,N,,,N,Committed,,2030,No,,01/09/2022,2022,N,,,N,,,,,,,,V,operations and value chain,Net Zero,V,2030,2020,,,,Y,,,,,,,1,,1,,1,,1,,,,,1,,1,1,,1,,1,1,,1,,1
+18,Cencora, SBT,Retail,North America,N,,,Y,Targets Set,1.5Â°C,2026,No,,01/11/2023,2023,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+19,Trafigura Group,CN,Financial services,Asia,N,,,N,,,,,,,,C,operational Scope 1 and 2 ,carbon neutrality,C,2050,2022,,,,Y,2023,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+20,Costco Wholesale,,Retail,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,JPMorgan Chase,CN NZ,Financial services,North America,N,,,N,,,,,,,,C,operations,carbon neutrality,C,2020,2020,,,,Y,2023,C,"operations (scope 1, 2, plus business travel) ",Net Zero ,C,2050,2022,,,,Y,V,1,,,1,,,1,1,,,,,,,,,1,1,1,1,,1,1,1,1,,,,
+22,Industrial & Commercial Bank of China,,Financial services,Asia,N,,,N,,,,,,,,G,the bank,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,TotalEnergies,CN,Oil and gas,Europe,N,,,N,,,,,,,,"C, V","Scope 1+2, operations worldwide from production to the use of the energy products sold to its customers","offsetting residual emissions, carbon neutrality (uses net-zero also)",C,2030,2020,V,2050,2020,Y,2024,I,,,I,,,,,,,,,1,,1,,,,,,,,,,,,,1,1,1,1,,1,,1,1,,,,
+24,Glencore, NZ,Metals and mining,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,V,"scope 1, 2 and 3",Net Zero industrial emissions,V,2050,2020,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+25,BP, NZ,Oil and gas,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,V,"operations, production, and sold energy products",Net Zero,V,2050,2020,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+26,Microsoft,CN SBT RE100,Technology,North America,Y,2015,2014,Y,Targets Set,1.5Â°C,2030,No,,01/09/2019,2019,C,"operational, supply chain","carbon neutral, carbon negative",C,2012,2012,C,2030,2020,Y,2024,N,,,N,,,,,,,Y,1,,,1,,,,,,1,,1,1,,,1,1,1,1,1,,1,1,1,1,,,,
+27,Cardinal Health, SBT,Retail,North America,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/03/2024,2024,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+28,Stellantis, NZ,Automotive,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,V,all scopes,carbon Net Zero,V,2038,2022,,,,Y,Y,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+29,Chevron, NZ,Oil and gas,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C,upstream scope 1 and 2,Net Zero,C,2050,2021,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+30,China Construction Bank,,Financial services,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Samsung Electronics, NZ RE100,Industrial goods,Asia,Y,2022,2050,N,,,,,,,,N,,,N,,,,,,,,C,(Scope 1 & Scope 2) for all operations,Net Zero carbon emissions,C,2050,2022,,,,U,,,,,,,,1,1,,,,,,,1,1,1,,1,,,1,,,1,,,,
+32,Hon Hai Precision Industry, NZ SBT,Industrial goods,Asia,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2050,01/05/2024,2024,N,,,N,,,,,,,,V,value chain,Net Zero emissions,V,2050,2020,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+33,Cigna,CN SBT RE100,Health care and pharmaceuticals,North America,Y,2022,2030,N,Committed,,2030,No,,01/05/2024,2024,C,Scope 1 and 2 GHG emissions,carbon neutrality ,C,2040,2021,,,,Y,2023,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,1,,1,1,,1,1,,1,,1,1,,,,
+34,Agricultural Bank of China,,Financial services,Asia,N,,,N,,,,,,,,G,operations,carbon neutrality,G,2060,2023,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,China Railway Engineering Group,,Engineering and construction,Asia,N,,,N,,,,,,,,G,company,carbon neutrality ,G,2060,2022,,,,,,N,,,N,,,,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,Ford Motor,CN SBT,Automotive,North America,N,,,Y,Targets Set,1.5Â°C/Well-below 2Â°C,2035,Yes,,01/03/2021,2021,V,"three areas that account for approximately 95% of our carbon emissions: our vehicles, operations and supply chain",carbon neutrality ,V,2050,2020,,,,Y,,N,,,N,,,,,,,Y,,,1,1,,,,,,,1,1,,,,,1,,1,1,,1,,,1,,,,
+37,Bank of China,CN,Financial services,Asia,N,,,N,,,,,,,,C,undefined,carbon neutrality,C,2030,2021,,,,U,2023,N,,,N,,,,,,,N,,1,,1,,,,,,,,,,,,,1,1,1,,,1,,1,1,,,,
+38,Bank of America,CN NZ,Financial services,North America,N,,,N,,,,,,,,C,undefined,carbon neutral,C,2020,2016,,,,Y,2022,"V, F","Scope 1, 2 and 3","Net Zero
+",V,2030,2021,F,2050,2021,U,,1,,,1,,1,,1,,,,,,,,,1,1,1,1,,1,1,1,1,,1,,1
+39,General Motors,CN SBT RE100,Automotive,North America,Y,2016,2035,Y,Targets Set,1.5Â°C/Well-below 2Â°C,2035,Yes,,01/05/2021,2021,C,global products and operations,carbon neutral,C,2040,2021,,,,U,,N,,,N,,,,,,,C,,,1,1,,,,,,,1,1,,,1,1,1,,1,,,1,,,1,,,,
+40,Elevance Health,CN NZ RE100,Health care and pharmaceuticals,North America,Y,2019,2025,N,,,,,,,,C,operations,carbon neutral,C,2021,2021,,,,U,2023,C,direct operations,Net Zero emissions,C,2050,2022,,,,U,C,1,,,1,,,1,1,,,,,,1,,1,1,1,1,,,1,1,1,1,,,,
+41,BMW Group,CN NZ SBT RE100,Automotive,Europe,Y,2015,2050,Y,Targets Set,1.5Â°C/Well-below 2Â°C,2030,Yes,,01/02/2022,2022,F,asset portfolio,carbon neutrality,F,2050,2020,,,,Y,,V,entire value chain,Net Zero,V,2050,2022,,,,U,C,,,1,1,,,1,1,,1,,1,,,1,1,1,,1,1,,1,,1,1,,,1,1
+42,Mercedes-Benz Group,CN SBT,Automotive,Europe,N,,,Y,Targets Set,1.5Â°C/Well-below 2Â°C,2030,Yes,,01/11/2019,2019,"C, V","scope 1 and 2 at production plants, entire value chain",net carbon-neutral,C,2022,2019,V,2039,2019,Y,2023,N,,,N,,,,,,,V,1,,,1,,,,,,1,,1,,,,,1,1,1,1,,1,1,1,1,,,,
+43,China Railway Construction,,Engineering and construction,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,China Baowu Steel Group,CN,Metals and mining,Asia,N,,,N,,,,,,,,C,undefined,carbon neutrality ,C,2050,2020,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+45,Citigroup, NZ,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,"C, F","operations, financing",Net Zero emissions,C,2030,2021,F,2050,2021,Y,,,,,,,1,,1,,,,,,,,,1,1,1,1,,1,,1,1,,,1,1
+46,Centene,,Health care and pharmaceuticals,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,JD.com,,Retail,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,Home Depot, SBT RE100,Retail,North America,Y,2021,2030,Y,Targets Set,1.5Â°C,2030,No,,01/03/2024,2024,N,,,N,,,,,,,,N,,,N,,,,,,,V,,,,,,,,,,1,,1,,1,,1,,,,,,1,,1,1,,,,
+49,Electricite de France, NZ SBT,Energy and utilities,Europe,N,,,Y,Targets Set,Well-below 2Â°C,2030,No,,01/12/2020,2020,N,,,N,,,,,,,,V,all three scopes,Net Zero emissions,V,2050,2018,,,,U,V,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,1,1
+50,Marathon Petroleum,,Oil and gas,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,Kroger,,Retail,North America,N,,,N,Removed,,,No,,01/06/2022,2022,N,,,N,,,,,,,,N,,,N,,,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,Phillips 66,,Oil and gas,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,Ping An Insurance,CN,Financial services,Asia,N,,,N,,,,,,,,C,operations ,carbon neutrality ,C,2030,2021,,,,Y,2023,N,,,N,,,,,,,N,,1,,1,,,,,,,,,,,,,1,1,1,1,,1,,1,1,,,,
+54,Sinochem Holdings,,Chemicals,Asia,N,,,N,,,,,,,,G,operations,carbon neutral,G,2060,2022,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,China Mobile Communications,,Telecommunications and media,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,China National Offshore Oil,CN,Metals and mining,Asia,N,,,N,,,,,,,,C,undefined,carbon neutrality ,C,2050,2022,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+57,Honda Motor,CN,Automotive,Asia,N,,,N,,,,,,,,V,"Scope 1, 2 and 3",carbon neutrality ,V,2050,2021,,,,U,,I,,,I,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+58,Fannie Mae,,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,China Life Insurance,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,Walgreens Boots Alliance, NZ,Retail,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,"C, V","Scope 1 and 2, scope 3",Net Zero,C,2035,2021,V,2040,2021,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+61,Valero Energy,CN,Oil and gas,North America,N,,,N,,,,,,,,"C, V","scope 1 and 2, scope 1, 2, 3, and 4",100% reduced or displaced,C,2035,2020,V,2050,2021,Y,2022,I,,,I,,,,,,,Y,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+62,Banco Santander,CN NZ,Financial services,Europe,N,,,N,,,,,,,,C,own operations,carbon neutral,C,2020,2019,,,,Y,2022,"C, F","our operations, portfolios",Net Zero,C,2050,2021,F,2050,2021,Y,,1,,,1,,,1,1,,,,,,,,,1,1,1,1,,1,1,1,1,,,1,1
+63,China Communications Construction,,Engineering and construction,Asia,N,,,N,,,,,,,,G,global products and operations,carbon neutral,G,2060,2023,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,BNP Paribas,CN SBT,Financial services,Europe,N,,,N,Committed,,2030,No,,01/04/2016,2016,F,account credit and investment activities,carbon neutrality,F,2050,2015,,,,Y,,I,,,I,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+65,Mitsubishi, NZ,Industrial goods,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,C,scope 1 and Scope 2 emissions of MC and its consolidated companies,Net Zero,C,2050,2021,,,,Y,Y,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+66,Meta Platforms, NZ SBT RE100,Technology,North America,Y,2016,2020,Y,Targets Set,1.5Â°C,2031,Yes,,01/02/2024,2024,N,,,N,,,,,,,,"C, V","Scope 1 and 2, Scope 1, 2 and 3",Net Zero,C,2020,2020,V,2030,2021,Y,,,,,,1,,,1,,,1,1,1,,,1,1,1,1,1,,1,1,1,1,,1,,1
+67,HSBC Holdings, NZ RE100,Financial services,Europe,Y,2017,2030,N,,,,,,,,N,,,N,,,,,,,,"C, F","own operations and supply chain, financed emissions",Net Zero,C,2030,2020,F,2050,2020,Y,,,,,,,1,,1,,,,,,1,,1,1,1,1,1,,1,,1,1,,,1,1
+68,Verizon Communications, NZ SBT RE100,Telecommunications and media,North America,Y,2024,2030,Y,Targets Set,1.5Â°C,2035,No,,01/04/2021,2021,N,,,N,,,,,,,,C,Scope 1 and 2,Net Zero,C,2035,2019,,,,U,,,,,,,,1,1,,,1,1,,1,,1,1,,1,,,1,,1,1,,,,
+69,China Minmetals,,Metals and mining,Asia,N,,,N,,,,,,,,G,undefined,carbon neutral,G,2060,2022,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,Alibaba Group Holding,CN SBT,Retail,Asia,N,,,N,Committed,,2030,Yes,,01/12/2021,2021,C,operations,carbon neutrality ,C,2030,2021,,,,Y,2023,N,,,N,,,,,,,,,1,,1,,,,,,1,,1,,,,,1,1,1,1,,1,,1,1,,,,
+71,CITIC Group,,Financial services,Asia,N,,,N,,,,,,,,G,undefined,Carbon Neutrality,G,2060,2022,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,China Resources,,Health care and pharmaceuticals,Asia,N,,,N,,,,,,,,G,company,carbon neutrality,G,2060,2023,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73,Hyundai Motor,CN RE100,Automotive,Asia,Y,2022,2045,N,,,,,,,,V,"Scope 1, 2 and 3",carbon neutral,V,2045,2021,,,,Y,,I,,,I,,,,,,,,,,1,1,,,,,,,,,,,1,1,1,,1,1,,1,,,1,,,,
+74,AT&T,CN SBT,Telecommunications and media,North America,N,,,Y,Targets Set,1.5Â°C,2024,No,,01/03/2020 00:00,2020,C,"entire global
+operations",carbon neutral ,C,2035,2018,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+75,Shandong Energy Group,,Metals and mining,Asia,N,,,N,,,,,,,,G,group's operational level,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,Comcast,CN SBT,Telecommunications and media,North America,N,,,N,Committed,,2030,No,,01/01/2023,2023,C,Scope 1 and 2,carbon neutral,C,2035,2021,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+77,Deutsche Telekom,CN NZ SBT RE100,Telecommunications and media,Europe,Y,2019,2021,Y,Targets Set,1.5Â°C,2030,Yes,2040,01/02/2024,2024,C,in-house emissions,climate neutrality,C,2025,2019,,,,R,2024,V,"Scope 1, 2 and 3","Net Zero
+",V,2040,2021,,,,Y,,,1,,1,,,1,1,,1,,1,1,,,1,1,1,1,1,,1,1,1,1,,,1,1
+78,China Southern Power Grid,,Energy and utilities,Asia,N,,,N,,,,,,,,G,groups,carbon neutral,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,Uniper,CN,Energy and utilities,Europe,N,,,N,,,,,,,,"C, V","1,2 + 1,2,3",carbon neutrality,C,2035,2023,V,2040,2023,Y,2023,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+80,Wells Fargo,CN NZ,Financial services,North America,N,,,N,,,,,,,,C,"Scope 1 and 2 of our operational 
+GHG emissions",purchase carbon removal credits for,C,2019,2019,,,,R,2023,C,Scope 1 and 2,Net Zero,C,2050,2021,,,,Y,,1,,,1,,,1,1,,,,,,,,,1,1,1,1,,1,1,1,1,,,,
+81,Hengli Group,,Household and personal products,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82,Allianz,CN NZ RE100,Financial services,Europe,Y,2018,2023,N,,,,,,,,C,operations,carbon neutral,C,2012,2019,,,,Y,2022,F,Investment Portfolio,Net Zero,F,2050,2020,,,,R,,1,,,1,,,1,1,,,,,1,,,1,1,1,1,1,,1,1,1,1,,,1,1
+83,China Post Group,,Transportation and logistics,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84,China Energy Investment,,Metals and mining,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2022,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+85,Xiamen C&D,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,Reliance Industries, NZ,Oil and gas,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 and 2  ,"Net Carbon Zero
+",C,2035,2022,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,,
+87,Goldman Sachs Group,CN NZ RE100,Financial services,North America,Y,2015,2021,N,,,,,,,,C,operations and business travel,carbon neutral,C,2015,2015,,,,Y,2023,C,operations and supply chain,Net Zero carbon emissions,C,2030,2021,,,,U,,1,,,1,,1,,1,,,,,1,,,1,1,1,1,1,,1,1,1,1,,,,
+88,Freddie Mac,,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89,Rosneft Oil,CN,Oil and gas,Europe,N,,,N,,,,,,,,C,operations,operational carbon neutrality,C,2050,2021,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+90,Target, NZ SBT RE100,Retail,North America,Y,2019,2030,Y,Targets Set,2Â°C,2023,Yes,,01/03/2019,2019,N,,,N,,,,,,,,V,"Scope 1, 2 and 3",Net Zero,V,2040,2021,,,,Y,,,,,,,,1,1,1,,,1,,1,,1,1,,1,1,,1,1,1,1,,,1,1
+91,Equinor,CN NZ,Oil and gas,Europe,N,,,N,,,,,,,,C,operations,carbon neutral,C,2030,2020,,,,U,2024,V,from production and final consumption of energy,Net-Zero energy company,V,2050,2020,,,,U,U,,1,,1,,,1,1,,,,,,,,,1,1,1,,,1,,1,1,,,1,1
+92,Humana, SBT,Health care and pharmaceuticals,North America,N,,,Y,Targets Set,1.5Â°C,2032,No,,01/12/2023,2023,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,1,,,1,,,,
+93,SAIC Motor,,Automotive,Asia,N,,,N,,,,,,,,G,undefined,Carbon Neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94,State Farm Insurance,,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95,Life Insurance Corp. of India,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96,Nestle, NZ SBT RE100,"Food, beverages and agriculture",Europe,Y,2014,2025,Y,Targets Set,1.5Â°C,2030,Yes,2050,01/12/2023,2023,N,,,N,,,,,,,,V,"Scope 1, 2 and partial 3 to cover 90% of total emissions",Net Zero,V,2050,2020,,,,Y,,,,,,,,1,1,,1,,1,,1,,1,1,,1,1,,1,,1,1,,,1,1
+97,Enel, NZ SBT,Energy and utilities,Europe,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2040,01/02/2023,2023,N,,,N,,,,,,,,V,direct and indirect emissions,Net-Zero ,V,2040,2021,,,,Y,V,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+98,ENI,CN NZ,Oil and gas,Europe,N,,,N,,,,,,,,V,products and industrial processes - lifecycle of energy products,carbon neutrality,V,2050,2021,,,,Y,,"C, V","Eni (SCOPE 1+2),  (SCOPE 1+2+3)",Net Zero,C,2035,2020,V,2050,2020,Y,N,,,1,1,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+99,Petrobras,CN,Oil and gas,Latin America,N,,,N,,,,,,,,C,all products and corporate activities,neutralize emissions,C,2050,2022,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+100,SK,CN,Oil and gas,Asia,N,,,N,,,,,,,,C,group,net-zero greenhouse gas emissions,C,2050,2021,,,,Y,,I,,,I,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+101,E.ON,CN SBT,Energy and utilities,Europe,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/05/2022,2022,"C, V","Scope 1 and 2, Scope 3",Climate Neutral,C,2040,2022,V,2050,2022,Y,,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+102,Gazprom,,Oil and gas,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,Huawei Investment & Holding,,Telecommunications and media,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,Societe Generale,CN,Financial services,Europe,N,,,N,,,,,,,,F,indirect emissions of our oil & gas credit portfolio ,carbon neutral,F,2050,2021,,,,Y,,I,,,I,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+105,Bosch Group,CN,Automotive,Europe,N,,,N,,,,,,,,C,scope 1 & 2,carbon neutral,C,2020,2019,,,,Y,2023,N,,,N,,,,,,,,1,,,1,,,,,,,,,,,,,1,1,1,1,,1,1,1,1,,,,
+106,COFCO, SBT,Financial services,Asia,N,,,Y,Targets Set,1.5Â°C,2033,No,,01/06/2024,2024,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,1,,,1,,,,
+107,Itochu, NZ,Financial services,Asia,N,,,N,,,,,,,,I,,,I,,,,,,,,V,"Scope 1/2/3 (consolidated subsidiaries), fossil fuel business and 
+interests (consolidated subsidiaries, equity, general investments)",Net Zero GHG emissions,V,2050,2021,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+108,PowerChina,,Engineering and construction,Asia,N,,,N,,,,,,,,G,undefined,carbon neutral,G,2060,2022,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+109,Pemex, NZ,Metals and mining,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 and 2  ,Net Zero,C,2050,2021,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+110,Tesla, SBT,Automotive,North America,N,,,N,Committed,,2030,No,,01/10/2021,2021,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+111,Morgan Stanley,CN NZ RE100,Financial services,North America,Y,2017,2022,N,,,,,,,,C,global operations,carbon neutrality,C,2022,2017,,,,U,2022,F,financed emissions,Net-Zero,F,2050,2020,,,,Y,,1,,,1,,,1,1,,,,,1,,,1,1,1,1,1,,1,1,1,1,,,1,1
+112,Sinopharm,,Health care and pharmaceuticals,Asia,N,,,N,,,,,,,,G,undefined,Carbon Neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+113,Brookfield, NZ,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,F,assets we manage,Net Zero emissions,F,2050,2022,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+114,Royal Ahold Delhaize, NZ SBT,Retail,Europe,N,,,Y,Targets Set,1.5Â°C,2030,Yes,,01/08/2020,2020,N,,,N,,,,,,,,"C, V","operations (scope 1 and 2), value chain (scope 3)",Net-Zero,C,2040,2021,V,2050,2021,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,1,1
+115,Johnson & Johnson,CN NZ SBT RE100,Health care and pharmaceuticals,North America,Y,2015,2025,Y,Targets Set,1.5Â°C,2030,No,,01/04/2024,2024,C,operations,carbon neutrality,C,2030,2020,,,,U,2024,V,across our value chain,Net-Zero emissions,V,2045,2021,,,,U,,,1,,1,,,1,1,,1,,1,,1,,1,1,1,1,,,1,,1,1,,,1,1
+116,Indian Oil, NZ,Oil and gas,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,C,operational emissions,Net Zero,C,2046,2022,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+117,Archer Daniels Midland, SBT,"Food, beverages and agriculture",North America,N,,,N,Committed,,2030,No,,01/04/2022,2022,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+118,Credit Agricole,CN SBT RE100,Financial services,Europe,Y,2016,2030,N,Committed,,2030,No,,01/05/2016,2016,C+F,scope 1 and 2 and investment sectors,carbon neutrality,C+F,2050,2022,,,,Y,,N,,,N,,,,,,,Y,,,1,1,,,,,,1,,1,,1,,1,1,,1,1,,1,,1,1,,,,
+119,Christian Dior,,Household and personal products,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,Nippon Telegraph and Telephone,CN,Telecommunications and media,Asia,N,,,N,,,,,,,,C,group,carbon neutrality,C,2040,2021,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+121,Mitsui,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+122,Carrefour,CN SBT,Retail,Europe,N,,,Y,Targets Set,Well-below 2Â°C,2030,No,,01/06/2020,2020,C,direct emissions,carbon neutrality,C,2040,2021,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+123,PepsiCo, NZ SBT RE100,"Food, beverages and agriculture",North America,Y,2020,2040,Y,Targets Set,1.5Â°C,2030,Yes,,01/01/2021,2021,N,,,N,,,,,,,,V,value chain,Net-Zero emissions,V,2040,2021,,,,R,Y,,,,,,,1,1,,1,,1,,,1,1,1,,1,1,,1,,1,1,,,1,1
+124,United Parcel Service,CN,Transportation and logistics,North America,N,,,N,,,,,,,,V,"scope 1, 2 and 3 emissions.",carbon neutrality,V,2050,2021,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+125,PTT,CN NZ,Oil and gas,Asia,N,,,N,,,,,,,,C,undefined,carbon neutral,C,2040,2021,,,,U,2023,C,undefined,Net Zero,C,2050,2021,,,,Y,,,,1,1,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+126,AXA,CN NZ SBT RE100,Financial services,Europe,Y,2017,2025,N,Committed,,2030,No,,01/06/2015,2015,"C, V","operations, Scope 3 business travel, IT equipment manufacturing and 
+purchased services, and upstream energy emissions",carbon neutral,C,2020,2020,V,2025,2020,Y,2024,F,insurance and reinsurance underwriting portfolios,Net-Zero greenhouse gas emissions,F,2050,2023,,,,U,,1,,,1,,,1,1,,1,,1,,1,,1,1,1,1,1,,1,1,1,1,,,1,1
+127,FedEx,CN,Transportation and logistics,North America,N,,,N,,,,,,,,C,global operations,carbon neutral,C,2040,2023,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+128,Sony, NZ SBT RE100,Industrial goods,Asia,Y,2018,2030,Y,Targets Set,1.5Â°C,2025,Yes,2040,01/09/2022,2022,I,,,I,,,,,,,,"C, V","Scope 1 and 2, Scope 3",Net Zero,C,2030,2022,V,2040,2022,U,,,,,,,1,,1,,1,,1,,1,,1,1,1,1,,,1,,1,1,,,1,1
+129,China FAW Group,,Automotive,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2022,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+130,Engie, NZ SBT,Energy and utilities,Europe,N,,,Y,Targets Set,Well-below 2Â°C,2030,No,,01/03/2023,2023,N,,,N,,,,,,,,V,"Scope 1, 2 and 3","Net Zero Carbon
+",V,2045,2021,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+131,Walt Disney, NZ SBT,Telecommunications and media,North America,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/11/2023,2023,N,,,N,,,,,,,,C  ,Scope 1 and 2,Net Zero,C  ,2030,2022,,,,Y,,,,,,,1,,1,,1,,1,,,,,1,1,1,1,,1,,1,1,,,,
+132,Orlen, NZ,Oil and gas,Europe,N,,,N,,,,,,,,I,,,I,,,,,,,,V,"Scope1, 2 and 3",Net Zero,V,2050,2021,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+133,Dell Technologies, NZ SBT RE100,Technology,North America,Y,2019,2040,Y,Targets Set,1.5Â°C,2031,Yes,,01/01/2023,2023,N,,,N,,,,,,,,V,"scopes 1, 2 and 3",Net Zero greenhouse gas emissions,V,2050,2021,,,,Y,,,,,,,,1,1,,,1,1,,,1,1,1,,1,1,,1,,,1,,,1,1
+134,DHL Group, NZ SBT,Transportation and logistics,Europe,N,,,Y,Targets Set,1.5°C,2030,Yes,,01/08/2021,2021,N,,,N,,,,,,,,C,Scope 1 and 2,Net Zero,C,2050,2017,,,,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+135,China Telecommunications,,Telecommunications and media,Asia,N,,,N,,,,,,,,G,company,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+136,Nissan Motor,CN SBT,Automotive,Asia,N,,,Y,Targets Set,Well-below 2Â°C/Well-below 2Â°C,2030,Yes,,01/08/2021,2021,V,Company operations and product life cycle,Carbon Neutral ,V,2050,2021,,,,Y,,I,,,I,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+137,Royal Bank of Canada,CN NZ,Financial services,North America,N,,,N,,,,,,,,C,operations,carbon neutral,C,2017,2017,,,,Y,2022,F,lending,Net-Zero,F,2050,2021,,,,Y,,1,,,1,,,1,1,,,,,,,,,1,1,1,1,,1,1,1,1,,,1,1
+138,Zhejiang Rongsheng Holding Group,,Chemicals,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+139,Lowe's, NZ SBT,Retail,North America,N,,,N,Committed,,2030,Yes,,01/04/2022,2022,N,,,N,,,,,,,,V,"scopes 1, 2 and 3 ",Net-Zero emissions,V,2050,2022,,,,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,1,1
+140,Tesco,CN NZ SBT RE100,Retail,Europe,Y,2017,2030,Y,Targets Set,1.5Â°C,2032,Yes,2050,01/08/2023,2023,C,Group operations,Carbon Neutral ,C,2035,2021,,,,Y,,V,"Scope 1, 2 and 3",Net Zero,V,2050,2021,,,,Y,,,,1,1,,,1,1,,,1,1,,1,,1,1,,1,1,,1,,1,1,,,1,1
+141,Tencent Holdings,CN SBT,Technology,Asia,N,,,Y,Targets Set,1.5Â°C,2030,Yes,,01/05/2023,2023,C,operations & supply chain,carbon neutral,V,2030,2022,,,,Y,2022,N,,,N,,,,,,,,,1,,1,,,,,,1,,1,,,,,1,1,1,1,,1,,1,1,,,,
+142,Xiamen ITG Holding Group,,Financial services,Asia,N,,,N,,,,,,,,G,undefined,Carbon Neutrality,G,2060,2021,,,,,,I,,,I,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+143,BYD, SBT,Automotive,Asia,N,,,N,Committed,,2030,Yes,,01/08/2024,2024,G,company,carbon neutral,G,2060,2021,,,,,,N,,,N,,,,,,,Y,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+144,Nippon Life Insurance, NZ RE100,Financial services,Asia,Y,2024,2040,N,,,,,,,,N,,,N,,,,,,,,C,own emissions and that of its investees,Net Zero emissions,C,2050,2020,,,,U,Y,,,,,,,1,1,,,,,,,1,1,1,,1,,,1,,,1,,,,
+145,Siemens,CN NZ SBT RE100,Industrial goods,Europe,Y,2021,2030,Y,Targets Set,1.5Â°C,2030,Yes,,01/02/2021,2021,C,undefined,carbon neutral,C,2030,2015,,,,Y,2023,"C, V","Scope 1 and 2, Scope1, 2 and 3",Net Zero,C,2030,2022,V,2050,2022,Y,,,1,,1,,1,,1,,1,,1,,1,,1,1,1,1,1,,1,,1,1,,,1,1
+146,Japan Post Holdings,CN,Financial services,Asia,N,,,N,,,,,,,,C,own greenhouse gas emissions,carbon neutrality ,C,2050,2021,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+147,Aviation Industry Corp. of China, NZ,Aerospace and defense,Asia,N,,,N,,,,,,,,I,,,I,,,,,,,,V,"Scope 1, 2 and 3",Net Zero,V,2050,2021,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+148,Mitsubishi UFJ Financial Group, NZ,Financial services,Asia,N,,,N,,,,,,,,I,,,I,,,,,,,,"C, F","operations, finance portfolio",Net Zero GHG emission,C,2030,2021,F,2050,2021,Y,,,,,,,1,,1,,,,,,,,,1,1,1,1,,1,,1,1,,,1,1
+149,Procter & Gamble,CN NZ SBT RE100,Household and personal products,North America,Y,2015,2030,Y,Targets Set,1.5Â°C,2030,No,,01/11/2023,2023,C,global operations,carbon neutral,C,2020,2020,,,,Y,2023,V,"Scope 1, 2 and 3",Net Zero,V,2040,2021,,,,Y,,1,,,1,,,1,1,,1,,1,,1,,1,1,1,1,1,,1,1,1,1,,,1,1
+150,Wuchan Zhongda Group,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,Seven & I Holdings, NZ RE100,Retail,Asia,Y,2020,2050,N,Removed,,,No,,01/03/2021,2021,N,,,N,,,,,,,,C,group store operations,Net Zero emissions,C,2050,2019,,,,U,,,,,,,,1,1,,,,,,,1,1,1,,1,,,1,,,1,,,,
+152,Albertsons, NZ SBT,Retail,North America,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/04/2022,2022,N,,,N,,,,,,,,C,Scope 1 and 2,Net Zero,C,2040,2022,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+153,ENEOS Holdings,CN,Oil and gas,Asia,N,,,N,,,,,,,,"C, V","Scope 1 and Scope 2, Scope 3",Carbon Neutrality,C,2040,2020,V,2050,2020,Y,,I,,,I,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+154,Bank of Communications,,Financial services,Asia,N,,,N,,,,,,,,G,Scope 1 and 2,carbon neutral,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+155,Energy Transfer,,Oil and gas,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+156,U.S. Postal Service,,Transportation and logistics,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+157,Jiangxi Copper,,Metals and mining,Asia,N,,,N,,,,,,,,G,undefined,carbon neutral,G,2060,2021,,,,,,N,,,N,,,,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+158,People's Insurance Co. of China,,Financial services,Asia,N,,,N,,,,,,,,G,undefined,carbon neutral,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+159,Boeing,CN,Aerospace and defense,North America,N,,,N,,,,,,,,C,scope 1 and 2 GHG emissions,mitigated,C,2020,2020,,,,Y,2024,N,,,N,,,,,,,C,1,,,1,,,,,,,,,,,,,1,1,1,1,,1,1,1,1,,,,
+160,China North Industries Group,,Aerospace and defense,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+161,Pacific Construction Group,,Engineering and construction,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+162,Kia, NZ RE100,Automotive,Asia,Y,2022,2040,N,,,,,,,,I,,,I,,,,,,,,V,"all stages from supply and manufacturing to logistics, use, and disposal",Net Zero emissions,V,2045,2019,,,,Y,,,,,,,,1,1,,,,,,,1,1,1,,1,1,,1,,,1,,,1,1
+163,Sysco, SBT,Retail,North America,N,,,Y,Targets Set,Well-below 2Â°C,2030,No,,01/08/2022,2022,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+164,Dai-ichi Life Holdings, NZ,Financial services,Asia,N,,,N,,,,,,,,I,,,I,,,,,,,,V,"operations (scope 1, 2, and 3 eclu. Cat.15) and investment portfolio (scope 3 cat. 15)",Net Zero,V,2050,2021,,,,U,Y,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+165,Pertamina,,Oil and gas,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,G,Scope 1 and 2  ,Net Zero,G,2060,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+166,Vinci,CN SBT,Engineering and construction,Europe,N,,,Y,Targets Set,Well-below 2Â°C,2030,No,,01/04/2022,2022,C,direct scope of business activities,carbon neutrality,C,2050,2020,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+167,Petronas, NZ,Oil and gas,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 and Scope 2,Net Zero,C,2050,2020,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,,
+168,Toronto-Dominion Bank,CN NZ RE100,Financial services,North America,Y,2016,2017,N,,,,,,,,C,"1,2 + some of 3",became carbon neutral,C,2010,2010,,,,Y,2023,C,"Scope 1, 2 and 3",Net Zero,C,2050,2019,,,,Y,,1,,,1,,,1,1,,,,,1,,,1,1,1,1,1,,1,1,1,1,,,,
+169,Lukoil, NZ,Oil and gas,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 and 2,Net-Zero greenhouse gas emissions,C,2050,2023,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,,
+170,Shaanxi Coal & Chemical Industry,,Metals and mining,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,U,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+171,Shenghong Holding Group,,Chemicals,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+172,BASF, NZ,Chemicals,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,C,"scope 1, 2, and 3.1 (partial scope 3)",Net-Zero CO2Â emissions,C,2050,2021,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+173,China Poly Group,,Real estate,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+174,Groupe BPCE,CN,Financial services,Europe,N,,,N,,,,,,,,F,"financing, proprietary investment, and insurance portfolios",carbon neutrality,F,2050,2021,,,,Y,,I,,,I,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+175,Shandong Weiqiao Pioneering Group, NZ,Household and personal products,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,C,own operations,Net Zero emissions,C,2055,2022,,,,U,N,,,,,,,,1,,,,,,,,,1,,,,,1,,,,,,,
+176,JBS, NZ,"Food, beverages and agriculture",Latin America,N,,,N,Removed,,,No,,01/06/2021,2021,N,,,N,,,,,,,,V,operations and value chain,Net Zero ghg emissions,V,2040,2021,,,,Y,Y,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+177,Alimentation Couche-Tard,CN,Retail,North America,N,,,N,,,,,,,,C,scope 1 and 2,carbon neutral,C,2030,2024,,,,Y,2024,N,,,N,,,,,,,Y,,1,,1,,,,,,,,,,,,,1,1,1,1,,1,,1,1,,,,
+178,State Bank of India,CN NZ,Financial services,Asia,N,,,N,,,,,,,,C,Scope 1 and 2,Carbon Neutral,C,2030,2018,,,,Y,2024,V,"Scope 1, 2 and 3",Net Zero,V,2055,2024,,,,U,,,1,,1,,,,1,,,,,,,,,1,1,1,1,,1,,1,1,,,,1
+179,China Merchants Bank,,Financial services,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+180,Oil & Natural Gas,,Metals and mining,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+181,Guangzhou Automobile Industry Group,CN,Automotive,Asia,N,,,N,,,,,,,,C,undefined,Carbon Neutrality,C,2050,2021,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+182,UBS Group, NZ RE100,Financial services,Europe,Y,2015,2025,N,,,,,,,,N,,,N,,,,,,,,C,"scope 1 and 2, and specified scope 3 activities",Net Zero,C,2050,2022,,,,Y,,,,,,,,1,1,,,,,,1,,1,1,,1,1,,1,,1,1,,,,
+183,Airbus, NZ SBT,Aerospace and defense,Europe,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/02/2023,2023,N,,,N,,,,,,,,C,undefined,Net Zero,C,2050,2020,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+184,Toyota Tsusho, NZ SBT,Financial services,Asia,N,,,N,Committed,,2030,No,,01/09/2023,2023,I,,,I,,,,,,,,C,scope 1 and 2,carbon neutrality (but more in line with NZ definition),C,2050,2021,,,,R,Y,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+185,Zhejiang Geely Holding Group,CN,Automotive,Asia,N,,,N,,,,,,,,"C, V","operations, entire value chain",carbon neutrality,C,2030,2021,V,2045,2021,U,2024,N,,,N,,,,,,,,,1,,1,,,,,,,,,,,,,1,1,1,,,1,,1,1,,,,
+186,Taiwan Semiconductor Manufacturing, NZ,Industrial goods,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,C,undefined,Net Zero emissions,C,2050,2021,,,,U,Y,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,,
+187,XMXYG,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+188,RTX, NZ,Aerospace and Defense,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C,commercial aviation,Net Zero carbon emissions,C,2050,2021,,,,Y,V,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+189,Itau Unibanco Holding, NZ,Financial services,Latin America,N,,,N,,,,,,,,I,,,I,,,,,,,,V,"Scopes 1, 2 and 3",Net Zero,V,2050,2021,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+190,ArcelorMittal,CN NZ,Metals and mining,Europe,N,,,N,Removed,,,No,,01/02/2022,2022,C,Scope 1 and 2,Carbon Neutral ,C,2050,2020,,,,Y,,C,Scope 1 and 2,Net Zero,C,2050,2020,,,,Y,,,,1,1,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+191,General Electric,CN NZ,Industrial goods,North America,N,,,N,,,,,,,,C,facilities and operations,Carbon Neutral,C,2030,2020,,,,U,2022,V,"Scope 1, 2 and 3",Net Zero,V,2050,2020,,,,Y,,,1,,1,,,1,1,,,,,,,,,1,1,1,1,,1,,1,1,,,1,1
+192,Beijing Automotive Group,,Automotive,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+193,Lockheed Martin,,Aerospace and defense,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+194,Koc Holding,CN,Energy and utilities,Asia,N,,,N,,,,,,,,C,scope 1 and 2,carbon neutral,C,2050,2021,,,,U,,N,,,N,,,,,,,Y,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+195,American Express,CN NZ SBT RE100,Financial services,North America,Y,2020,2025,N,Committed,,2030,No,,01/09/2021,2021,C,"operations - scope 1, 2 and partial 3",carbon neutral,C,2018,2018,,,,Y,2023,V,undefined but SBTi approved,Net Zero,V,2035,2021,,,,U,,1,,,1,,,1,1,,1,,1,,1,,1,1,1,1,1,,1,1,1,1,,,1,1
+196,Hitachi,CN SBT,Industrial goods,Asia,N,,,Y,Targets Set,1.5Â°C,2030,Yes,,01/12/2020,2020,"C, V","scope 1 and 2, value chain",Carbon Neutrality,C,2030,2020,V,2050,2020,Y,2023,N,,,N,,,,,,,,,1,,1,,,,,,1,,1,,,,,1,1,1,1,,1,,1,1,,,,
+197,Roche Group, NZ,Health care and pharmaceuticals,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,C,scope 1 & 2 (own operations and purchased energies) ,achieve Net Zero,C,2050,2022,,,,N,V,,,,,,,1,1,,,,,,,,,1,,1,,1,1,,,1,,,,
+198,Wilmar International, SBT,"Food, beverages and agriculture",Asia,N,,,N,Committed,,2030,Yes,,01/10/2022,2022,N,,,N,,,,,,,,N,,,N,,,,,,,N,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+199,Caterpillar,,Industrial goods,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+200,Banco Bilbao Vizcaya Argentaria,CN NZ SBT,Financial services,Europe,N,,,N,Committed,,2030,No,,01/01/2018,2018,C,scope 1 and 2,carbon neutral,C,2020,2020,,,,Y,2024,V,direct and indirect emissions,zero net emissions,V,2050,2021,,,,Y,,1,,,1,,,1,1,,1,,1,,,,,1,1,1,1,,1,1,1,1,,,1,1
+201,Korea Electric Power,,Energy and utilities,Asia,N,,,N,,,,,,,,G,undefined,carbon neutral,G,2050,2022,,,,U,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202,MetLife,CN NZ SBT,Financial services,North America,N,,,N,Committed,,2030,No,,01/04/2016,2016,C,"global owned and leased offices, our global vehicle fleet (Scope 1 and 2 emissions) and employee business travel (Scope 3 Category 6).",carbon neutral,C,2016,2016,,,,Y,2023,C+F,global operations and General Account investment portfolio,Net Zero,C+F,2050,2022,,,,Y,,1,,,1,,,1,1,,1,,1,,,,,1,1,1,1,,1,1,1,1,,,1,1
+203,AEON, NZ SBT RE100,Retail,Asia,Y,2018,2030,Y,Targets Set,1.5Â°C,2030,Yes,,01/08/2021,2021,N,,,N,,,,,,,,C,our stores,Net Zero,C,2040,2021,,,,Y,,,,,,,,1,1,,1,,1,,1,,1,1,,1,1,,1,,1,1,,,,
+204,Lloyds Banking Group, NZ RE100,Financial services,Europe,Y,2019,2020,N,,,,,,,,N,,,N,,,,,,,,"C, F",operations,Net Zero,C,2030,2021,F,2050,2021,Y,,,,,,,1,,1,,,,,1,,,1,1,1,1,1,,1,1,1,1,,,1,1
+205,Deutsche Bank, NZ RE100,Financial services,Europe,Y,2022,2025,N,,,,,,,,N,,,N,,,,,,,,V,"(Scope 1 and 2); its Supplychain (Scope 3, Category 1–14); and emissions arising from financing its clients’ net-zero transition (Scope 3, Category 15).",Net Zero,V,2050,2021,,,,Y,,,,,,,,1,1,,,,,,1,,1,1,,1,1,,1,,1,1,,,1,1
+206,China Vanke,,Real estate,Asia,N,,,N,,,,,,,,G,undefined,carbon neutral,G,2060,2021,,,,,,N,,,N,,,,,,,U,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+207,HCA Healthcare, NZ,Health care and pharmaceuticals,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C,scope 1 and 2,Net-Zero GHG emissions,C,2050,2023,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,,
+208,Sumitomo Mitsui Financial Group, NZ,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,"C, F","groupwide operation, investment and loan portfolio",Net Zero emissions,C,2030,2020,F,2050,2020,Y,,,,,,,1,,1,,,,,,,,,1,1,1,1,,1,,1,1,,,1,1
+209,LG Electronics,CN SBT RE100,Industrial goods,Asia,Y,2023,2050,Y,Targets Set,1.5Â°C,2030,No,,01/06/2023,2023,C,scope 1 and 2,carbon neutral,C,2030,2019,,,,Y,2023,N,,,N,,,,,,,,,1,,1,,,,,,1,,1,,,1,1,1,1,1,1,,1,,1,1,,,,
+210,Unilever, NZ SBT RE100,Household and personal products,Europe,Y,2015,2030,Y,Targets Set,1.5Â°C,2030,No,,01/04/2024,2024,N,,,N,,,,,,,,V,value chain,Net Zero emissions,V,2039,2022,,,,N,,,,,,,,1,1,,1,,1,,1,,1,1,,1,,1,1,,1,1,,,1,1
+211,Accenture, NZ SBT RE100,Financial services,Europe,Y,2019,2023,Y,Targets Set,1.5Â°C,2030,Yes,2040,01/06/2024,2024,N,,,N,,,,,,,,V,"Scope 1, 2 and 3",Net Zero,V,2040,2020,,,,Y,,,,,,,,1,1,,1,,1,1,,,1,1,1,1,1,,1,1,1,1,,,1,1
+212,Barclays, NZ RE100,Financial services,Europe,Y,2019,2025,N,,,,,,,,N,,,N,,,,,,,,V,"scope 1, 2 and 3",Net Zero ,V,2050,2020,,,,U,,,,,,,,1,1,,,,,,1,,1,1,,1,,,1,,1,1,,,1,1
+213,Jinneng Holding Group,,Metals and mining,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+214,Aluminum Corp. of China,,Metals and mining,Asia,N,,,N,,,,,,,,G,Scope 1 and 2,Carbon Neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+215,Munich Re Group,CN NZ,Financial services,Europe,N,,,N,,,,,,,,C,operations,carbon neutral,C,2015,2015,,,,Y,2024,"C, F",financed emissions,Net-Zero emissions,C,2030,2020, F,2050,2020,Y,Y,1,,,1,,1,,1,,,,,,,,,1,1,1,1,,1,1,1,1,,,1,1
+216,Sberbank,CN,Financial services,Asia,N,,,N,,,,,,,,C,operations,climate neutral,C,2030,2022,,,,Y,2022,N,,,N,,,,,,,,,1,,1,,,,,,,,,,,,,1,1,1,1,,1,,1,1,,,,
+217,Banco do Brasil,CN SBT,Financial services,Latin America,N,,,N,Committed,,2030,Yes,,01/01/2021,2021,"C, F","scope 1 and 2, financed emissions (value chain)","offsetting 100% of GHG emissions, emissions neutrality",C,2030,2023, F,2050,2023,Y,2022,N,,,N,,,,,,,Y,,1,,1,,,,,,1,,1,,,,,1,1,1,1,,1,,1,1,,,,
+218,Progressive,CN NZ,Financial services,North America,N,,,N,,,,,,,,C,Scope 1 and 2,Carbon Neutral,C,2025,2021,,,,Y,2023,C,Scope 1 and 2,Net-Zero,C,2035,2021,,,,U,,,1,,1,,,1,1,,,,,,,,,1,1,1,1,,1,,1,1,,,,
+219,IBM, NZ,Technology,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 and 2,Reach Net-Zero operational GHG emissions by 2030,C,2030,2021,,,,Y,,,,,,,1,,1,,,,,,,,,1,1,1,1,,1,,1,1,,,,
+220,Nippon Steel Corporation,CN,Metals and mining,Asia,N,,,N,,,,,,,,C,undefined,Carbon Neutral,C,2050,2021, ,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+221,Deere, SBT,Industrial goods,North America,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/10/2022,2022,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+222,Nvidia,,Technology,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223,StoneX Group,,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224,Zurich Insurance Group,CN NZ SBT RE100,Financial services,Europe,Y,2019,2022,N,Committed,,2030,No,,01/07/2019,2019,C,operations,carbon neutral,C,2014,2014,,,,Y,2023,"C, F","operations, investment portfolio",Net Zero,C,2030,2021,F,2050,2021,U,,1,,,1,,1,,1,,1,,1,1,,,1,1,1,1,1,,1,1,1,1,,,1,1
+225,Bouygues, SBT,Engineering and construction,Europe,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/02/2022,2022,N,,,N,,,,,,,,N,,,N,,,,,,,V,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+226,Mizuho Financial Group,CN NZ,Financial services,Asia,N,,,N,,,,,,,,C,Scope 1 and 2 emissions ,Carbon neutral ,C,2030,2022,,,,N,2023,F,financed emissions,Net Zero,F,2050,2022,,,,N,,,1,,1,,,1,1,,,,,,,,,1,1,1,,1,1,,1,1,,,1,1
+227,Daimler Truck Holding,CN,Automotive,Europe,N,,,N,,,,,,,,"C, V","production worldwide, entire value chain",carbon neutral on balance,C,2039,2021,V,2050,2021,U,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+228,ING Group,CN NZ SBT RE100,Financial services,Europe,Y,2015,2020,N,Committed,,2030,No,,01/06/2015,2015,C,operations,carbon neutral,C,2007,2007,,,,Y,2023,F,portfolio,Net Zero,F,2050,2021,,,,Y,,1,,,1,,,1,1,,1,,1,1,,,1,1,1,1,1,,1,1,1,1,,,1,1
+229,Merck,CN SBT,Health care and pharmaceuticals,North America,N,,,Y,Targets Set,1.5Â°C,2030,Yes,,01/09/2021,2021,"C, V","Scope 1 and 2, Scope 1, 2 and 3",carbon neutral operations,C,2025,2021,V,2040,2021,Y,2023,N,,,N,,,,,,,,,1,,1,,,,,,1,,1,,,,,1,1,1,1,,1,,1,1,,,,
+230,Bunge, SBT,"Food, beverages and agriculture",North America,N,,,Y,Targets Set,Well-below 2Â°C,2030,No,,01/11/2021,2021,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+231,Anheuser-Busch InBev, NZ SBT RE100,"Food, beverages and agriculture",Europe,Y,2017,2025,Y,Targets Set,1.5°C,2025,Yes,,,2018,N,,,N,,,,,,,,V,"Scope 1, 2 and 3",Net Zero,V,2040,2021,,,,Y,,,,,,,,1,1,,1,,1,,1,,1,1,,1,1,,1,,1,1,,,1,1
+232,Industrial Bank,,Financial services,Asia,N,,,N,,,,,,,,G,undefined,Carbon Peaking and Carbon Neutrality,G,2060,2020,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+233,POSCO Holdings,CN,Metals and mining,Asia,N,,,N,,,,,,,,C,undefined,carbon neutral,C,2050,2021,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+234,Panasonic Holdings, NZ SBT RE100,Industrial goods,Asia,Y,2019,2050,Y,Targets Set,1.5Â°C,2030,Yes,,01/07/2023,2023,I,,,I,,,,,,,,"C, V","Scope 1 and 2, Scope 1, 2 and 3",Net Zero,C,2030,2021,V,2050,2021,Y,,,,,,,1,,1,,1,,1,,,1,1,1,1,1,1,,1,,1,1,,,1,1
+235,ConocoPhillips, NZ,Metals and mining,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 and 2,Net Zero,C,2050,2020,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+236,Pfizer,CN NZ SBT RE100,Health care and pharmaceuticals,North America,Y,2022,2030,Y,Targets Set,1.5Â°C,2025,No,,01/04/2021,2021,V,value chain,carbon neutral,V,2030,2020,,,,Y,2024,C,operational emissions,Net Zero,C,2040,2022,,,,U,,,1,,1,,,1,1,,1,,1,,1,,1,1,1,1,1,,1,,1,1,,,,
+237,Delta Air Lines,CN NZ SBT,Transportation and Logistics,North America,N,,,Y,Targets Set,Well-below 2Â°C,2035,Yes,,01/09/2022,2022,C,global operations,carbon neutrality,C,2020,2020,,,,Y,2024,C,airline operations,Net Zero,C,2050,2021,,,,Y,,1,,,1,,,1,1,,,1,1,,,,,1,1,1,1,,1,1,1,1,,,,
+238,China Huaneng Group,,Energy and utilities,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+239,China Energy Engineering Group,,Engineering and construction,Asia,N,,,N,,,,,,,,G,undefined,carbon neutral,G,2060,2022,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+240,Dongfeng Motor,,Automotive,Asia,N,,,N,,,,,,,,G,group,carbon neutral,G,2060,2020,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+241,TD Synnex, NZ SBT,Retail,North America,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2045,01/05/2024,2024,N,,,N,,,,,,,,V,value chain,Net-Zero greenhouse gas emissions,V,2045,2021,,,,U,Y,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,1,1
+242,Publix Super Markets,,Retail,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+243,Zhejiang Hengyi Group,,Chemicals,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+244,Allstate, NZ,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 and 2 emissions,Net Zero,C,2030,2022,,,,U,,,,,,,1,,1,,,,,,,,,1,1,1,,,1,,1,1,,,,
+245,Assicurazioni Generali, NZ,Financial services,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,"C, F","operational activities, insurance portfolio",Net-Zero emissions,C,2040,2021, F,2050,2021,R,Y,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+246,Cisco Systems, NZ SBT RE100,Telecommunications and media,North America,Y,2023,2030,Y,Targets Set,1.5Â°C,2030,Yes,2040,01/07/2022,2022,N,,,N,,,,,,,,V,value chain,Net Zero,V,2040,2021,,,,U,,,,,,,,1,1,,1,,1,,1,,1,1,,1,,,1,,1,1,,,1,1
+247,Repsol, NZ,Oil and gas,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,C+F,activities and investments,Net Zero emissions,C+F,2050,2019,,,,Y,Y,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+248,Lenovo Group, NZ SBT,Technology,Asia,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2050,01/01/2023,2023,N,,,N,,,,,,,,V,"Scope 1, 2 and 3",Net Zero,V,2050,2023,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+249,HBIS Group,CN,Metals and mining,Asia,N,,,N,,,,,,,,C,undefined,Carbon Neutral,C,2050,2021, ,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+250,Contemporary Amperex Technology,CN,Automotive,Asia,N,,,N,,,,,,,,"C, V","Scope 1 and 2, Scope 1, 2 and 3",Carbon Neutrality,C,2025,2023,V,2035,2023,U,2023,N,,,N,,,,,,,,,1,,1,,,,,,,,,,,,,1,1,1,,,1,,1,1,,,,
+251,Renault, NZ SBT,Automotive,Europe,N,,,Y,Targets Set,Well-below 2Â°C/2Â°C,2030,No,,01/03/2021,2021,I,,,I,,,,,,,,V,"scope 1, 2 and 3",Net Zero,V,2050,2021,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+252,Banco Bradesco,CN NZ,Financial services,Latin America,N,,,N,,,,,,,,C,"operations, scope 3 operational emissions",offset 100%/neutralized,C,2006,2006,C,2019,2019,Y,2024,C+F,operations and portfolios,Net Zero carbon emissions,C+F,2050,2021,,,,Y,,1,,,1,,,1,1,,,,,,,,,1,1,1,1,,1,1,1,1,,,1,1
+253,China Electronics Technology Group,,Aerospace and defense,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+254,Nationwide,CN NZ,Financial services,North America,N,,,N,,,,,,,,C,scope 1 and 2 emissions,carbon neutral,C,2020,2022,,,,Y,2023,V,"scopes 1, 2 and 3",Net Zero,V,2050,2021,,,,Y,,1,,,1,,,1,1,,,,,,,,,1,1,1,1,,1,1,1,1,,,1,1
+255,Charter Communications,CN,Telecommunications and media,North America,N,,,N,,,,,,,,C,operations,carbon neutral,C,2035,2020,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+256,State Power Investment,,Energy and utilities,Asia,N,,,N,,,,,,,,G,corporate,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+257,Edeka Zentrale, NZ SBT,Retail,Europe,N,,,N,Committed,,2030,Yes,,01/02/2022,2022,N,,,N,,,,,,,,V,"Scope 1, 2 and 3","Net Zero, Upstream, Downstream, Electricity consumption",V,2045,2022,,,,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,1,1
+258,Bharat Petroleum, NZ,Oil and gas,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 and 2,Net Zero,C,2040,2021,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+259,AbbVie, NZ SBT,Health care and pharmaceuticals,North America,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/04/2023,2023,N,,,N,,,,,,,,C,Scope 1 and 2,Net Zero ,C,2050,2021,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+260,New York Life Insurance, NZ,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C+F,investments and operations,Net-Zero carbon emissions,C+F,2050,2021,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+261,Intel, NZ RE100,Industrial goods,North America,Y,2020,2030,N,,,,,,,,N,,,N,,,,,,,,C,scope 1 and 2,Net-Zero greenhouse gas emissions,C,2040,2022,,,,Y,Y,,,,,,,1,1,,,,,,1,,1,1,,1,1,,1,,1,1,,,,
+262,TJX, NZ,Retail,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C,scope 1 and 2,Net Zero GHG emissions,C,2040,2022,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+263,Novartis,CN NZ SBT RE100,Health care and pharmaceuticals,Europe,Y,2021,2025,Y,Targets Set,Well-below 2Â°C,2030,Yes,2040,01/05/2022,2022,V,"value chain (Scopes 1, 2 and 3)",carbon neutral,V,2030,2020,,,,U,2023,V,value chain,Net-Zero carbon emissions,V,2040,2020,,,,Y,,,1,,1,,,1,1,,1,,1,,1,,1,1,1,1,1,,1,,1,1,,,1,1
+264,Rio Tinto Group, NZ,Metals and mining,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,C,operations,Net Zero emissions,C,2050,2020,,,,U,Y,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,,
+265,Tsingshan Holding Group,,Metals and mining,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+266,Prudential Financial,CN NZ,Financial services,North America,N,,,N,,,,,,,,C,Scope 1 and 2,Carbon Neutral,C,2040,2021,,,,R,2024,C,Scope 1 and 2,Net Zero,C,2050,2021,,,,R,,,,1,1,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+267,COSCO Shipping,CN NZ SBT,Transportation and logistics,Asia,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2050,01/01/2023,2023,C,Scope 1 and Scope 2,carbon neutrality ,C,2060,2022,,,,U,,V,SBTi approved so value chain,net zero,V,2050,2023,,,,U,,,,,1,,,1,1,,1,,1,,,,,1,,,,,1,,1,1,,,1,1
+268,BHP Group, NZ,Metals and mining,Oceania,N,,,N,,,,,,,,N,,,N,,,,,,,,C,operations,Net-Zero,C,2050,2020,,,,Y,Y,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+269,HP,CN NZ SBT RE100,Technology,North America,Y,2016,2025,Y,Targets Set,1.5Â°C,2025,Yes,,01/08/2022,2022,C,operations,carbon neutral,C,2025,2021,,,,Y,2023,V,value chain,Net Zero,V,2040,2021,,,,Y,Y,,1,,1,,,1,1,,1,,1,,1,,1,1,1,1,1,,1,,1,1,,,1,1
+270,United Airlines Holdings, NZ SBT,Transportation and logistics,North America,N,,,Y,Targets Set,Well-below 2Â°C,2035,No,,01/06/2023,2023,N,,,N,,,,,,,,V,"scope 1, 2 and 3",reduce 100% of emissions,V,2050,2020,,,,N,,,,,,,,1,1,,,1,1,,,,,1,,1,,1,1,,,1,,,1,1
+271,Tata Motors, SBT RE100,Automotive,Asia,Y,2016,2030,N,Committed,,2030,No,,01/06/2022,2022,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,1,,1,,,,,,1,,1,1,,,,
+272,Performance Food Group, NZ,Retail,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,V,"operational and value chain greenhouse gas
+emissions",Net Zero,V,2050,2021,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+273,Iberdrola,CN NZ SBT,Energy and utilities,Europe,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2039,01/11/2022,2022,C,plants (scope 1 and 2),carbon neutral,C,2030,2022,,,,Y,2024,V,full value chain,Net Zero,V,2040,2022,,,,Y,,,1,,1,,,1,1,,1,,1,,,,,1,1,1,1,,1,,1,1,,,1,1
+274,Deutsche Bahn,CN SBT,Transportation and logistics,Europe,N,,,Y,Targets Set,2Â°C,2030,Yes,,01/07/2020,2020,C,undefined,Climate Neutral,C,2040,2021,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+275,Idemitsu Kosan,CN,Oil and gas,Asia,N,,,N,,,,,,,,C,undefined,Carbon Neutrality,C,2050,2020,,,,Y,,I,,,I,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+276,Tyson Foods, NZ SBT,"Food, beverages and agriculture",North America,N,,,Y,Targets Set,2Â°C,2030,No,,01/09/2018,2018,N,,,N,,,,,,,,V,"Scopes 1, 2 and 3",Net-Zero GHG emissions,V,2050,2021,,,,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,1,1
+277,Midea Group,,Industrial goods,Asia,N,,,N,,,,,,,,G,group,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+278,American Airlines Group, NZ SBT,Transportation and Logistics,North America,N,,,Y,Targets Set,Well-below 2Â°C,2035,No,,01/04/2022,2022,N,,,N,,,,,,,,C,undefined,Net Zero,C,2050,2020,,,,Y,,,,,,,,1,1,,,1,1,,,,,1,,1,1,,1,,,1,,,,
+279,China United Network Communications,,Telecommunications and media,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+280,Liberty Mutual Insurance Group,,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+281,Bank of Nova Scotia,CN NZ,Financial services,North America,N,,,N,,,,,,,,C,banking alliance operations,carbon neutrality,C,2030,2022,,,,Y,2023,F,financed emissions,Net Zero,F,2050,2022,,,,R,,,1,,1,,,1,1,,,,,,,,,1,1,1,1,,1,,1,1,,,1,1
+282,Volvo,CN SBT,Automotive,Europe,N,,,Y,Targets Set,1.5Â°C/Well-below 2Â°C,2030,No,,01/09/2020,2020,C,company,Climate Neutral,C,2040,2020,,,,U,,I,,,I,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+283,Intesa Sanpaolo,CN NZ SBT,Financial services,Europe,N,,,N,Committed,,2030,Yes,,01/03/2022,2022,C,own emissions,carbon neutral,C,2030,2021,,,,U,2024,C+F,own emissions + loans and investments portfolios,Net Zero,C+F,2050,2021,,,,U,,,1,,1,,,1,1,,1,,1,,,,,1,1,1,,,1,,1,1,,,1,1
+284,Saint-Gobain,CN NZ SBT,Industrial goods,Europe,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2050,01/09/2022,2022,V,"scopes 1, 2 and 3",carbon neutrality,V,2050,2019,,,,U,,V,all scopes - sbt,Net Zero,V,2050,2022,,,,U,,,,1,1,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,1,1
+285,Shaanxi Yanchang Petroleum (Group),,Metals and mining,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+286,Bayer,CN NZ SBT,Health care and pharmaceuticals,Europe,N,,,Y,Targets Set,1.5Â°C,2029,Yes,,01/08/2020,2020,C,operations,climate neutral,C,2030,2019,,,,Y,2023,V,entire value chain,Net Zero,V,2050,2023,,,,Y,,,1,,1,,,1,1,,1,,1,,,,,1,1,1,1,,1,,1,1,,,1,1
+287,Tokio Marine Holdings,CN NZ,Financial services,Asia,N,,,N,Removed,,,No,,01/03/2018,2018,C,operations,Carbon Neutral,V,2009,2021,,,,Y,2023,C,own operations and investees,Net-Zero emissions,C,2050,2022,,,,U,,1,,,1,,,1,1,,,,,,,,,1,1,1,1,,1,1,1,1,,,,
+288,Nike, NZ SBT RE100,Household and personal products,North America,Y,2015,2025,Y,Targets Set,1.5Â°C,2030,No,,01/09/2019,2019,N,,,N,,,,,,,,V,"scopes 1,2,3",Net Zero,V,2050,2019,,,,Y,V,,,,,,,1,1,,1,,1,,1,,1,1,,1,1,,1,,1,1,,,1,1
+289,Maersk Group, NZ SBT,Transportation and logistics,Europe,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2040,01/02/2024,2024,N,,,N,,,,,,,,V,"Scope 1, 2 and 3",Net Zero,V,2040,2022,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+290,Phoenix Pharma, NZ,Retail,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,V,"Scope 1, 2 and 3",Net Zero,V,2050,2023,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+291,Greenland Holding Group,,Real estate,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+292,Shanghai Pudong Development Bank,,Financial services,Asia,N,,,N,,,,,,,,G,undefined,carbon neutral,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+293,Louis Dreyfus,,"Food, beverages and agriculture",Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+294,Bank of Montreal,CN NZ,Financial services,North America,N,,,N,,,,,,,,C,operations,carbon neutrality,C,2010,2010,,,,Y,2023,F,financed emissions,Net Zero,F,2050,2021,,,,Y,,1,,,1,,,1,1,,,,,,,,,1,1,1,1,,1,1,1,1,,,1,1
+295,ZF Friedrichshafen,CN SBT,Automotive,Europe,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/02/2022,2022,V,all scopes,carbon neutral,V,2040,2022,,,,U,,I,,,I,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+296,KB Financial Group, NZ SBT RE100,Financial services,Asia,Y,2021,2040,Y,Targets Set,1.5Â°C,2030,No,,01/10/2021,2021,N,,,N,,,,,,,,"C, F","Internal emissions, Financed emissions",Net Zero,C,2040,2023, F,2050,2023,Y,,,,,,,,1,1,,1,,1,,,1,1,1,,1,1,,1,,1,1,,,1,1
+297,Sanofi,CN NZ SBT RE100,Health care and pharmaceuticals,Europe,Y,2020,2030,Y,Targets Set,1.5Â°C,2030,Yes,2045,01/03/2023,2023,C,operations and partial value chain,Carbon Neutral,C,2030,2021,,,,Y,2023,V,"Scope 1, 2 and 3",Net Zero,V,2045,2021,,,,Y,,,1,,1,,,1,1,,1,,1,,1,,1,1,1,1,1,,1,,1,1,,,1,1
+298,Marubeni, NZ,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,V,"value chain (scope 1, 2 and investments)",Net Zero ghg emissions,V,2050,2021,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+299,Oracle, NZ,Technology,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C  ,undefined,Net Zero,C  ,2050,2021,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,,
+300,Jinchuan Group,,Metals and mining,Asia,N,,,N,,,,,,,,G,undefined,Carbon Peaking and Carbon Neutrality ,G,2060,2023,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301,Swiss Re,CN NZ SBT RE100,Financial services,Europe,Y,2014,2020,N,Committed,,2030,Yes,,01/09/2019,2019,C,operational,Greenhouse Neutral ,C,2003,2003,,,,Y,2023,"C, F","operations, re/insurance business",ner-zero emissions,C,2030,2021,F,2050,2021,Y,,1,,,1,,1,,1,,1,,1,1,,,1,1,1,1,1,,1,1,1,1,,,1,1
+302,Chubb,,Financial services,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+303,Enterprise Products Partners,,Oil and gas,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+304,Capital One Financial,CN RE100,Financial services,North America,Y,2018,2021,N,,,,,,,,C,Scope 1 and 2 emissions and business travel emissions in Scope 3,carbon neutral,C,2030,2017,,,,N,2023,N,,,N,,,,,,,,,1,,1,,,,,,,,,1,,,1,1,1,1,,1,1,1,1,1,,,,
+305,Denso,CN SBT,Automotive,Asia,N,,,Y,Targets Set,1.5Â°C,2025,No,,01/08/2023,2023,C,Manufacturing activities,Carbon Neutrality,C,2026,2021,,,,Y,2023,N,,,N,,,,,,,,,1,,1,,,,,,1,,1,,,,,1,1,1,1,,1,,1,1,,,,
+306,HDFC Bank,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+307,China National Building Material Group, NZ,Industrial goods,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,C,undefined,Net Zero,C,2050,2021,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,,
+308,Veolia Environnement, NZ SBT,Energy and utilities,Europe,N,,,Y,Targets Set,Well-below 2Â°C,2034,Yes,,01/12/2021,2021,N,,,N,,,,,,,,V,"scope 1, 2 and 3",Net Zero ,V,2050,2021,,,,Y,,,,,,,,1,1,,,1,1,,,,,1,,1,1,,1,,,1,,,1,1
+309,China State Shipbuilding,,Transportation and logistics,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310,Vodafone Group, NZ SBT RE100,Telecommunications and media,Europe,Y,2018,2025,Y,Targets Set,1.5Â°C,2030,Yes,2040,01/05/2024,2024,N,,,N,,,,,,,,"C, V","Scope 1 and 2, Scope 1, 2 and 3",Net Zero,C,2030,2020,V,2045,2020,U,,,,,,,1,,1,,1,,1,,1,,1,1,1,1,,,1,,1,1,,,1,1
+311,Plains GP Holdings,,Oil and gas,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+312,Landesbank Baden-Wurttemberg,CN NZ,Financial services,Europe,N,,,N,,,,,,,,C,business operations,carbon neutrality,C,2035,2020,,,,U,,V,value chain,Net Zero,V,2050,2021,,,,U,,,,1,1,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+313,EXOR Group,CN NZ,Financial services,Europe,N,,,N,,,,,,,,C,undefined,carbon neutrality,C,2022,2021,,,,Y,2024,C,undefined,Net Zero emissions,C,2025,2021,,,,Y,,1,,,1,,1,,1,,,,,,,,,1,1,1,1,,1,1,1,1,,,,
+314,Jingye Group,,Metals and mining,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+315,UniCredit Group, NZ,Financial services,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,"C, F",portfolio,Net Zero,C,2030,2021,F,2050,2021,Y,,,,,,,1,,1,,,,,,,,,1,1,1,1,,1,,1,1,,,1,1
+316,Energie Baden-Wurttemberg,CN SBT,Energy and utilities,Europe,N,,,Y,Targets Set,1.5°C,2035,No,,,2023,C,Scope 1 and 2,Climate Neutral,C,2035,2020,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,,1,1,,,,,1,,1,1,,1,,,1,,,,
+317,Tokyo Electric Power,CN NZ,Energy and utilities,Asia,N,,,N,,,,,,,,C,supply of energy,Carbon Neutral,C,2050,2021,,,,U,,C,supply of energy,Net Zero,C,2050,2019,,,,Y,,,,1,1,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+318,Sumitomo,CN,Financial services,Asia,N,,,N,,,,,,,,V,"scope 1, 2 and 3",carbon neutrality,V,2050,2021,,,,Y,,I,,,I,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+319,World Kinect,,Energy and utilities,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+320,Orange, NZ SBT,Telecommunications and media,Europe,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2040,01/06/2024,2024,N,,,N,,,,,,,,V,"scope 1 , 2 and 3",Net Zero carbon,V,2040,2019,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+321,HD Hyundai,,Oil and gas,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+322,Ingka Group,CN NZ SBT RE100,Retail,Europe,Y,2014,2025,Y,Targets Set,1.5Â°C,2030,Yes,2050,01/06/2024,2024,V,value chain,climate positive,V,2030,2021,,,,N,2023,V,"scope 1, 2 and 3 emissions",Net-Zero,V,2050,2015,,,,N,,,1,,1,,,1,1,,1,,1,,1,,1,1,1,1,,1,1,,1,1,,,1,1
+323,ANZ Group Holdings, NZ RE100,Financial services,Oceania,Y,2019,2025,N,,,,,,,,N,,,N,,,,,,,,C,scope 1 and 290& reduction and financed emissions,Net Zero,C,2050,2021,,,,U,,,,,,,,1,1,,,,,,1,,1,1,,1,,,1,,1,1,,,,
+324,AIG, NZ,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C+F,operations and underwriting and investments portfolios,Net Zero GHG emissions,C+F,2050,2022,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+325,SoftBank Group,CN NZ SBT RE100,Telecommunications and media,Asia,Y,2024,2040,Y,Targets Set,1.5Â°C,2030,Yes,2050,01/06/2024,2024,C,Scope 1 and 2,Carbon Neutral,C,2030,2020,,,,Y,2023,V,"Scope 1, 2 and 3",Net Zero,V,2050,2023,,,,U,,,1,,1,,,1,1,,1,,1,,,1,1,1,1,1,1,,1,,1,1,,,1,1
+326,Sinomach,,Industrial goods,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+327,Talanx,CN NZ,Financial services,Europe,N,,,N,,,,,,,,V,"scope 1, 2 and 3",carbon neutral,V,2030,2019,,,,Y,2023,"C, F","global operations, underwriting and investments",Net Zero emissions,C,2030,2022,F,2050,2022,Y,,,1,,1,,1,,1,,,,,,,,,1,1,1,1,,1,,1,1,,,1,1
+328,America Movil, SBT,Telecommunications and media,North America,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/08/2020,2020,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+329,AstraZeneca, NZ SBT RE100,Health care and pharmaceuticals,Europe,Y,2016,2025,Y,Targets Set,1.5Â°C,2026,Yes,2045,01/10/2021,2021,N,,,N,,,,,,,,V,"value chain (Scopes 1, 2 and 3)",Net Zero,V,2045,2020,,,,Y,,,,,,,,1,1,,1,,1,,1,,1,1,,1,1,,1,,1,1,,,1,1
+330,Zhejiang Communications Investment Group,,Transportation and logistics,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+331,China Pacific Insurance (Group),,Financial services,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+332,Coca-Cola, NZ SBT,"Food, beverages and agriculture",North America,N,,,Y,Targets Set,2Â°C,2030,No,,01/09/2019,2019,N,,,N,,,,,,,,V,"Scopes 1, 2 and 3",Net Zero emissions,V,2050,2021,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+333,TIAA, NZ,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,"C, V","Scope 1 and 2, Scope 1,2 and 3",Net Zero,C,2040,2021,V,2050,2021,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+334,Caixa Economica Federal,,Financial services,Latin America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+335,CHS,,"Food, beverages and agriculture",North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+336,China Huadian,,Energy and utilities,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+337,Credit Mutuel Group, NZ,Financial services,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,F,bank portfolio-related emissions ,Net Zero,F,2050,2021,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+338,MS&AD Insurance Group Holdings, NZ,Financial services,Asia,N,,,N,Removed,,,No,,01/04/2016,2016,N,,,N,,,,,,,,V,"Scope 1, 2 and 3",Net Zero,V,2050,2021,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+339,Hyundai Mobis, NZ SBT RE100,Automotive,Asia,Y,2022,2040,N,Committed,,2030,Yes,,01/10/2021,2021,N,,,N,,,,,,,,"C, V","Scope 1 and 2, Scope 1, 2 and 2",Net Zero,C,2040,2021,V,2045,2021,Y,,,,,,,,1,1,,1,,1,,,1,1,1,,1,1,,1,,1,1,,,1,1
+340,Susun Construction Group,,Engineering and construction,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+341,SNCF Group,CN NZ,Transportation and logistics,Europe,N,,,N,,,,,,,,C,undefined,zero emissions,C,2035,2019,,,,U,,C,direct emissions,Zero Direct Carbon Emissions,C,2050,2024,,,,U,,,,1,1,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,,
+342,Bristol-Myers Squibb, NZ SBT,Health care and pharmaceuticals,North America,N,,,Y,Targets Set,1.5°C,2028,Yes,2050,01/07/2024,2024,N,,,N,,,,,,,,V,"Scopes 1, 2 and 3 ",Net-Zero emission,V,2050,2024,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+343,China South Industries Group,,Aerospace and defense,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+344,Continental,CN SBT RE100,Automotive,Europe,Y,2020,2040,Y,Targets Set,1.5Â°C,2030,No,,01/12/2020,2020,V,"value chain (products, operations and supply)",carbon neutral,V,2040,2020,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,1,1,1,,1,1,,1,,1,1,,,,
+345,Raizen,,Oil and gas,Latin America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+346,Dow,CN,Chemicals,North America,N,,,N,,,,,,,,V,Scopes 1+2+3 plus product benefits,Carbon Neutral,V,2050,2021,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+347,George Weston, NZ,Retail,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,"C, V","scope 1 and 2, scope 3",Net Zero carbon emissions,C,2040,2021,V,2050,2021,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+348,L'Oreal,CN NZ SBT,Household and personal products,Europe,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2050,01/05/2024,2024,C,Scope 1 and 2,carbon neutral,C,2025,2018,,,,N,2023,V,"Scope 1, 2 and 3",Net Zero,V,2050,2020,,,,U,,,1,,1,,,1,1,,1,,1,,,,,1,1,1,,1,1,,1,1,,,1,1
+349,Fomento Economico Mexicano,,"Food, beverages and agriculture",North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+350,Telefonica,CN NZ SBT RE100,Telecommunications and media,Europe,Y,2017,2030,Y,Targets Set,1.5Â°C,2030,Yes,2040,01/08/2022,2022,V,value chain,net zero emissions,V,2040,2023,,,,Y,,V,all scopes - sbt,Net Zero,V,2040,2022,,,,U,,,,1,1,,,1,1,,1,,1,,1,,1,1,,1,1,,1,,1,1,,,1,1
+351,China Minsheng Banking,,Financial services,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+352,Best Buy,CN NZ SBT,Retail,North America,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/07/2019,2019,C,operational carbon usage,carbon neutrality,C,2040,2019,,,,Y,,C,our business,Net-Zero annual carbon emissions by 2040,C,2040,2020,,,,Y,,,,1,1,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+353,Woolworths Group, NZ SBT RE100,Retail,Oceania,Y,2020,2025,Y,Targets Set,1.5Â°C,2030,Yes,,01/09/2020,2020,N,,,N,,,,,,,,C,scope 1 and 2 emissions,net positive carbon emissions,C,2050,2020,,,,Y,,,,,,,,1,1,,1,,1,,1,,1,1,,1,1,,1,,1,1,,,,
+354,Shanghai Construction Group,,Engineering and construction,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+355,LG Chem,CN NZ,Chemicals,Asia,N,,,N,Removed,,,No,,01/06/2022,2022,C,undefined,carbon growth,C,2030,2020,,,,U,2023,C,Scope 1 and 2,Net Zero,C,2050,2022,,,,Y,,,1,,1,,,1,1,,,,,,,,,1,1,1,1,,1,,1,1,,,,
+356,Thermo Fisher Scientific, NZ SBT,Industrial goods,North America,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2050,01/04/2023,2023,N,,,N,,,,,,,,V,value chain ,Net-Zero,V,2050,2021,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+357,Magna International, NZ SBT,Automotive,North America,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2050,01/04/2024,2024,N,,,N,,,,,,,,V,"Scope 1, 2 and 3",Net Zero,V,2050,2023,,,,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,1,1
+358,OMV Group, NZ,Oil and gas,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,V,"Scopes 1, 2, and 3 ",Net Zero greenhouse gas (GHG) emissions,V,2050,2024,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+359,Massachusetts Mutual Life Insurance, NZ,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,"C, F","operations, GIA",Net Zero,C,2030,2021,F,2050,2021,U,,,,,,,1,,1,,,,,,,,,1,1,1,,,1,,1,1,,,1,1
+360,USAA,,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+361,Guangzhou Municipal Construction Group,,Engineering and construction,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+362,General Dynamics,CN,Aerospace and defense,North America,N,,,N,,,,,,,,C,companywide,carbon neutral,C,2060,2024,,,,U,,N,,,N,,,,,,,,,,,1,,,,,,,,,,,,,1,,,,,1,,,,,,,
+363,Vale, NZ,Metals and mining,Latin America,N,,,N,Removed,,,No,,01/12/2019,2019,N,,,N,,,,,,,,C,undefined,Net Zero,C,2050,2021,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,,
+364,Zijin Mining Group,CN,Metals and mining,Asia,N,,,N,,,,,,,,V,value chain,carbon neutral,V,2050,2023,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+365,Travelers,CN,Financial services,North America,N,,,N,,,,,,,,C,owned operations,carbon neutral,C,2030,2021,,,,Y,2023,N,,,N,,,,,,,,,1,,1,,,,,,,,,,,,,1,1,1,1,,1,,1,1,,,,
+366,Warner Bros. Discovery,,Telecommunications and media,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+367,Canadian Imperial Bank of Commerce,CN NZ,Financial services,North America,N,,,N,,,,,,,,C,operations,carbon neutrality,C,2024,2021,,,,Y,2023,C+F,operational and financing activities,Net Zero,C+F,2050,2021,,,,Y,,,1,,1,,,1,1,,,,,,,,,1,1,1,1,,1,,1,1,,,1,1
+368,LyondellBasell Industries, NZ SBT,Chemicals,Europe,N,,,N,Committed,,2030,No,,01/02/2023,2023,N,,,N,,,,,,,,C,scope 1 and 2,Net Zero emissions,C,2050,2021,,,,Y,Y,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+369,J. Sainsbury, NZ SBT,Retail,Europe,N,,,Y,Targets Set,1.5°C,2030,Yes,2050,,2024,N,,,N,,,,,,,,"C, V","Scope 1 and 2, Scope 1,2 and 3",Net Zero,C,2035,2020,V,2050,2021,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,1,1
+370,Shenzhen Investment Holdings,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+371,Ansteel Group,,Metals and mining,Asia,N,,,N,,,,,,,,G,organization,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+372,Hanwha, NZ,Financial services,Asia,N,,,N,,,,,,,,I,,,I,,,,,,,,C,Scope 1 and 2,Net Zero,C,2050,2022,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+373,U.S. Bancorp, NZ,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C,across enterprise,Net Zero,C,2050,2021,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+374,Lufthansa Group,CN SBT,Transportation and logistics,Europe,N,,,Y,Targets Set,Well-below 2Â°C,2030,No,,01/08/2022,2022,C, flight operations,carbon neutraliy,C,2050,2023,,,,Y,2023,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,1,,1,,1,1,,,,
+375,Pegatron, NZ SBT,Industrial goods,Asia,N,,,N,Committed,,2030,Yes,,01/02/2022,2022,N,,,N,,,,,,,,C,undefined,Net Zero,C,2050,2022,,,,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+376,Abbott Laboratories, SBT,Health care and pharmaceuticals,North America,N,,,Y,Targets Set,Well-below 2Â°C,2030,No,,01/09/2022,2022,N,,,N,,,,,,,,N,,,N,,,,,,,C,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+377,ThyssenKrupp,CN SBT,Metals and mining,Europe,N,,,Y,Targets Set,Well-below 2Â°C,2030,Yes,,01/08/2019,2019,C,Scope 1 and 2,climate neutral,C,2050,2019,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+378,New Hope Holding Group,,"Food, beverages and agriculture",Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+379,KDDI,CN SBT RE100,Telecommunications and media,Asia,Y,2023,2050,Y,Targets Set,1.5Â°C,2030,No,,01/04/2022,2022,"C, V","Scope 1 and 2, Scope 1, 2 and 3",carbon neutral,C,2030,2020,V,2050,2020,Y,2023,I,,,I,,,,,,,,,1,,1,,,,,,1,,1,,,1,1,1,1,1,1,,1,,1,1,,,,
+380,China National Nuclear,,Energy and utilities,Asia,N,,,N,,,,,,,,G,undefined,carbon neutral,G,2060,2020,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+381,Taikang Insurance Group,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+382,Northrop Grumman, NZ,Aerospace and defense,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 and 2,Net Zero,C,2035,2022,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,,
+383,Jiangsu Shagang Group,,Metals and mining,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+384,Meituan,,Retail,Asia,N,,,N,,,,,,,,G,undefined,carbon neutral,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+385,Chery Holding Group,,Automotive,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+386,Inditex, NZ SBT,Retail,Europe,N,,,Y,Targets Set,1.5Â°C,2030,Yes,,01/08/2020,2020,N,,,N,,,,,,,,V,"scope 1, 2 and 3 emissions",Net-Zero ,V,2040,2023,,,,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,1,1
+387,Schneider Electric,CN NZ SBT RE100,Industrial goods,Europe,Y,2017,2030,Y,Targets Set,1.5Â°C,2030,Yes,2050,01/09/2019,2019,"C, V","operations, value chain",carbon neutral,C,2025,2019,V,2040,2019,Y,2023,V,value chain,Net Zero,V,2050,2019,,,,Y,,,1,,1,,,1,1,,1,,1,,1,,1,1,1,1,1,,1,,1,1,,,1,1
+388,Northwestern Mutual,,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+389,Dollar General,,Retail,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+390,Cenovus Energy, NZ,Metals and mining,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C,operations,Net Zero emissions,C,2050,2020,,,,U,Y,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,,
+391,ACS,CN,Engineering and construction,Europe,N,,,N,,,,,,,,C,scope 1 and 2 emissions,climate neutral,C,2045,2021,,,,U,2024,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+392,Coop Group, NZ,Retail,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,C,undefined,Net Zero,C,2050,2022,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,,
+393,Fairfax Financial Holdings,,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+394,Guangzhou Industrial Investment Holdings,,Industrial goods,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+395,PBF Energy,CN,Oil and gas,North America,N,,,N,,,,,,,,V,entire products life cycle,carbon neutrality by 2050,V,2050,2023,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+396,Standard Chartered, NZ RE100,Financial services,Europe,Y,2022,2040,N,Removed,,,No,,01/07/2018,2018,N,,,N,,,,,,,,C+F,Operations and Finannced emissions,Net Zero,C+F,2050,2021,,,,Y,,,,,,,,1,1,,,,,,,1,1,1,,1,1,,1,,,1,,,1,1
+397,Xiaomi,CN,Industrial goods,Asia,N,,,N,,,,,,,,C  ,undefined,Carbon neutral,C  ,2040,2023,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+398,Compass Group,CN NZ SBT,"Food, beverages and agriculture",Europe,N,,,Y,Targets Set,1.5°C,2030,No,,21/10/2021,2021,C,operations (scope 1 & 2),carbon neutrality,C,2030,2021,,,,Y,2023,V,global operations and value chain,Climate Net Zero,V,2050,2021,,,,Y,,,1,,1,,,1,1,,1,,1,,,,,1,1,1,1,,1,,1,1,,,1,1
+399,Meiji Yasuda Life Insurance, NZ,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,V,"Scope 1, 2 and 3",Net Zero,V,2050,2022,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+400,GSK, NZ SBT RE100,Health care and pharmaceuticals,Europe,Y,2020,2030,Y,Targets Set,1.5Â°C,2030,Yes,2045,01/11/2023,2023,N,,,N,,,,,,,,V, across our full value chain ,Net Zero greenhouse gas emissions,V,2045,2020,,,,Y,,,,,,,,1,1,,1,,1,,1,,1,1,,1,1,,1,,1,1,,,1,1
+401,Suncor Energy,,Oil and gas,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+402,Hangzhou Industrial Investment Group,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+403,Uber Technologies, NZ SBT,Technology,North America,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2040,01/04/2023,2023,N,,,N,,,,,,,,"C, V","Scope 1 and 2, Scope 1, 2 and 3",Net Zero,C,2030,2020,V,2040,2020,U,,,,,,,1,,1,,1,,1,,,,,1,1,1,,,1,,1,1,,,1,1
+404,DZ Bank,CN,Financial services,Europe,N,,,N,,,,,,,,C,group,climate-neutral,C,2050,2022,,,,Y,2023,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+405,GS Caltex,,Oil and gas,Asia,N,,,N,,,,,,,,G,Scope 1 and 2,carbon neutrality,G,2050,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+406,Suzuki Motor,CN,Automotive,Asia,N,,,N,,,,,,,,C,operations,carbon neutrality,C,2050,2023,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+407,Haier Smart Home,,Industrial goods,Asia,N,,,N,,,,,,,,G,undefined,carbon neutrality,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+408,X5 Retail Group, SBT,Retail,Asia,N,,,N,Committed,,2030,No,,01/11/2020,2020,N,,,N,,,,,,,,N,,,N,,,,,,,C,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+409,La Poste, NZ SBT,Transportation and logistics,Europe,N,,,Y,Targets Set,1.5°C,2027,Yes,2040,01/04/2024,2024,N,,,N,,,,,,,,V,SBTi approved so value chain,Net Zero,V,2040,2024,,,,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,1,1
+410,Hangzhou Iron and Steel Group,,Metals and mining,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+411,Shanghai Pharmaceuticals Holding,,Retail,Asia,N,,,N,,,,,,,,G,operations,carbon neutral,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+412,Shandong Hi-Speed Group,,Transportation and logistics,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+413,Honeywell International,CN SBT,Industrial goods,North America,N,,,Y,Targets Set,Well-below 2Â°C,2037,No,,01/05/2023,2023,C,operations,carbon neutral,C,2035,2021,,,,U,,I,,,I,,,,,,,,,,1,1,,,,,,,1,1,,,,,1,,1,,,1,,,1,,,,
+414,Guangdong Guangxin Holdings,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+415,S.F. Holding, SBT,Transportation and logistics,Asia,N,,,N,Committed,,2030,Yes,,01/11/2023,2023,G,undefined,carbon neutral,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+416,Mitsubishi Electric, NZ SBT,Industrial goods,Asia,N,,,Y,Targets Set,1.5Â°C,2031,No,,01/02/2024,2024,N,,,N,,,,,,,,"C, V",factories and offices,Net Zero,C,2031,2021,V,2050,2021,U,,,,,,,,1,1,,,1,1,,,,,1,,1,,,1,,,1,,,1,1
+417,Guangzhou Pharmaceutical Holdings,,Health care and pharmaceuticals,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+418,China Datang,,Energy and utilities,Asia,N,,,N,,,,,,,,G,undefined,carbon neutral,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+419,Mapfre Group,CN,Financial services,Europe,N,,,N,,,,,,,,F,portfolios,carbon neutral,F,2050,2022,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+420,CFE,,Industrial goods,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+421,Jardine Matheson, NZ,Automotive,Latin America,N,,,N,,,,,,,,N,,,N,,,,,,,,V,"Scope 1, 2 and 3",Net Zero,V,2050,2021,,,,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+422,Mondelez International, NZ SBT,"Food, beverages and agriculture",North America,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2050,01/04/2024,2024,N,,,N,,,,,,,,V,value chain ,Net Zero,V,2050,2021,,,,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,1,1
+423,Daiwa House Industry,CN NZ SBT RE100,Engineering and construction,Asia,Y,2018,2024,Y,Targets Set,1.5Â°C,2026,Yes,2050,01/07/2023,2023,C,building,carbon neutral,C,2050,2021,,,,U,,V,value chain ,Net Zero,V,2050,2023,,,,U,,,,1,1,,,1,1,,1,,1,,1,,1,1,,1,,,1,,1,1,,,1,1
+424,Starbucks, NZ SBT RE100,"Food, beverages and agriculture",North America,Y,2015,2022,Y,Targets Set,1.5Â°C,2030,No,,01/03/2021,2021,N,,,N,,,,,,,,C,undefined,Net Zero,C,2050,2020,,,,U,,,,,,,,1,1,,1,,1,1,,,1,1,,1,,,1,1,1,1,,,,
+425,Olam Group, NZ SBT,Retail,Asia,N,,,Y,Targets Set,Well-below 2Â°C,2030,No,,01/09/2019,2019,N,,,N,,,,,,,,V,all scopes (SBTi approved),Net Zero,V,2050,2019,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+426,Qualcomm, NZ SBT,Industrial goods,North America,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2040,01/09/2023,2023,N,,,N,,,,,,,,V,value chain ,Net-Zero GHG emissions,V,2040,2021,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+427,Broadcom, SBT,Technology,North America,N,,,N,Committed,,2030,No,,01/02/2024,2024,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+428,JFE Holdings,CN,Metals and mining,Asia,N,,,N,,,,,,,,C,undefined,carbon neutral,C,2050,2020,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+429,Hailiang Group,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+430,US Foods Holding, SBT,Retail,North America,N,,,Y,Targets Set,Well-below 2Â°C,2032,No,,01/01/2023,2023,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,1,,,1,,,,
+431,ELO Group,,Retail,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+432,Migros Group,CN NZ SBT,Retail,Europe,N,,,Y,Targets Set,1.5Â°C,2030,Yes,,01/01/2022,2022,C,operations,climate-neutral,C,2022,2022,,,,Y,2023,C,entire group,Net Zero,C,2050,2021,,,,R,,1,,,1,,,1,1,,1,,1,,,,,1,1,1,1,,1,1,1,1,,,,
+433,Mercadona, SBT,"Food, beverages and agriculture",Europe,N,,,N,Committed,,2030,Yes,,01/01/2023,2023,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+434,D.R. Horton,,Engineering and Construction,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+435,China Electronics,,Industrial goods,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+436,Shudao Investment Group,,Engineering and construction,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+437,China National Coal Group,,Metals and mining,Asia,N,,,N,,,,,,,,G,undefined,carbon neutral,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+438,TongLing Nonferrous Metals Group,,Metals and mining,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+439,CK Hutchison Holdings, NZ SBT,Retail,Asia,N,,,Y,Targets Set,1.5°C,2030,Yes,,,2021,N,,,N,,,,,,,,V,value chain,Net-Zero carbon emissions,V,2050,2021,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+440,Philip Morris International,CN NZ SBT,"Food, beverages and agriculture",North America,N,,,Y,Targets Set,1.5Â°C,2030,Yes,2040,01/08/2023,2023,C,direct operations,carbon neutral,C,2025,2021,,,,Y,2023,V,value chain,Net Zero,V,2040,2021,,,,U,,,1,,1,,,1,1,,1,,1,,,,,1,1,1,1,,1,,1,1,,,1,1
+441,Paccar, SBT,Automotive,North America,N,,,Y,Targets Set,Well-below 2°C,2030,No,,01/05/2021,2021,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+442,PDD Holdings,,Retail,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443,CRH, NZ SBT,Industrial goods,Europe,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/03/2023,2023,N,,,N,,,,,,,,V,"business (scope 1, 2 and 3 based on SBTi target)",Net-Zero,V,2050,2021,,,,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,1,1
+444,Quanta Computer,CN SBT,Technology,Asia,N,,,N,Committed,,2030,Yes,,01/03/2022,2022,C ,group,carbon neutrality,C ,2050,2022,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+445,Salesforce, NZ SBT,Technology,North America,N,,,Y,Targets Set,1.5Â°C,2024,No,,01/11/2019,2019,N,,,N,,,,,,,,"C, V","operations, scopes 1, 2 and 3",Net Zero emissions,C,2017,2017,V,2021,2021,Y,,,,,,1,,,1,,1,,1,,,,,1,1,1,1,,1,1,1,1,1,,,1
+446,AIA Group, NZ SBT,Financial services,Asia,N,,,Y,Targets Set,1.5°C,2030,No,,01/11/2023,2023,N,,,N,,,,,,,,C,company,Net Zero,C,2050,2021,,,,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+447,Nucor, NZ,Metals and mining,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,V,"Scope 1, 2 and 3",Net Zero,V,2050,2023,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+448,Jabil,CN SBT,Industrial goods,North America,N,,,N,Committed,,2030,Yes,,01/10/2022,2022,C,Operations and supply chain,carbon neutral,C,2045,2023,,,,U,2023,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+449,National Australia Bank,CN NZ RE100,Financial services,Oceania,Y,2018,2025,N,,,,,,,,C,Operations and supply chain,carbon neutrality,C,2010,2007,,,,Y,2023,C+F,financed emissions and operations,Net Zero,C+F,2050,2022,,,,Y,,1,,,1,,,1,1,,,,,,1,,1,1,1,1,1,,1,1,1,1,,,1,1
+450,SAP,CN NZ SBT RE100,Technology,Europe,Y,2015,2014,Y,Targets Set,1.5Â°C,2025,Yes,,01/10/2019,2019,C,operations,carbon neutral,C,2023,2022,,,,Y,2023,V,entire value chain,Net-Zero,V,2030,2022,,,,Y,,1,,,1,,1,,1,,1,,1,1,,,1,1,1,1,1,,1,1,1,1,,1,,1
+451,CRRC Group,CN,Industrial goods,Asia,N,,,N,,,,,,,,"C, V","operational, whole value chain",carbon neutrality,C ,2035,2021,V,2050,2021,U,2023,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+452,Shanghai Delong Steel Group,,Metals and mining,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+453,Lennar,,Engineering and Construction,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+454,Sompo Holdings,CN NZ SBT,Financial services,Asia,N,,,N,Committed,,2030,No,,01/01/2018,2018,C,undefined,carbon neutrality,C,2013,2013,,,,U,2024,V,"underwriting, investments, and operations","Net Zero 
+emissions ",V,2050,2022,,,,Y,,1,,,1,,,1,1,,1,,1,,,,,1,1,1,1,,1,1,1,1,,,1,1
+455,Eli Lilly,CN,Health care and pharmaceuticals,North America,N,,,N,,,,,,,,C,operations,carbon neutral,C,2030,2021,,,,Y,2023,N,,,N,,,,,,,,,1,,1,,,,,,,,,,,,,1,1,1,1,,1,,1,1,,,,
+456,Korea Gas,,Oil and gas,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+457,Molina Healthcare,,Health care and pharmaceuticals,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+458,Beijing Jianlong Heavy Industry Group,,Metals and mining,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+459,Cummins, NZ SBT,Industrial goods,North America,N,,,Y,Targets Set,1.5°C,2030,No,,01/10/2021,2021,N,,,N,,,,,,,,C,operations and products,Net-Zero carbon emissions,C,2050,2019,,,,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+460,Shaanxi Construction Engineering Holding,,Engineering and Construction,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+461,Rabobank Group,,Financial services,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+462,Aisin,CN SBT,Automotive,Asia,N,,,Y,Targets Set,1.5Â°C,2031,No,,01/12/2023,2023,C,products and production,Carbon Neutrality,C,2035,2021,,,,Y,2023,N,,,N,,,,,,,,,,1,1,,,,,,,1,1,,,,,1,,1,1,,1,,,1,,,,
+463,Rajesh Exports,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+464,British American Tobacco, NZ SBT,"Food, beverages and agriculture",Europe,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/07/2022,2022,N,,,N,,,,,,,,V,Value Chain,Net Zero GHG Emissions,V,2050,2021,,,,Y,,,,,,,,1,1,,1,,1,,,,,1,,1,1,,1,,1,1,,,1,1
+465,CPC, NZ,Oil and gas,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 and 2,Net Zero,C,2050,2022,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+466,Bank of New York Mellon,CN,Financial services,North America,N,,,N,,,,,,,,C,"Scope 1, 2, and 3  business travel emissions", carbon neutral,C,2015,2015,,,,Y,2023,N,,,N,,,,,,,,1,,,1,,,,,,,,,,,,,1,1,1,1,,1,1,1,1,,,,
+467,Tongwei Group,CN,Energy and utilities,Asia,N,,,N,,,,,,,,C,Operations and supply chain,carbon neutrality,C,2023,2022,,,,Y,2024,N,,,N,,,,,,,,1,,,1,,,,,,,,,,,,,1,1,1,1,,1,1,1,1,,,,
+468,Netflix, NZ SBT,Telecommunications and media,North America,N,,,Y,Targets Set,1.5Â°C,2030,No,,01/03/2023,2023,N,,,N,,,,,,,,V,value chain,Net Zero,V,2022,2021,,,,R,,,,,,1,,,1,,1,,1,,,,,1,1,1,1,,1,1,1,1,1,,,1
+469,Novo Nordisk, NZ SBT RE100,Health care and pharmaceuticals,Europe,Y,2015,2020,Y,Targets Set,1.5°C,2030,Yes,,01/09/2021,2021,N,,,N,,,,,,,,"C, V",value chain,Net Zero,C,2030,2020,V,2045,2020,U,,,,,,,1,,1,,1,,1,1,,,1,1,1,1,,,1,1,1,1,,,1,1
+470,Shougang Group,,Metals and mining,Asia,N,,,N,,,,,,,,G,,,G,2060,2021,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+471,Shanxi Coking Coal Group,,Metals and mining,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+472,Guangxi Investment Group,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+473,VTB Bank,,Financial services,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+474,Mazda Motor,CN,Automotive,Asia,N,,,N,,,,,,,,C,chain supply,carbon neutral,C,2050,2022,,,,U,2023,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,,,1,,,1,,,,
+475,Hunan Iron & Steel Group,,Metals and mining,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+476,Power Corp. of Canada,,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+477,Truist Financial, NZ,Financial services,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,V,value chain,Net Zero,V,2050,2022,,,,U ,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+478,Siemens Energy,CN NZ SBT,Energy and utilities,Europe,N,,,Y,Targets Set,1.5Â°C,2023,No,,01/04/2021,2021,C,Operations,climate neutral,C,2030,2015,,,,U,2023,V,supply chain,Net Zero,V,2050,2015,,,,U,,,1,,1,,,1,1,1,,,1,,,,,1,1,1,,,1,1,1,1,,,1,1
+479,Schlumberger, NZ,Oil and gas,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,V,value chain,Net Zero,V,2050,2021,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,1,1
+480,Ecopetrol, NZ,Oil and gas,Latin America,N,,,N,,,,,,,,N,,,N,,,,,,,,C,Scope 1 and 2,Net Zero,C,2050,2021,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+481,Arrow Electronics, SBT,Retail,North America,N,,,N,Committed,,2030,No,,01/09/2023,2023,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,1,1,,,,
+482,Jeronimo Martins, NZ SBT,"Food, beverages and agriculture",Europe,N,,,Y,Targets Set,1.5°C,2033,Yes,2050,01/05/2024,2024,N,,,N,,,,,,,,"C, V","Scope 1 and 2, Scope 1, 2 and 3",Net-Zero,C,2045,2024,V,2050,2024,U,,,,,,,,1,1,,,1,1,,,,,1,,1,,,1,,,1,,,1,1
+483,China National Aviation Fuel Group,,Oil and gas,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+484,Commonwealth Bank of Australia,CN NZ,Financial services,Oceania,N,,,N,,,,,,,,C,Group-wide operations.,carbon neutral,C,2021,2021,,,,Y,2023,C,undefined,Net Zero,C,2050,2022,,,,Y,,1,,,1,,,1,1,,,,,,,,,1,1,1,1,,1,1,1,1,,,,
+485,Centrica, NZ,Energy and utilities,Europe,N,,,N,,,,,,,,N,,,N,,,,,,,,"C, V","business (scope 1 and 2), customers (scope 1, 2, and 3)",Net Zero,C,2045,2021,V,2050,2021,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+486,Linde,CN SBT,Chemicals,Europe,N,,,Y,Targets Set,Well-below 2Â°C,2035,No,,01/10/2022,2022,C,undefined,carbon neutral,C,2050,2022,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,,1,1,,,,,1,,1,,,1,,,1,,,,
+487,Heineken,CN NZ SBT RE100,"Food, beverages and agriculture",Europe,Y,2021,2030,Y,Targets Set,1.5°C,2030,Yes,2040,01/03/2021,2021,"C, V","production, value chain",carbon neutral,C,2030,2021,V,2040,2021,U,2022,V,SBTi approved so value chain,net zero,V,2040,2021,,,,U,,,1,,1,,,1,1,,1,,1,,1,,1,1,1,1,,,1,,1,1,,,1,1
+488,Luxshare Precision Industry,CN SBT,Technology,Asia,N,,,Y,Targets Set,1.5Â°C,2032,No,,01/02/2024,2024,C,Scope 1 and 2,carbon neutrality,C,2050,2021,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,,1,1,,,,,1,,1,,,1,,,1,,,,
+489,3M,CN SBT RE100,Chemicals,North America,Y,2019,2050,N,Committed,,2030,No,,01/11/2023,2023,C,operations,carbon neutral,C,2050,2021,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,1,1,1,,1,1,,1,,1,1,,,,
+490,Visa,CN SBT RE100,Financial services,North America,Y,2018,2019,Y,Targets Set,1.5°C,2030,Yes,,01/06/2022,2022,C,operations,carbon neutral,C,2020,2021,,,,Y,2023,N,,,N,,,,,,,,1,,,1,,,,,,1,,1,1,,,1,1,1,1,1,,1,1,1,1,,,,
+491,Apollo Global Management,CN,Financial services,North America,N,,,N,,,,,,,,C,Scope 1 and 2 GHG emissions,carbon-neutral,C,2023,2023,,,,Y,2023,N,,,N,,,,,,,,1,,,1,,,,,,,,,,,,,1,1,1,1,,1,1,1,1,,,,
+492,Emirates Group,,Transportation and logistics,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+493,Vibra Energia,CN,Oil and gas,Latin America,N,,,N,,,,,,,,"C, V","Scope 1 and 2, Scope 1, 2 and 3",Neutralize Emissions,C,2025,2021,V,2050,2021,Y,2024,N,,,N,,,,,,,,,1,,1,,,,,,,,,,,,,1,1,1,1,,1,,1,1,,,,
+494,Metro,CN SBT,Retail,Europe,N,,,Y,Targets Set,Well-below 2Â°C,2030,No,,01/08/2019,2019,C,operations,carbon neutral,C,2040,2021,,,,U,,N,,,N,,,,,,,,,,1,1,,,,,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+495,Subaru,CN,Automotive,Asia,N,,,N,,,,,,,,C,"Product, Factories and offices",carbon neutral,C,2050,2022,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+496,Air France-KLM Group, NZ SBT,Transportation and logistics,Europe,N,,,Y,Targets Set,Well-below 2°C,2030,No,,01/01/2023,2023,N,,,N,,,,,,,,C  ,activities,Net Zero,C  ,2050,2021,,,,U,,,,,,,,1,1,,1,,1,,,,,1,,1,,,1,,1,1,,,,
+497,Enbridge, NZ,Oil and gas,North America,N,,,N,,,,,,,,N,,,N,,,,,,,,C  ,Scope 1 and 2  ,Net Zero,C  ,2050,2020,,,,Y,,,,,,,,1,1,,,,,,,,,1,,1,1,,1,,,1,,,,
+498,ABB, NZ SBT RE100,Industrial goods,Europe,Y,2021,2030,Y,Targets Set,1.5°C,2030,Yes,2050,01/05/2021,2021,N,,,N,,,,,,,,V,SBTi approved so value chain,Net Zero,V,2050,2021,,,,R,,,,,,,,1,1,,1,,1,,1,,1,1,,1,1,,1,,1,1,,,1,1
+499,Mitsubishi Heavy Industries, NZ,Industrial goods,Asia,N,,,N,,,,,,,,N,,,N,,,,,,,,"C, V","Scope 1 and 2, Scope 1, 2 and 3",Net Zero,C,2040,2021,V,2040,2021,U,,,,,,,,1,1,,,,,,,,,1,,1,,,1,,,1,,,1,1
+500,Samsung C&T,CN,Financial services,Asia,N,,,N,,,,,,,,C,Scope 1 and 2,carbon neutral,C,2050,2022,,,,Y,,N,,,N,,,,,,,,,,1,1,,,,,,,,,,,,,1,,1,1,,1,,,1,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,169,,,,,,,,173,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.3380,,,,,,,,0.3460,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asia,0.1040,,,,,,,Asia,0.0680,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Europe,0.1200,,,,,,,Europe,0.1400,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North America,0.1020,,,,,,,North America,0.1340,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,other ,0.0120,,,,,,,other ,0.0040,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sum,0.3380,,,,,,,sum,0.3460,,,,,,,,,,,,,,,,,
