@@ -1,0 +1,664 @@
+Company,2021_Status,2022_Status,2023_Status,2024_Status,2025_Status
+Walmart,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+Amazon,NT:C,NT:C,No Commitment,NZ:C,No Commitment
+State Grid,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Saudi Aramco,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China National Petroleum,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Sinopec Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+UnitedHealth Group,No Commitment,No Commitment,NT:C+NZ:C,NT:C+NZ:C,NT:T+NZ:C
+Apple,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+CVS Health,NT:T,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Berkshire Hathaway,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+McKesson,NT:C,NT:C,NT:T,NT:T+NZ:C,NT:T
+Volkswagen,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Alphabet,No Commitment,NZ:C,NT:C,NT:C+NZ:C,NT:T
+Exxon Mobil,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Toyota Motor,No Commitment,No Commitment,NT:T,NT:T+NZ:C,NT:T
+China State Construction Engineering,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Cencora,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T
+Shell,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+JPMorgan Chase,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Costco Wholesale,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Cigna,No Commitment,No Commitment,No Commitment,NT:C+NZ:C,NT:C
+Microsoft,NT:T,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T
+Trafigura Group,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Glencore,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Cardinal Health,No Commitment,NT:C,NT:C,NT:T+NZ:C,NT:T
+Industrial & Commercial Bank of China,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Samsung Electronics,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Hon Hai Precision Industry,NT:C,NT:C,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T
+Chevron,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Agricultural Bank of China,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Construction Bank,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+TotalEnergies,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+BP,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Bank of America,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+General Motors,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+Ford Motor,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+Elevance Health,No Commitment,NT:C+NZ:C,No Commitment,No Commitment,NT:T
+Bank of China,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Citigroup,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Stellantis,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Meta Platforms,No Commitment,NT:C,NT:C+NZ:C,NT:T+NZ:C,NT:T+NZ:C
+Centene,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Railway Engineering Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+JD.com,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Life Insurance,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Home Depot,NT:C,NT:C+NZ:C,NT:C,NT:T+NZ:C,NT:T
+Ping An Insurance,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Mercedes-Benz Group,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T
+BMW Group,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+Fannie Mae,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Railway Construction,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Walgreens Boots Alliance,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Kroger,No Commitment,NZ:C,NT:C,NZ:C,No Commitment
+BNP Paribas,NT:C,NT:C,NT:C,NT:C+NZ:C,NT:C
+Banco Santander,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+HSBC Holdings,NT:C,NT:C,No Commitment,No Commitment,No Commitment
+Phillips 66,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Mobile Communications,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Honda Motor,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Marathon Petroleum,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Communications Construction,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+CITIC Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Alibaba Group Holding,No Commitment,NT:C,NT:C+NZ:C,NT:C+NZ:C,No Commitment
+Verizon Communications,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,No Commitment
+China National Offshore Oil,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Nvidia,No Commitment,No Commitment,No Commitment,No Commitment,NT:T
+China Resources,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Hyundai Motor,No Commitment,No Commitment,No Commitment,No Commitment,NT:C
+Electricite de France,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T
+Goldman Sachs Group,No Commitment,NZ:T,No Commitment,No Commitment,No Commitment
+Wells Fargo,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Deutsche Telekom,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+China Baowu Steel Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Valero Energy,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Comcast,No Commitment,No Commitment,NT:C,NT:C+NZ:C,NT:T
+Allianz,NT:C,NT:C,NT:C,No Commitment,No Commitment
+State Farm Insurance,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+AT&T,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Mitsubishi,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Freddie Mac,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Hengli Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Shandong Energy Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Huawei Investment & Holding,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Southern Power Grid,No Commitment,No Commitment,No Commitment,No Commitment,NT:C
+Humana,No Commitment,NT:C,NT:C,NT:T+NZ:C,NT:T
+China Minmetals,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Gazprom,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Reliance Industries,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Societe Generale,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Rosneft Oil,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+BYD,No Commitment,No Commitment,No Commitment,NT:C+NZ:C,No Commitment
+China Energy Investment,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Morgan Stanley,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Target,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C
+Life Insurance Corp. of India,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Equinor,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Nestlé,NT:T,NT:T+NZ:C,NT:T+NZ:T,No Commitment,NT:T+NZ:T
+Xiamen C&D,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+StoneX Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+PowerChina,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Royal Bank of Canada,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Sberbank,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+AXA,NT:C,NT:C+NZ:C,NT:C,NT:C+NZ:C,NT:C
+ENI,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Bosch Group,No Commitment,No Commitment,No Commitment,No Commitment,NT:T
+Tesla,No Commitment,NT:C,NT:C,NT:C+NZ:C,No Commitment
+China Post Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Royal Ahold Delhaize,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Itochu,No Commitment,No Commitment,NT:C+NZ:C,No Commitment,No Commitment
+Mitsui,No Commitment,NT:T+NZ:C,No Commitment,No Commitment,No Commitment
+Dell Technologies,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+REWE Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Carrefour,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+SK,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+PepsiCo,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Tencent Holdings,No Commitment,NT:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Christian Dior,No Commitment,No Commitment,No Commitment,No Commitment,NT:T
+Zhejiang Rongsheng Holding Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Sinopharm,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Petrobras,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Pemex,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Walt Disney,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T
+United Parcel Service,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+DHL Group,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T+NZ:T
+Credit Agricole,No Commitment,No Commitment,No Commitment,NT:C+NZ:C,NT:C
+Taiwan Semiconductor Manufacturing,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Indian Oil,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+NTT,No Commitment,No Commitment,No Commitment,No Commitment,NT:T+NZ:T
+Tesco,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Mitsubishi UFJ Financial Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Johnson & Johnson,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+Toronto-Dominion Bank,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+COFCO,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T
+China Telecommunications,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+FedEx,No Commitment,No Commitment,No Commitment,No Commitment,NT:C
+PTT,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Banco Bilbao Vizcaya Argentaria,NT:C,NT:C,NT:C,NT:C+NZ:C,No Commitment
+SAIC Motor,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+UBS Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+E.ON,NT:C,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+People's Insurance Co. of China,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Brookfield,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Archer Daniels Midland,No Commitment,NZ:C,No Commitment,NT:C+NZ:C,No Commitment
+Siemens,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Enel,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Sony,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Procter & Gamble,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+Lowe's,No Commitment,NT:C,NT:C+NZ:C,NT:C+NZ:C,No Commitment
+Wuchan Zhongda Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Nissan Motor,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+Energy Transfer,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Groupe BPCE,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+RTX,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Albertsons,NT:C,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Zhejiang Geely Holding Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Engie,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+U.S. Postal Service,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Sysco,No Commitment,No Commitment,NT:T,NT:T+NZ:C,NT:T
+Kia,No Commitment,No Commitment,No Commitment,No Commitment,NT:C
+Vinci,No Commitment,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Shenghong Holding Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Seven & I Holdings,NT:C,NT:C+NZ:C,NT:C,NZ:C,No Commitment
+State Bank of India,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China FAW Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Jiangxi Copper,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Shandong Weiqiao Pioneering Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+JBS,NT:C,NT:C,NT:C+NZ:C,NZ:C,No Commitment
+Bank of Communications,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Progressive,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Pacific Construction Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Pertamina,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Uniper,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Japan Post Holdings,No Commitment,No Commitment,No Commitment,No Commitment,NT:C
+Airbus,No Commitment,NT:C+NZ:C,NT:T,NT:T+NZ:C,NT:T
+American Express,No Commitment,NT:C,NT:C,NT:C+NZ:C,NT:T+NZ:T
+Orlen,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Deutsche Bank,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Shaanxi Coal & Chemical Industry,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Lloyds Banking Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+ENEOS Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Oil & Natural Gas,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Lukoil,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Nippon Life Insurance,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+ING Group,NT:C,NT:C,NT:C,NT:C+NZ:C,NT:T
+Barclays,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Lockheed Martin,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+MetLife,NT:C,NT:C,NT:C,NT:C+NZ:C,NT:C
+Roche Group,No Commitment,No Commitment,No Commitment,No Commitment,NT:T+NZ:T
+HCA Healthcare,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+BASF,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Koc Holding,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Prudential Financial,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Merchants Bank,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Petronas,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Alimentation Couche-Tard,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Lenovo Group,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Korea Electric Power,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Toyota Tsusho,No Commitment,No Commitment,No Commitment,NT:C+NZ:C,NT:T+NZ:T
+China Poly Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Wilmar International,No Commitment,No Commitment,NT:C,NT:C+NZ:C,NT:T+NZ:T
+Beijing Automotive Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Munich Re Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Aluminum Corp. of China,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Sumitomo Mitsui Financial Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Itau Unibanco Holding,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Boeing,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+AEON,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+Xiamen ITG Holding Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Zurich Insurance Group,NT:C,NT:C,NT:C,NT:C+NZ:C,No Commitment
+Unilever,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+Accenture,NT:T,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T
+COSCO Shipping,No Commitment,No Commitment,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Caterpillar,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Dai-ichi Life Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+LG Electronics,No Commitment,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Hitachi,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Merck,No Commitment,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Allstate,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Pfizer,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+Zhejiang Hengyi Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+IBM,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+New York Life Insurance,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+ArcelorMittal,No Commitment,No Commitment,NT:C,NZ:C,No Commitment
+Assicurazioni Generali,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Delta Air Lines,No Commitment,NT:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C
+China North Industries Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Bouygues,No Commitment,NT:C,NT:C+NZ:C,NT:T+NZ:C,No Commitment
+China Energy Engineering Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Renault,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Banco do Brasil,NT:C,NT:C+NZ:C,NT:C+NZ:C,NT:C+NZ:C,NT:C+NZ:C
+Publix Super Markets,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Anheuser-Busch InBev,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+Chery Holding Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Mizuho Financial Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Jinchuan Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Nationwide,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Edeka Zentrale,No Commitment,NT:C,NT:C+NZ:C,NT:C+NZ:C,NT:T+NZ:T
+Daimler Truck Holding,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+TD Synnex,No Commitment,NT:C,NT:C+NZ:C,NT:T+NZ:T,NT:T+NZ:T
+Bank of Montreal,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+XMXYG,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Industrial Bank,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+United Airlines Holdings,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T
+Nippon Steel,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+ConocoPhillips,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Midea Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Tsingshan Holding Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+TJX,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+AbbVie,NT:C,NT:C+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Enterprise Products Partners,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Pacific Insurance (Group),No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Guangzhou Automobile Industry Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Bank of Nova Scotia,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+HBIS Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Intesa Sanpaolo,No Commitment,NT:C,NT:C+NZ:C,NT:C+NZ:C,NT:T+NZ:C
+China Huaneng Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Chubb,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+HDFC Bank,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+BHP Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Repsol,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Panasonic Holdings,No Commitment,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Maersk Group,NT:C,NT:C,NT:C,NT:T+NZ:T,NT:T+NZ:T
+Tokio Marine Holdings,NT:C,NT:C+NZ:C,No Commitment,NZ:C,No Commitment
+Charter Communications,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+State Power Investment,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+PDD Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Performance Food Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+American Airlines Group,No Commitment,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+China United Network Communications,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+AstraZeneca,No Commitment,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Capital One Financial,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+POSCO Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Cisco Systems,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Rio Tinto Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+HP,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Phoenix Pharma,No Commitment,No Commitment,No Commitment,No Commitment,NT:C
+Sanofi,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Tyson Foods,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Bunge Global,No Commitment,No Commitment,No Commitment,No Commitment,NT:T
+Intel,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Idemitsu Kosan,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Oracle,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Tata Motors,No Commitment,NT:T+NZ:C,NT:C,NT:C+NZ:C,No Commitment
+Broadcom,No Commitment,No Commitment,No Commitment,NT:C+NZ:C,NT:C
+Bharat Petroleum,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+VTB Bank,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Novartis,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:T,NT:T+NZ:T
+Deere,No Commitment,NT:C,NT:T,NT:T+NZ:C,NT:T
+Jinneng Holding Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Nike,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Dongfeng Motor,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Jingye Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Banco Bradesco,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Marubeni,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Shaanxi Yanchang Petroleum (Group),No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Deutsche Bahn,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Xiaomi,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Crédit Mutuel Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Louis Dreyfus,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Liberty Mutual Insurance Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Bayer,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Saint-Gobain,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Contemporary Amperex Technology,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Plains GP Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Talanx,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+UniCredit Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Volvo,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T+NZ:C
+HD Hyundai,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Shanghai Pudong Development Bank,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+USAA,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+SK Hynix,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Iberdrola,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Veolia Environnement,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Bristol-Myers Squibb,No Commitment,NT:C,NT:C+NZ:C,NT:T+NZ:T,NT:T+NZ:T
+Landesbank Baden-Wurttemberg,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Ingram Micro Holding,No Commitment,No Commitment,No Commitment,No Commitment,NT:T
+Sumitomo,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+General Dynamics,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Vanke,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+SoftBank Group,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T
+America Movil,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,No Commitment
+Canadian Imperial Bank of Commerce,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Coca-Cola,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+L'Oréal,NT:T,NT:T+NZ:C,NT:T+NZ:C,No Commitment,NT:T+NZ:T
+Denso,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T
+TIAA,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Meituan,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+SNCF Group,NT:T,No Commitment,NT:T,No Commitment,NT:T
+Travelers,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Zhejiang Communications Investment Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Swiss Re,NT:C,NT:C,NT:C+NZ:C,NT:C+NZ:C,No Commitment
+China South Industries Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Raizen,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Taikang Insurance Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Ingka Group,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:T,NT:T+NZ:T
+Eli Lilly,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+ACS,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Susun Construction Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Huadian,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+George Weston,No Commitment,NT:C+NZ:C,NT:C,No Commitment,No Commitment
+Orange,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T
+ZF Friedrichshafen,NT:C,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Telefonica,No Commitment,No Commitment,No Commitment,NT:T+NZ:T,NT:T+NZ:T
+Tokyo Electric Power,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Woolworths Group,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T+NZ:T
+Vodafone Group,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:T,NT:T+NZ:T
+Uber Technologies,No Commitment,No Commitment,No Commitment,NT:T+NZ:T,NT:T+NZ:T
+Quanta Computer,No Commitment,No Commitment,NT:C+NZ:C,NT:C+NZ:C,NT:T+NZ:T
+Fomento Económico Mexicano,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+MS&AD Insurance Group Holdings,NT:C,NT:C+NZ:C,NT:C,NZ:C,No Commitment
+China National Building Material Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Sinomach,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+DZ Bank,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Massachusetts Mutual Life Insurance,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Dow,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+ANZ Group Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Continental,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Commonwealth Bank of Australia,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Thermo Fisher Scientific,NT:C,NT:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Magna International,NT:C,NT:C,No Commitment,NT:T+NZ:T,NT:T+NZ:T
+U.S. Bancorp,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Caixa Econômica Federal,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Fairfax Financial Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+J. Sainsbury,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Zijin Mining Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+World Kinect,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+X5 Retail Group,NT:C,NT:C,NT:C,NT:C+NZ:C,NT:C
+Novo Nordisk,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,No Commitment
+Olam Group,No Commitment,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Compass Group,NT:C,No Commitment,NT:T,NT:T+NZ:C,NT:T+NZ:T
+Hyundai Mobis,No Commitment,No Commitment,NT:C+NZ:C,NT:C+NZ:C,NT:T+NZ:C
+Abbott Laboratories,No Commitment,NT:C+NZ:C,NT:T,NT:T+NZ:C,No Commitment
+Standard Chartered,No Commitment,No Commitment,No Commitment,NZ:C,No Commitment
+Shanghai Construction Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Inditex,No Commitment,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Best Buy,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Northwestern Mutual,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Schneider Electric,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+KB Financial Group,NT:C,NT:T,NT:T,NT:T+NZ:C,NT:T
+Northrop Grumman,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+National Australia Bank,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Hanwha,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Molina Healthcare,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Lufthansa Group,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T
+Dollar General,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+LyondellBasell Industries,No Commitment,No Commitment,NT:C,NT:C+NZ:C,No Commitment
+China Minsheng Banking,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+GSK,No Commitment,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+Bank of New York (BNY),No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Haier Smart Home,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Cenovus Energy,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Coop Group,No Commitment,No Commitment,NT:C+NZ:T,No Commitment,No Commitment
+S.F. Holding,No Commitment,No Commitment,No Commitment,NT:C+NZ:C,NT:T+NZ:T
+Hangzhou Industrial Investment Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Warner Bros. Discovery,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+CHS,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Enbridge,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Netflix,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T
+Qualcomm,No Commitment,NT:C+NZ:C,NT:C+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+KDDI,No Commitment,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Shandong Hi-Speed Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+General Electric (GE Aerospace),No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Mercadona,No Commitment,No Commitment,No Commitment,NT:C+NZ:C,No Commitment
+Honeywell International,No Commitment,NT:C,NT:T,NT:T+NZ:C,NT:T
+Hangzhou Iron and Steel Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Guangzhou Industrial Investment Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Shanghai Pharmaceuticals Holding,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Suzuki Motor,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Vale,NT:C,NT:C,No Commitment,NZ:C,No Commitment
+ThyssenKrupp,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T+NZ:T
+Salesforce,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T+NZ:T
+Philip Morris International,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+US Foods Holding,No Commitment,NZ:C,NT:T,NT:T+NZ:C,NT:T
+Shenzhen Investment Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Westpac Banking,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Jiangsu Shagang Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+AIA Group,No Commitment,NT:C,No Commitment,NT:T+NZ:C,NT:T
+Guangdong Guangxin Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+QNB Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+NatWest Group,No Commitment,No Commitment,No Commitment,No Commitment,NT:T+NZ:C
+La Poste,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T
+Siemens Energy,No Commitment,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Luxshare Precision Industry,No Commitment,No Commitment,NT:C,NT:T+NZ:C,NT:T
+Energie Baden-Wurttemberg,No Commitment,NT:C+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Suncor Energy,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+New Hope Holding Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Electronics,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+LG Chem,No Commitment,NT:C,NT:C+NZ:C,NZ:C,No Commitment
+SAP,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T+NZ:T
+Migros Group,NT:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Meiji Yasuda Life Insurance,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+D.R. Horton,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+OMV Group,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Lithia Motors,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+CFE,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Mondelez International,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T
+Schlumberger,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Ansteel Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Mitsubishi Electric,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Jerónimo Martins,No Commitment,No Commitment,No Commitment,No Commitment,NT:T+NZ:T
+Starbucks,No Commitment,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Hailiang Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Mapfre Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+CK Hutchison Holdings,No Commitment,NT:C,NT:T+NZ:C,NT:T+NZ:C,No Commitment
+ELO Group,No Commitment,NT:C+NZ:C,NT:T,No Commitment,No Commitment
+Visa,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T+NZ:T
+China Datang,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+CRRC Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Jardine Matheson,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Sompo Holdings,NT:C,NT:C,NT:C,NT:C+NZ:C,No Commitment
+TongLing Nonferrous Metals Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+CBRE Group,No Commitment,No Commitment,No Commitment,No Commitment,NT:T+NZ:T
+Rabobank Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Shudao Investment Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Guangzhou Municipal Construction Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Daiwa House Industry,NT:T,NT:T+NZ:C,NT:T+NZ:T,NT:T+NZ:T,NT:T+NZ:T
+CRH,No Commitment,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:T
+Lennar,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Guangzhou Pharmaceutical Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Country Garden Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Pegatron,No Commitment,No Commitment,NT:C,NT:C+NZ:C,NT:T+NZ:T
+GE Vernova,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+GS Caltex,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+ICICI Bank,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Shandong Gold Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+International Airlines Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Shanghai Delong Steel Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+PNC Financial Services Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Perusahaan Listrik Negara,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Emirates Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Beijing Jianlong Heavy Industry Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Cummins,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T
+China National Coal Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Air France-KLM Group,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T
+Sumitomo Life Insurance,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Paccar,No Commitment,No Commitment,No Commitment,NT:T+NZ:C,NT:T
+Metro,NT:T,NT:T+NZ:C,NT:T,NT:T+NZ:C,NT:C
+BAE Systems,No Commitment,No Commitment,No Commitment,No Commitment,NT:T+NZ:T
+Tongwei Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Greenland Holding Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China National Aviation Fuel Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Amgen,No Commitment,No Commitment,No Commitment,No Commitment,NT:T
+Hunan Iron & Steel Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+St. James's Place,No Commitment,No Commitment,No Commitment,No Commitment,NT:C+NZ:C
+PBF Energy,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+British American Tobacco,NT:T,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:C,NT:T+NZ:T
+Linde,NT:C,NT:C,NT:T,NT:T+NZ:C,NT:T
+Mitsubishi Heavy Industries,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Guangxi Investment Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+GuideWell Mutual Holding,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Mazda Motor,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+ABB,NT:T,NT:T+NZ:C,No Commitment,NT:T+NZ:T,NT:T+NZ:T
+Magnit,No Commitment,No Commitment,NT:C+NZ:C,No Commitment,NT:T
+CPC,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Ecopetrol,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Wistron,No Commitment,No Commitment,NT:C,No Commitment,NT:T+NZ:T
+Medtronic,No Commitment,No Commitment,NT:C+NZ:C,No Commitment,NT:T
+New China Life Insurance,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China General Technology,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Heineken,No Commitment,No Commitment,No Commitment,NT:T+NZ:T,NT:T+NZ:T
+3M,No Commitment,NZ:C,No Commitment,NT:C+NZ:C,No Commitment
+AIG,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Aisin,No Commitment,No Commitment,NT:C,NT:T+NZ:C,No Commitment
+Apollo Global Management,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Arrow Electronics,No Commitment,No Commitment,No Commitment,NT:C+NZ:C,No Commitment
+Aviation Industry Corp. of China,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Bank of New York Mellon,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Bunge,No Commitment,No Commitment,NT:T,NT:T+NZ:C,No Commitment
+Caixa Economica Federal,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Centrica,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Electronics Technology Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China National Nuclear,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China State Shipbuilding,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Credit Mutuel Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+EXOR Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Fomento Economico Mexicano,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+General Electric,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Jabil,No Commitment,No Commitment,NT:C+NZ:C,NT:C+NZ:C,No Commitment
+Jeronimo Martins,No Commitment,No Commitment,No Commitment,NT:T+NZ:T,No Commitment
+JFE Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Korea Gas,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+L'Oreal,No Commitment,No Commitment,No Commitment,NT:T+NZ:T,No Commitment
+Nestle,No Commitment,No Commitment,No Commitment,NT:T+NZ:T,No Commitment
+Nippon Steel Corporation,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Nippon Telegraph and Telephone,No Commitment,No Commitment,NT:T,No Commitment,No Commitment
+Nucor,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Power Corp. of Canada,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Rajesh Exports,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Samsung C&T,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Shaanxi Construction Engineering Holding,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Shanxi Coking Coal Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Shougang Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Sinochem Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Subaru,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Truist Financial,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Vibra Energia,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+0,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+AmerisourceBergen,NT:C,NT:C+NZ:C,NT:T,No Commitment,No Commitment
+Electricité de France,NT:T,NT:T+NZ:C,NT:T+NZ:C,No Commitment,No Commitment
+SK Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Deutsche Post DHL Group,NT:C,NT:C,NT:T+NZ:C,No Commitment,No Commitment
+Brookfield Asset Management,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Amer International Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Crédit Agricole,NT:C,NT:C,NT:C,No Commitment,No Commitment
+China Merchants Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+POSCO,No Commitment,No Commitment,NT:C,No Commitment,No Commitment
+Itaú Unibanco Holding,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Société Générale,NT:C,NT:C,No Commitment,No Commitment,No Commitment
+PKN ORLEN Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+American International Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Koç Holding,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Energi Danmark Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Raízen,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Fresenius,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+América Móvil,NT:T,NT:T+NZ:C,NT:T+NZ:C,No Commitment,No Commitment
+Telefónica,NT:T,NT:T+NZ:C,NT:T+NZ:T,No Commitment,No Commitment
+Kuehne + Nagel International,No Commitment,NT:T+NZ:C,NT:T,No Commitment,No Commitment
+RWE,No Commitment,NT:T+NZ:C,NT:T+NZ:C,No Commitment,No Commitment
+China Taiping Insurance Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+HF Sinclair,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Nutrien,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Aerospace Science & Industry,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+GasTerra,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Longfor Group Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Occidental Petroleum,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Xinjiang Zhongtai Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Hapag-Lloyd,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Compal Electronics,No Commitment,NT:C+NZ:C,NT:C+NZ:C,No Commitment,No Commitment
+Finatis,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Naturgy Energy Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Anglo American,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Mitsubishi Chemical Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Poste Italiane,NT:C,NT:C,No Commitment,No Commitment,No Commitment
+Cheniere Energy,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+DSV,No Commitment,NT:T+NZ:C,NT:T+NZ:C,No Commitment,No Commitment
+Anhui Conch Group,No Commitment,No Commitment,NT:C,No Commitment,No Commitment
+Lu'an Chemical Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Canadian Natural Resources,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+CJ Corp.,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+NRG Energy,No Commitment,No Commitment,NT:T+NZ:C,No Commitment,No Commitment
+Air Liquide,No Commitment,No Commitment,NT:T,No Commitment,No Commitment
+Danaher,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Paramount Global,No Commitment,NT:C,NT:C+NZ:C,No Commitment,No Commitment
+Chengdu Xingcheng Investment Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Bridgestone,No Commitment,NT:C+NZ:C,NT:T,No Commitment,No Commitment
+Samsung Life Insurance,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+CarMax,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Xinjiang Guanghui Industry Investment,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Fortum,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+International Business Machines,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Raytheon Technologies,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Aviva,NT:C,NT:C,No Commitment,No Commitment,No Commitment
+Aegon,No Commitment,NT:C+NZ:C,No Commitment,No Commitment,No Commitment
+Legal & General Group,NT:C,NT:C,No Commitment,No Commitment,No Commitment
+China Everbright Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+CMA CGM,NT:C,No Commitment,No Commitment,No Commitment,No Commitment
+Manulife Financial,NT:C,NT:C,No Commitment,No Commitment,No Commitment
+China Aerospace Science & Technology,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Shandong Iron & Steel Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Cathay Financial Holding,No Commitment,NT:C,No Commitment,No Commitment,No Commitment
+Exelon,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Mitsubishi Corp,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Heraeus Holding,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Phoenix Group Holdings,NT:C,NT:C,No Commitment,No Commitment,No Commitment
+Tata Steel,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Fubon Financial Holding,NT:C,NT:C,No Commitment,No Commitment,No Commitment
+Canon,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Fujitsu,NT:T,NT:T+NZ:C,No Commitment,No Commitment,No Commitment
+Yunnan Provincial Investment Holding Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Takeda Pharmaceutical,NT:T,NT:T+NZ:C,No Commitment,No Commitment,No Commitment
+Weichai Power,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+World Fuel Services,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Investor,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Sumitomo Electric Industries,NT:T,NT:T+NZ:C,No Commitment,No Commitment,No Commitment
+Toshiba,NT:T,NT:T+NZ:C,No Commitment,No Commitment,No Commitment
+Gree Electric Appliances,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Holcim,No Commitment,NT:T+NZ:T,No Commitment,No Commitment,No Commitment
+Medipal Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Randstad,No Commitment,NT:C+NZ:C,No Commitment,No Commitment,No Commitment
+Coles Group,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Credit Suisse Group,NT:C,NT:C,No Commitment,No Commitment,No Commitment
+Danone,NT:T,NT:T+NZ:C,No Commitment,No Commitment,No Commitment
+Umicore,No Commitment,NZ:C,No Commitment,No Commitment,No Commitment
+Achmea,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Alfresa Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Anthem,NT:C,No Commitment,No Commitment,No Commitment,No Commitment
+Boehringer Ingelheim,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+BT Group,NT:T,No Commitment,No Commitment,No Commitment,No Commitment
+Cedar Holdings Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+ChemChina,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China COSCO Shipping,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Evergrande Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Reinsurance (Group),No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+China Resources Land,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Chubu Electric Power,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Daimler,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Dollar Tree,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Ericsson,NT:T,No Commitment,No Commitment,No Commitment,No Commitment
+Facebook,NT:C,No Commitment,No Commitment,No Commitment,No Commitment
+Financière de l'Odet,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Flex,NT:T,No Commitment,No Commitment,No Commitment,No Commitment
+Gilead Sciences,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+GlaxoSmithKline,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Hewlett Packard Enterprise,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Huayang New Material Technology Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Kansai Electric Power,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Kraft Heinz,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+NEC,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Nokia,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Olam International,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Panasonic,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Prudential,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Rite Aid,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Royal Dutch Shell,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Sinochem,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Sun Life Financial,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Sunac China Holdings,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Suning.com Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Synnex,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+United Natural Foods,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+ViacomCBS,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+WH Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment
+Yango Longking Group,No Commitment,No Commitment,No Commitment,No Commitment,No Commitment

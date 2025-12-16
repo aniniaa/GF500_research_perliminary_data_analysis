@@ -1,0 +1,664 @@
+Company,NT_2021,NZ_2021,NT_2022,NZ_2022,NT_2023,NZ_2023,NT_2024,NZ_2024,NT_2025,NZ_2025,First_NT_Year,First_NZ_Year,Pathway,Years_Between
+Walmart,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+Amazon,C,None,C,None,None,None,None,C,None,None,2021,2024,NT first → NZ later,3
+State Grid,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Saudi Aramco,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China National Petroleum,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Sinopec Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+UnitedHealth Group,None,None,None,None,C,C,C,C,T,C,2023,2023,NT and NZ same year,0
+Apple,T,None,T,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+CVS Health,T,None,T,T,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+Berkshire Hathaway,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+McKesson,C,None,C,None,T,None,T,C,T,None,2021,2024,NT first → NZ later,3
+Volkswagen,T,None,T,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+Alphabet,None,None,None,C,C,None,C,C,T,None,2023,2022,NZ first → NT later,1
+Exxon Mobil,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Toyota Motor,None,None,None,None,T,None,T,C,T,None,2023,2024,NT first → NZ later,1
+China State Construction Engineering,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Cencora,None,None,None,None,None,None,T,C,T,None,2024,2024,NT and NZ same year,0
+Shell,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+JPMorgan Chase,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Costco Wholesale,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Cigna,None,None,None,None,None,None,C,C,C,None,2024,2024,NT and NZ same year,0
+Microsoft,T,None,T,None,T,C,T,C,T,None,2021,2023,NT first → NZ later,2
+Trafigura Group,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Glencore,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Cardinal Health,None,None,C,None,C,None,T,C,T,None,2022,2024,NT first → NZ later,2
+Industrial & Commercial Bank of China,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Samsung Electronics,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Hon Hai Precision Industry,C,None,C,None,T,C,T,T,T,T,2021,2023,NT first → NZ later,2
+Chevron,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Agricultural Bank of China,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Construction Bank,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+TotalEnergies,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+BP,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Bank of America,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+General Motors,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+Ford Motor,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+Elevance Health,None,None,C,C,None,None,None,None,T,None,2022,2022,NT and NZ same year,0
+Bank of China,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Citigroup,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Stellantis,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Meta Platforms,None,None,C,None,C,C,T,C,T,C,2022,2023,NT first → NZ later,1
+Centene,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Railway Engineering Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+JD.com,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Life Insurance,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Home Depot,C,None,C,C,C,None,T,C,T,None,2021,2022,NT first → NZ later,1
+Ping An Insurance,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Mercedes-Benz Group,None,None,None,None,None,None,T,C,T,None,2024,2024,NT and NZ same year,0
+BMW Group,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+Fannie Mae,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Railway Construction,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Walgreens Boots Alliance,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Kroger,None,None,None,C,C,None,None,C,None,None,2023,2022,NZ first → NT later,1
+BNP Paribas,C,None,C,None,C,None,C,C,C,None,2021,2024,NT first → NZ later,3
+Banco Santander,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+HSBC Holdings,C,None,C,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+Phillips 66,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Mobile Communications,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Honda Motor,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Marathon Petroleum,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Communications Construction,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+CITIC Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Alibaba Group Holding,None,None,C,None,C,C,C,C,None,None,2022,2023,NT first → NZ later,1
+Verizon Communications,T,None,T,C,T,None,T,C,None,None,2021,2022,NT first → NZ later,1
+China National Offshore Oil,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Nvidia,None,None,None,None,None,None,None,None,T,None,2025,,NT only (no NZ),
+China Resources,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Hyundai Motor,None,None,None,None,None,None,None,None,C,None,2025,,NT only (no NZ),
+Electricite de France,None,None,None,None,None,None,T,C,T,None,2024,2024,NT and NZ same year,0
+Goldman Sachs Group,None,None,None,T,None,None,None,None,None,None,,2022,NZ only (no NT),
+Wells Fargo,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Deutsche Telekom,T,None,T,C,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+China Baowu Steel Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Valero Energy,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Comcast,None,None,None,None,C,None,C,C,T,None,2023,2024,NT first → NZ later,1
+Allianz,C,None,C,None,C,None,None,None,None,None,2021,,NT only (no NZ),
+State Farm Insurance,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+AT&T,T,None,T,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+Mitsubishi,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Freddie Mac,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Hengli Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Shandong Energy Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Huawei Investment & Holding,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Southern Power Grid,None,None,None,None,None,None,None,None,C,None,2025,,NT only (no NZ),
+Humana,None,None,C,None,C,None,T,C,T,None,2022,2024,NT first → NZ later,2
+China Minmetals,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Gazprom,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Reliance Industries,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Societe Generale,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Rosneft Oil,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+BYD,None,None,None,None,None,None,C,C,None,None,2024,2024,NT and NZ same year,0
+China Energy Investment,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Morgan Stanley,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Target,T,None,T,C,T,C,T,C,T,C,2021,2022,NT first → NZ later,1
+Life Insurance Corp. of India,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Equinor,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Nestlé,T,None,T,C,T,T,None,None,T,T,2021,2022,NT first → NZ later,1
+Xiamen C&D,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+StoneX Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+PowerChina,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Royal Bank of Canada,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Sberbank,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+AXA,C,None,C,C,C,None,C,C,C,None,2021,2022,NT first → NZ later,1
+ENI,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Bosch Group,None,None,None,None,None,None,None,None,T,None,2025,,NT only (no NZ),
+Tesla,None,None,C,None,C,None,C,C,None,None,2022,2024,NT first → NZ later,2
+China Post Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Royal Ahold Delhaize,T,None,T,C,T,C,T,C,T,T,2021,2022,NT first → NZ later,1
+Itochu,None,None,None,None,C,C,None,None,None,None,2023,2023,NT and NZ same year,0
+Mitsui,None,None,T,C,None,None,None,None,None,None,2022,2022,NT and NZ same year,0
+Dell Technologies,T,None,T,C,T,C,T,C,T,T,2021,2022,NT first → NZ later,1
+REWE Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Carrefour,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+SK,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+PepsiCo,T,None,T,C,T,C,T,C,T,T,2021,2022,NT first → NZ later,1
+Tencent Holdings,None,None,C,None,T,C,T,C,T,T,2022,2023,NT first → NZ later,1
+Christian Dior,None,None,None,None,None,None,None,None,T,None,2025,,NT only (no NZ),
+Zhejiang Rongsheng Holding Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Sinopharm,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Petrobras,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Pemex,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Walt Disney,None,None,None,None,None,None,T,C,T,None,2024,2024,NT and NZ same year,0
+United Parcel Service,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+DHL Group,None,None,None,None,None,None,T,C,T,T,2024,2024,NT and NZ same year,0
+Credit Agricole,None,None,None,None,None,None,C,C,C,None,2024,2024,NT and NZ same year,0
+Taiwan Semiconductor Manufacturing,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Indian Oil,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+NTT,None,None,None,None,None,None,None,None,T,T,2025,2025,NT and NZ same year,0
+Tesco,T,None,T,C,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+Mitsubishi UFJ Financial Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Johnson & Johnson,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+Toronto-Dominion Bank,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+COFCO,None,None,None,None,None,None,T,C,T,None,2024,2024,NT and NZ same year,0
+China Telecommunications,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+FedEx,None,None,None,None,None,None,None,None,C,None,2025,,NT only (no NZ),
+PTT,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Banco Bilbao Vizcaya Argentaria,C,None,C,None,C,None,C,C,None,None,2021,2024,NT first → NZ later,3
+SAIC Motor,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+UBS Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+E.ON,C,None,T,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+People's Insurance Co. of China,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Brookfield,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Archer Daniels Midland,None,None,None,C,None,None,C,C,None,None,2024,2022,NZ first → NT later,2
+Siemens,T,None,T,C,T,C,T,C,T,T,2021,2022,NT first → NZ later,1
+Enel,T,None,T,C,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+Sony,T,None,T,C,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+Procter & Gamble,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+Lowe's,None,None,C,None,C,C,C,C,None,None,2022,2023,NT first → NZ later,1
+Wuchan Zhongda Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Nissan Motor,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+Energy Transfer,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Groupe BPCE,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+RTX,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Albertsons,C,None,T,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+Zhejiang Geely Holding Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Engie,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+U.S. Postal Service,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Sysco,None,None,None,None,T,None,T,C,T,None,2023,2024,NT first → NZ later,1
+Kia,None,None,None,None,None,None,None,None,C,None,2025,,NT only (no NZ),
+Vinci,None,None,T,C,T,None,T,C,T,None,2022,2022,NT and NZ same year,0
+Shenghong Holding Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Seven & I Holdings,C,None,C,C,C,None,None,C,None,None,2021,2022,NT first → NZ later,1
+State Bank of India,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China FAW Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Jiangxi Copper,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Shandong Weiqiao Pioneering Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+JBS,C,None,C,None,C,C,None,C,None,None,2021,2023,NT first → NZ later,2
+Bank of Communications,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Progressive,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Pacific Construction Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Pertamina,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Uniper,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Japan Post Holdings,None,None,None,None,None,None,None,None,C,None,2025,,NT only (no NZ),
+Airbus,None,None,C,C,T,None,T,C,T,None,2022,2022,NT and NZ same year,0
+American Express,None,None,C,None,C,None,C,C,T,T,2022,2024,NT first → NZ later,2
+Orlen,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Deutsche Bank,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Shaanxi Coal & Chemical Industry,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Lloyds Banking Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+ENEOS Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Oil & Natural Gas,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Lukoil,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Nippon Life Insurance,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+ING Group,C,None,C,None,C,None,C,C,T,None,2021,2024,NT first → NZ later,3
+Barclays,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Lockheed Martin,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+MetLife,C,None,C,None,C,None,C,C,C,None,2021,2024,NT first → NZ later,3
+Roche Group,None,None,None,None,None,None,None,None,T,T,2025,2025,NT and NZ same year,0
+HCA Healthcare,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+BASF,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Koc Holding,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Prudential Financial,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Merchants Bank,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Petronas,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Alimentation Couche-Tard,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Lenovo Group,T,None,T,C,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+Korea Electric Power,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Toyota Tsusho,None,None,None,None,None,None,C,C,T,T,2024,2024,NT and NZ same year,0
+China Poly Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Wilmar International,None,None,None,None,C,None,C,C,T,T,2023,2024,NT first → NZ later,1
+Beijing Automotive Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Munich Re Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Aluminum Corp. of China,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Sumitomo Mitsui Financial Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Itau Unibanco Holding,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Boeing,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+AEON,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+Xiamen ITG Holding Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Zurich Insurance Group,C,None,C,None,C,None,C,C,None,None,2021,2024,NT first → NZ later,3
+Unilever,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+Accenture,T,None,T,None,T,C,T,T,T,T,2021,2023,NT first → NZ later,2
+COSCO Shipping,None,None,None,None,T,T,T,T,T,T,2023,2023,NT and NZ same year,0
+Caterpillar,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Dai-ichi Life Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+LG Electronics,None,None,T,C,T,None,T,C,T,None,2022,2022,NT and NZ same year,0
+Hitachi,T,None,T,C,T,C,T,C,T,T,2021,2022,NT first → NZ later,1
+Merck,None,None,T,C,T,C,T,C,T,T,2022,2022,NT and NZ same year,0
+Allstate,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Pfizer,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+Zhejiang Hengyi Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+IBM,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+New York Life Insurance,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+ArcelorMittal,None,None,None,None,C,None,None,C,None,None,2023,2024,NT first → NZ later,1
+Assicurazioni Generali,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Delta Air Lines,None,None,C,None,T,C,T,C,T,C,2022,2023,NT first → NZ later,1
+China North Industries Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Bouygues,None,None,C,None,C,C,T,C,None,None,2022,2023,NT first → NZ later,1
+China Energy Engineering Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Renault,T,None,T,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+Banco do Brasil,C,None,C,C,C,C,C,C,C,C,2021,2022,NT first → NZ later,1
+Publix Super Markets,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Anheuser-Busch InBev,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+Chery Holding Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Mizuho Financial Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Jinchuan Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Nationwide,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Edeka Zentrale,None,None,C,None,C,C,C,C,T,T,2022,2023,NT first → NZ later,1
+Daimler Truck Holding,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+TD Synnex,None,None,C,None,C,C,T,T,T,T,2022,2023,NT first → NZ later,1
+Bank of Montreal,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+XMXYG,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Industrial Bank,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+United Airlines Holdings,None,None,None,None,None,None,T,C,T,None,2024,2024,NT and NZ same year,0
+Nippon Steel,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+ConocoPhillips,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Midea Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Tsingshan Holding Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+TJX,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+AbbVie,C,None,C,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+Enterprise Products Partners,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Pacific Insurance (Group),None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Guangzhou Automobile Industry Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Bank of Nova Scotia,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+HBIS Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Intesa Sanpaolo,None,None,C,None,C,C,C,C,T,C,2022,2023,NT first → NZ later,1
+China Huaneng Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Chubb,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+HDFC Bank,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+BHP Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Repsol,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Panasonic Holdings,None,None,T,C,T,C,T,C,T,T,2022,2022,NT and NZ same year,0
+Maersk Group,C,None,C,None,C,None,T,T,T,T,2021,2024,NT first → NZ later,3
+Tokio Marine Holdings,C,None,C,C,None,None,None,C,None,None,2021,2022,NT first → NZ later,1
+Charter Communications,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+State Power Investment,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+PDD Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Performance Food Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+American Airlines Group,None,None,T,C,T,None,T,C,T,None,2022,2022,NT and NZ same year,0
+China United Network Communications,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+AstraZeneca,None,None,T,C,T,T,T,T,T,T,2022,2022,NT and NZ same year,0
+Capital One Financial,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+POSCO Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Cisco Systems,T,None,T,C,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+Rio Tinto Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+HP,T,None,T,C,T,C,T,C,T,T,2021,2022,NT first → NZ later,1
+Phoenix Pharma,None,None,None,None,None,None,None,None,C,None,2025,,NT only (no NZ),
+Sanofi,T,None,T,C,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+Tyson Foods,T,None,T,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+Bunge Global,None,None,None,None,None,None,None,None,T,None,2025,,NT only (no NZ),
+Intel,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Idemitsu Kosan,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Oracle,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Tata Motors,None,None,T,C,C,None,C,C,None,None,2022,2022,NT and NZ same year,0
+Broadcom,None,None,None,None,None,None,C,C,C,None,2024,2024,NT and NZ same year,0
+Bharat Petroleum,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+VTB Bank,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Novartis,T,None,T,C,T,None,T,T,T,T,2021,2022,NT first → NZ later,1
+Deere,None,None,C,None,T,None,T,C,T,None,2022,2024,NT first → NZ later,2
+Jinneng Holding Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Nike,T,None,T,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+Dongfeng Motor,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Jingye Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Banco Bradesco,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Marubeni,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Shaanxi Yanchang Petroleum (Group),None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Deutsche Bahn,T,None,T,C,T,C,T,C,T,T,2021,2022,NT first → NZ later,1
+Xiaomi,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Crédit Mutuel Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Louis Dreyfus,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Liberty Mutual Insurance Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Bayer,T,None,T,C,T,C,T,C,T,T,2021,2022,NT first → NZ later,1
+Saint-Gobain,T,None,T,C,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+Contemporary Amperex Technology,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Plains GP Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Talanx,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+UniCredit Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Volvo,T,None,T,C,T,None,T,C,T,C,2021,2022,NT first → NZ later,1
+HD Hyundai,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Shanghai Pudong Development Bank,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+USAA,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+SK Hynix,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Iberdrola,T,None,T,C,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+Veolia Environnement,T,None,T,C,T,C,T,C,T,T,2021,2022,NT first → NZ later,1
+Bristol-Myers Squibb,None,None,C,None,C,C,T,T,T,T,2022,2023,NT first → NZ later,1
+Landesbank Baden-Wurttemberg,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Ingram Micro Holding,None,None,None,None,None,None,None,None,T,None,2025,,NT only (no NZ),
+Sumitomo,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+General Dynamics,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Vanke,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+SoftBank Group,T,None,T,C,T,C,T,T,T,T,2021,2022,NT first → NZ later,1
+America Movil,None,None,None,None,None,None,T,C,None,None,2024,2024,NT and NZ same year,0
+Canadian Imperial Bank of Commerce,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Coca-Cola,T,None,T,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+L'Oréal,T,None,T,C,T,C,None,None,T,T,2021,2022,NT first → NZ later,1
+Denso,None,None,None,None,None,None,T,C,T,None,2024,2024,NT and NZ same year,0
+TIAA,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Meituan,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+SNCF Group,T,None,None,None,T,None,None,None,T,None,2021,,NT only (no NZ),
+Travelers,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Zhejiang Communications Investment Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Swiss Re,C,None,C,None,C,C,C,C,None,None,2021,2023,NT first → NZ later,2
+China South Industries Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Raizen,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Taikang Insurance Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Ingka Group,T,None,T,C,T,None,T,T,T,T,2021,2022,NT first → NZ later,1
+Eli Lilly,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+ACS,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Susun Construction Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Huadian,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+George Weston,None,None,C,C,C,None,None,None,None,None,2022,2022,NT and NZ same year,0
+Orange,T,None,T,C,T,C,T,T,T,T,2021,2022,NT first → NZ later,1
+ZF Friedrichshafen,C,None,T,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+Telefonica,None,None,None,None,None,None,T,T,T,T,2024,2024,NT and NZ same year,0
+Tokyo Electric Power,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Woolworths Group,T,None,T,C,T,None,T,C,T,T,2021,2022,NT first → NZ later,1
+Vodafone Group,T,None,T,C,T,None,T,T,T,T,2021,2022,NT first → NZ later,1
+Uber Technologies,None,None,None,None,None,None,T,T,T,T,2024,2024,NT and NZ same year,0
+Quanta Computer,None,None,None,None,C,C,C,C,T,T,2023,2023,NT and NZ same year,0
+Fomento Económico Mexicano,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+MS&AD Insurance Group Holdings,C,None,C,C,C,None,None,C,None,None,2021,2022,NT first → NZ later,1
+China National Building Material Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Sinomach,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+DZ Bank,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Massachusetts Mutual Life Insurance,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Dow,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+ANZ Group Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Continental,T,None,T,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+Commonwealth Bank of Australia,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Thermo Fisher Scientific,C,None,C,None,T,T,T,T,T,T,2021,2023,NT first → NZ later,2
+Magna International,C,None,C,None,None,None,T,T,T,T,2021,2024,NT first → NZ later,3
+U.S. Bancorp,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Caixa Econômica Federal,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Fairfax Financial Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+J. Sainsbury,T,None,T,C,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+Zijin Mining Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+World Kinect,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+X5 Retail Group,C,None,C,None,C,None,C,C,C,None,2021,2024,NT first → NZ later,3
+Novo Nordisk,None,None,None,None,None,None,T,C,None,None,2024,2024,NT and NZ same year,0
+Olam Group,None,None,T,C,T,None,T,C,T,None,2022,2022,NT and NZ same year,0
+Compass Group,C,None,None,None,T,None,T,C,T,T,2021,2024,NT first → NZ later,3
+Hyundai Mobis,None,None,None,None,C,C,C,C,T,C,2023,2023,NT and NZ same year,0
+Abbott Laboratories,None,None,C,C,T,None,T,C,None,None,2022,2022,NT and NZ same year,0
+Standard Chartered,None,None,None,None,None,None,None,C,None,None,,2024,NZ only (no NT),
+Shanghai Construction Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Inditex,None,None,T,C,T,C,T,C,T,T,2022,2022,NT and NZ same year,0
+Best Buy,T,None,T,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+Northwestern Mutual,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Schneider Electric,T,None,T,C,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+KB Financial Group,C,None,T,None,T,None,T,C,T,None,2021,2024,NT first → NZ later,3
+Northrop Grumman,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+National Australia Bank,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Hanwha,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Molina Healthcare,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Lufthansa Group,None,None,None,None,None,None,T,C,T,None,2024,2024,NT and NZ same year,0
+Dollar General,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+LyondellBasell Industries,None,None,None,None,C,None,C,C,None,None,2023,2024,NT first → NZ later,1
+China Minsheng Banking,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+GSK,None,None,T,C,T,T,T,T,T,T,2022,2022,NT and NZ same year,0
+Bank of New York (BNY),None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Haier Smart Home,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Cenovus Energy,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Coop Group,None,None,None,None,C,T,None,None,None,None,2023,2023,NT and NZ same year,0
+S.F. Holding,None,None,None,None,None,None,C,C,T,T,2024,2024,NT and NZ same year,0
+Hangzhou Industrial Investment Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Warner Bros. Discovery,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+CHS,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Enbridge,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Netflix,T,None,T,C,T,C,T,C,T,None,2021,2022,NT first → NZ later,1
+Qualcomm,None,None,C,C,C,T,T,T,T,T,2022,2022,NT and NZ same year,0
+KDDI,None,None,T,C,T,C,T,C,T,T,2022,2022,NT and NZ same year,0
+Shandong Hi-Speed Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+General Electric (GE Aerospace),None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Mercadona,None,None,None,None,None,None,C,C,None,None,2024,2024,NT and NZ same year,0
+Honeywell International,None,None,C,None,T,None,T,C,T,None,2022,2024,NT first → NZ later,2
+Hangzhou Iron and Steel Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Guangzhou Industrial Investment Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Shanghai Pharmaceuticals Holding,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Suzuki Motor,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Vale,C,None,C,None,None,None,None,C,None,None,2021,2024,NT first → NZ later,3
+ThyssenKrupp,T,None,T,C,T,None,T,C,T,T,2021,2022,NT first → NZ later,1
+Salesforce,None,None,None,None,None,None,T,C,T,T,2024,2024,NT and NZ same year,0
+Philip Morris International,T,None,T,C,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+US Foods Holding,None,None,None,C,T,None,T,C,T,None,2023,2022,NZ first → NT later,1
+Shenzhen Investment Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Westpac Banking,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Jiangsu Shagang Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+AIA Group,None,None,C,None,None,None,T,C,T,None,2022,2024,NT first → NZ later,2
+Guangdong Guangxin Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+QNB Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+NatWest Group,None,None,None,None,None,None,None,None,T,C,2025,2025,NT and NZ same year,0
+La Poste,T,None,T,C,T,C,T,T,T,T,2021,2022,NT first → NZ later,1
+Siemens Energy,None,None,T,C,T,None,T,C,T,None,2022,2022,NT and NZ same year,0
+Luxshare Precision Industry,None,None,None,None,C,None,T,C,T,None,2023,2024,NT first → NZ later,1
+Energie Baden-Wurttemberg,None,None,C,C,T,None,T,C,T,None,2022,2022,NT and NZ same year,0
+Suncor Energy,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+New Hope Holding Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Electronics,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+LG Chem,None,None,C,None,C,C,None,C,None,None,2022,2023,NT first → NZ later,1
+SAP,T,None,T,C,T,None,T,C,T,T,2021,2022,NT first → NZ later,1
+Migros Group,C,None,T,C,T,C,T,C,T,T,2021,2022,NT first → NZ later,1
+Meiji Yasuda Life Insurance,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+D.R. Horton,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+OMV Group,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Lithia Motors,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+CFE,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Mondelez International,T,None,T,C,T,C,T,T,T,T,2021,2022,NT first → NZ later,1
+Schlumberger,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Ansteel Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Mitsubishi Electric,T,None,T,C,T,None,T,C,T,None,2021,2022,NT first → NZ later,1
+Jerónimo Martins,None,None,None,None,None,None,None,None,T,T,2025,2025,NT and NZ same year,0
+Starbucks,None,None,T,C,T,None,T,C,T,None,2022,2022,NT and NZ same year,0
+Hailiang Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Mapfre Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+CK Hutchison Holdings,None,None,C,None,T,C,T,C,None,None,2022,2023,NT first → NZ later,1
+ELO Group,None,None,C,C,T,None,None,None,None,None,2022,2022,NT and NZ same year,0
+Visa,None,None,None,None,None,None,T,C,T,T,2024,2024,NT and NZ same year,0
+China Datang,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+CRRC Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Jardine Matheson,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Sompo Holdings,C,None,C,None,C,None,C,C,None,None,2021,2024,NT first → NZ later,3
+TongLing Nonferrous Metals Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+CBRE Group,None,None,None,None,None,None,None,None,T,T,2025,2025,NT and NZ same year,0
+Rabobank Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Shudao Investment Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Guangzhou Municipal Construction Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Daiwa House Industry,T,None,T,C,T,T,T,T,T,T,2021,2022,NT first → NZ later,1
+CRH,None,None,T,C,T,None,T,C,T,None,2022,2022,NT and NZ same year,0
+Lennar,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Guangzhou Pharmaceutical Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Country Garden Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Pegatron,None,None,None,None,C,None,C,C,T,T,2023,2024,NT first → NZ later,1
+GE Vernova,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+GS Caltex,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+ICICI Bank,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Shandong Gold Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+International Airlines Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Shanghai Delong Steel Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+PNC Financial Services Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Perusahaan Listrik Negara,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Emirates Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Beijing Jianlong Heavy Industry Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Cummins,None,None,None,None,None,None,T,C,T,None,2024,2024,NT and NZ same year,0
+China National Coal Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Air France-KLM Group,None,None,None,None,None,None,T,C,T,None,2024,2024,NT and NZ same year,0
+Sumitomo Life Insurance,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Paccar,None,None,None,None,None,None,T,C,T,None,2024,2024,NT and NZ same year,0
+Metro,T,None,T,C,T,None,T,C,C,None,2021,2022,NT first → NZ later,1
+BAE Systems,None,None,None,None,None,None,None,None,T,T,2025,2025,NT and NZ same year,0
+Tongwei Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Greenland Holding Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China National Aviation Fuel Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Amgen,None,None,None,None,None,None,None,None,T,None,2025,,NT only (no NZ),
+Hunan Iron & Steel Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+St. James's Place,None,None,None,None,None,None,None,None,C,C,2025,2025,NT and NZ same year,0
+PBF Energy,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+British American Tobacco,T,None,T,C,T,C,T,C,T,T,2021,2022,NT first → NZ later,1
+Linde,C,None,C,None,T,None,T,C,T,None,2021,2024,NT first → NZ later,3
+Mitsubishi Heavy Industries,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Guangxi Investment Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+GuideWell Mutual Holding,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Mazda Motor,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+ABB,T,None,T,C,None,None,T,T,T,T,2021,2022,NT first → NZ later,1
+Magnit,None,None,None,None,C,C,None,None,T,None,2023,2023,NT and NZ same year,0
+CPC,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Ecopetrol,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Wistron,None,None,None,None,C,None,None,None,T,T,2023,2025,NT first → NZ later,2
+Medtronic,None,None,None,None,C,C,None,None,T,None,2023,2023,NT and NZ same year,0
+New China Life Insurance,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China General Technology,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Heineken,None,None,None,None,None,None,T,T,T,T,2024,2024,NT and NZ same year,0
+3M,None,None,None,C,None,None,C,C,None,None,2024,2022,NZ first → NT later,2
+AIG,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Aisin,None,None,None,None,C,None,T,C,None,None,2023,2024,NT first → NZ later,1
+Apollo Global Management,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Arrow Electronics,None,None,None,None,None,None,C,C,None,None,2024,2024,NT and NZ same year,0
+Aviation Industry Corp. of China,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Bank of New York Mellon,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Bunge,None,None,None,None,T,None,T,C,None,None,2023,2024,NT first → NZ later,1
+Caixa Economica Federal,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Centrica,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Electronics Technology Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China National Nuclear,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China State Shipbuilding,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Credit Mutuel Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+EXOR Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Fomento Economico Mexicano,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+General Electric,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Jabil,None,None,None,None,C,C,C,C,None,None,2023,2023,NT and NZ same year,0
+Jeronimo Martins,None,None,None,None,None,None,T,T,None,None,2024,2024,NT and NZ same year,0
+JFE Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Korea Gas,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+L'Oreal,None,None,None,None,None,None,T,T,None,None,2024,2024,NT and NZ same year,0
+Nestle,None,None,None,None,None,None,T,T,None,None,2024,2024,NT and NZ same year,0
+Nippon Steel Corporation,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Nippon Telegraph and Telephone,None,None,None,None,T,None,None,None,None,None,2023,,NT only (no NZ),
+Nucor,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Power Corp. of Canada,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Rajesh Exports,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Samsung C&T,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Shaanxi Construction Engineering Holding,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Shanxi Coking Coal Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Shougang Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Sinochem Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Subaru,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Truist Financial,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Vibra Energia,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+0,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+AmerisourceBergen,C,None,C,C,T,None,None,None,None,None,2021,2022,NT first → NZ later,1
+Electricité de France,T,None,T,C,T,C,None,None,None,None,2021,2022,NT first → NZ later,1
+SK Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Deutsche Post DHL Group,C,None,C,None,T,C,None,None,None,None,2021,2023,NT first → NZ later,2
+Brookfield Asset Management,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Amer International Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Crédit Agricole,C,None,C,None,C,None,None,None,None,None,2021,,NT only (no NZ),
+China Merchants Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+POSCO,None,None,None,None,C,None,None,None,None,None,2023,,NT only (no NZ),
+Itaú Unibanco Holding,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Société Générale,C,None,C,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+PKN ORLEN Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+American International Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Koç Holding,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Energi Danmark Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Raízen,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Fresenius,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+América Móvil,T,None,T,C,T,C,None,None,None,None,2021,2022,NT first → NZ later,1
+Telefónica,T,None,T,C,T,T,None,None,None,None,2021,2022,NT first → NZ later,1
+Kuehne + Nagel International,None,None,T,C,T,None,None,None,None,None,2022,2022,NT and NZ same year,0
+RWE,None,None,T,C,T,C,None,None,None,None,2022,2022,NT and NZ same year,0
+China Taiping Insurance Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+HF Sinclair,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Nutrien,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Aerospace Science & Industry,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+GasTerra,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Longfor Group Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Occidental Petroleum,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Xinjiang Zhongtai Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Hapag-Lloyd,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Compal Electronics,None,None,C,C,C,C,None,None,None,None,2022,2022,NT and NZ same year,0
+Finatis,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Naturgy Energy Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Anglo American,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Mitsubishi Chemical Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Poste Italiane,C,None,C,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+Cheniere Energy,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+DSV,None,None,T,C,T,C,None,None,None,None,2022,2022,NT and NZ same year,0
+Anhui Conch Group,None,None,None,None,C,None,None,None,None,None,2023,,NT only (no NZ),
+Lu'an Chemical Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Canadian Natural Resources,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+CJ Corp.,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+NRG Energy,None,None,None,None,T,C,None,None,None,None,2023,2023,NT and NZ same year,0
+Air Liquide,None,None,None,None,T,None,None,None,None,None,2023,,NT only (no NZ),
+Danaher,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Paramount Global,None,None,C,None,C,C,None,None,None,None,2022,2023,NT first → NZ later,1
+Chengdu Xingcheng Investment Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Bridgestone,None,None,C,C,T,None,None,None,None,None,2022,2022,NT and NZ same year,0
+Samsung Life Insurance,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+CarMax,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Xinjiang Guanghui Industry Investment,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Fortum,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+International Business Machines,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Raytheon Technologies,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Aviva,C,None,C,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+Aegon,None,None,C,C,None,None,None,None,None,None,2022,2022,NT and NZ same year,0
+Legal & General Group,C,None,C,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+China Everbright Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+CMA CGM,C,None,None,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+Manulife Financial,C,None,C,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+China Aerospace Science & Technology,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Shandong Iron & Steel Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Cathay Financial Holding,None,None,C,None,None,None,None,None,None,None,2022,,NT only (no NZ),
+Exelon,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Mitsubishi Corp,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Heraeus Holding,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Phoenix Group Holdings,C,None,C,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+Tata Steel,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Fubon Financial Holding,C,None,C,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+Canon,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Fujitsu,T,None,T,C,None,None,None,None,None,None,2021,2022,NT first → NZ later,1
+Yunnan Provincial Investment Holding Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Takeda Pharmaceutical,T,None,T,C,None,None,None,None,None,None,2021,2022,NT first → NZ later,1
+Weichai Power,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+World Fuel Services,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Investor,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Sumitomo Electric Industries,T,None,T,C,None,None,None,None,None,None,2021,2022,NT first → NZ later,1
+Toshiba,T,None,T,C,None,None,None,None,None,None,2021,2022,NT first → NZ later,1
+Gree Electric Appliances,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Holcim,None,None,T,T,None,None,None,None,None,None,2022,2022,NT and NZ same year,0
+Medipal Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Randstad,None,None,C,C,None,None,None,None,None,None,2022,2022,NT and NZ same year,0
+Coles Group,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Credit Suisse Group,C,None,C,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+Danone,T,None,T,C,None,None,None,None,None,None,2021,2022,NT first → NZ later,1
+Umicore,None,None,None,C,None,None,None,None,None,None,,2022,NZ only (no NT),
+Achmea,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Alfresa Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Anthem,C,None,None,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+Boehringer Ingelheim,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+BT Group,T,None,None,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+Cedar Holdings Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+ChemChina,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China COSCO Shipping,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Evergrande Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Reinsurance (Group),None,None,None,None,None,None,None,None,None,None,,,No commitment,
+China Resources Land,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Chubu Electric Power,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Daimler,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Dollar Tree,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Ericsson,T,None,None,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+Facebook,C,None,None,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+Financière de l'Odet,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Flex,T,None,None,None,None,None,None,None,None,None,2021,,NT only (no NZ),
+Gilead Sciences,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+GlaxoSmithKline,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Hewlett Packard Enterprise,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Huayang New Material Technology Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Kansai Electric Power,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Kraft Heinz,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+NEC,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Nokia,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Olam International,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Panasonic,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Prudential,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Rite Aid,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Royal Dutch Shell,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Sinochem,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Sun Life Financial,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Sunac China Holdings,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Suning.com Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Synnex,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+United Natural Foods,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+ViacomCBS,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+WH Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
+Yango Longking Group,None,None,None,None,None,None,None,None,None,None,,,No commitment,
