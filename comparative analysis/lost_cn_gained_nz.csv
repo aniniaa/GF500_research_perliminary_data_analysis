@@ -1,11 +1,17 @@
 company,cn,nz
+América Móvil,10000,01100
+Mercedes-Benz Group,11110,00001
+Nippon Steel,11110,00001
+Orlen,-0100,-1010
+POSCO Holdings,11010,00100
+Panasonic Holdings,01000,10110
+Société Générale,11110,00001
 abb,11-00,00-10
 aeon,10000,01110
 alibaba group holding,01110,00001
 alimentation couche-tard,00010,00001
 allianz,11000,11110
 alphabet,11000,01110
-américa móvil,100--,011--
 american express,11000,01110
 amgen,1---0,0---1
 apple,11110,10001
@@ -35,12 +41,15 @@ cigna,11110,00001
 citigroup,10000,00100
 cma cgm,10---,01---
 comcast,11110,00001
+contemporary amperex technology,--010,--001
 continental,11110,00001
 coop group,11000,01110
 crh,11000,00110
 crrc group,00110,00001
 cvs health,01000,01110
+daimler truck holding,--110,--001
 daiwa house industry,01000,10110
+delta air lines,-1000,-1110
 denso,11110,00001
 deutsche telekom,11000,11110
 dow,11110,00001
@@ -48,6 +57,7 @@ e.on,11110,00001
 electricite de france,11000,00110
 eli lilly,1--10,0--01
 eneos holdings,11110,00001
+energie baden-wurttemberg,-1110,-0001
 eni,10100,11010
 equinor,11000,11110
 exor group,0100-,0111-
@@ -76,11 +86,13 @@ jpmorgan chase,11000,00110
 kb financial group,01000,10110
 kia,01100,00011
 koc holding,11110,00001
-tokyo electric power,01000,00101
+kuehne + nagel international,-10--,-01--
+l'oreal,11000,11110
 la poste,11000,01110
 lg electronics,11110,00001
 linde,00110,00001
-l'oreal,11000,11110
+lufthansa group,--110,--001
+luxshare precision industry,--110,--001
 maersk group,10000,11110
 magna international,11100,00010
 mapfre group,1--10,0--01
@@ -106,7 +118,6 @@ philip morris international,11000,11110
 phoenix group holdings,10---,11---
 phoenix pharma,00100,01011
 ping an insurance,01110,00001
-posco,110--,001--
 procter & gamble,11000,01110
 prudential financial,10000,10110
 renault,11100,00011
@@ -131,12 +142,15 @@ swiss re,11000,11110
 talanx,10000,01110
 tencent holdings,01010,00100
 tokio marine holdings,11000,01110
+tokyo electric power,01000,00101
+tongwei group,--110,--001
 toronto-dominion bank,11000,11110
 toyota motor,11110,00001
 toyota tsusho,11100,00010
 trafigura group,00110,00001
 travelers,11110,00001
 ubs group,11000,11110
+uniper,--110,--001
 united parcel service,11110,00001
 vale,10000,01110
 valero energy,11110,00001
@@ -151,15 +165,3 @@ zf friedrichshafen,11010,00101
 zhejiang geely holding group,01110,00001
 zijin mining group,01110,00001
 zurich insurance group,11000,11110
-mercedes-benz group,-1110,-0001
-panasonic holdings,-1000,-0110
-energie baden-wurttemberg,-1110,-0001
-kuehne + nagel international,-10--,-01--
-delta air lines,-1000,-1110
-uniper,--110,--001
-daimler truck holding,--110,--001
-contemporary amperex technology,--010,--001
-lufthansa group,--110,--001
-tongwei group,--110,--001
-luxshare precision industry,--110,--001
-societe generale,---10,---01
