@@ -1,572 +1,572 @@
 company,region_2021,sector_2021,re100_2021,sbti_2021,cn_2021,nz_2021,cc_2021,region_2022,sector_2022,re100_2022,sbti_2022,cn_2022,nz_2022,cc_2022,region_2023,sector_2023,re100_2023,sbti_2023,cn_2023,nz_2023,cc_2023,region_2024,sector_2024,re100_2024,sbti_2024,cn_2024,nz_2024,cc_2024,region_2025,sector_2025,re100_2025,sbti_2025,cn_2025,nz_2025,cc_2025
 3m,North America,Chemicals,1.0,,1.0,,,North America,Chemicals,1.0,,1.0,,,North America,Chemicals,1.0,,1.0,,,North America,Chemicals,1.0,,1.0,,1.0,,,,,,,
-abb,Europe,Industrial goods,1.0,1.0,1.0,,,Europe,Industrial goods,1.0,1.0,1.0,,1.0,,,,,,,,Europe,Industrial goods,1.0,1.0,,1.0,1.0,Europe,Industrial goods,1.0,1.0,,,
-abbott laboratories,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,1.0,,,,North America,Health care and pharmaceuticals,,1.0,,,,North America,Health care and pharmaceuticals,,,,,
+abb,Europe,Industrial goods,1.0,1.0,1.0,,,Europe,Industrial goods,1.0,1.0,1.0,,1.0,,,,,,,,Europe,Industrial goods,1.0,1.0,,1.0,1.0,Europe,Industrial goods,1.0,1.0,,1.0,
+abbott laboratories,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,1.0,,,,North America,Health care and pharmaceuticals,,1.0,,,,North America,Health care and pharmaceuticals,,,,1.0,
 abbvie,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,1.0,,,,North America,Health care and pharmaceuticals,,1.0,,1.0,1.0,North America,Health care and pharmaceuticals,,1.0,,,
-accenture,Other,Financial services,1.0,1.0,,1.0,,Europe,Financial services,1.0,1.0,,1.0,,Europe,Technology,1.0,1.0,,1.0,,Europe,Financial services,1.0,1.0,,1.0,1.0,Europe,Technology,1.0,1.0,,,
+accenture,Other,Financial services,1.0,1.0,,1.0,,Europe,Financial services,1.0,1.0,,1.0,,Europe,Technology,1.0,1.0,,1.0,,Europe,Financial services,1.0,1.0,,1.0,1.0,Europe,Technology,1.0,1.0,,1.0,
 achmea,Europe,Financial services,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-acs,Europe,Engineering and construction,,,,,,Europe,Engineering and construction,,,1.0,,,Europe,Engineering and construction,,,1.0,,1.0,Europe,Engineering and construction,,,1.0,,,Europe,Engineering and construction,,,,,1.0
-aeon,Europe,Financial services,,,1.0,,,Asia,Retail,1.0,1.0,,1.0,-1.0,Asia,"Food, beverages and agriculture",1.0,1.0,,1.0,,Asia,Retail,1.0,1.0,,1.0,1.0,Asia,Retail,1.0,1.0,,,
-agricultural bank of china,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,-1.0
-aia group,Asia,Financial services,,,,,,Asia,Financial services,,,,1.0,,,,,,,,,Asia,Financial services,,1.0,,1.0,,Asia,Financial services,,1.0,,,
+acs,Europe,Engineering and construction,,,,,,Europe,Engineering and construction,,,1.0,,,Europe,Engineering and construction,,,1.0,,1.0,Europe,Engineering and construction,,,1.0,,,Europe,Engineering and construction,,,,1.0,1.0
+aeon,Europe,Financial services,,,1.0,,,Asia,Retail,1.0,1.0,,1.0,-1.0,Asia,"Food, beverages and agriculture",1.0,1.0,,1.0,,Asia,Retail,1.0,1.0,,1.0,1.0,Asia,Retail,1.0,1.0,,1.0,
+agricultural bank of china,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,-1.0
+aia group,Asia,Financial services,,,,,,Asia,Financial services,,,,1.0,,,,,,,,,Asia,Financial services,,1.0,,1.0,,Asia,Financial services,,1.0,,1.0,
 airbus,Europe,Aerospace and defense,,,,,,Europe,Aerospace and defense,,,,1.0,,Europe,Aerospace and defense,1.0,1.0,,1.0,,Europe,Aerospace and defense,,1.0,,1.0,1.0,Europe,Aerospace and defense,,1.0,,,1.0
 aisin,Asia,Automotive,,,1.0,1.0,,Asia,Automotive,,,1.0,,-1.0,Asia,Automotive,,,1.0,,,Asia,Automotive,,1.0,1.0,,1.0,,,,,,,
-albertsons,North America,"Food, beverages and agriculture",,,,,,North America,Retail,,1.0,,,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,Retail,,1.0,,1.0,1.0,North America,Retail,,1.0,,,
+albertsons,North America,"Food, beverages and agriculture",,,,,,North America,Retail,,1.0,,,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,Retail,,1.0,,1.0,1.0,North America,Retail,,1.0,,1.0,
 alfresa holdings,Asia,Health care and pharmaceuticals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-alibaba group holding,Asia,Technology,,,,,,Asia,Retail,,,1.0,,1.0,Asia,Retail,,,1.0,,1.0,Asia,Retail,,,1.0,,1.0,Asia,Retail,,,,1.0,
-alimentation couche-tard,North America,Retail,,,,,,North America,Retail,,,,,,North America,Retail,,,,,,North America,Retail,,,1.0,,1.0,North America,Retail,,,,1.0,
-allianz,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,,1.0
-allstate,North America,Financial services,,,,,,North America,Financial services,,,,,1.0,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,,North America,Financial services,,,,,
-alphabet,North America,Technology,1.0,,1.0,,,North America,Technology,1.0,,1.0,1.0,1.0,North America,Technology,,,,1.0,1.0,North America,Technology,,,,1.0,1.0,North America,Retail,,1.0,,,-1.0
-aluminum corp. of china,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,1.0,,
-amazon,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,1.0,North America,Retail,,,,,1.0
+alibaba group holding,Asia,Technology,,,,,,Asia,Retail,,,1.0,,1.0,Asia,Retail,,,1.0,,1.0,Asia,Retail,,,1.0,,1.0,Asia,Retail,,,1.0,,
+alimentation couche-tard,North America,Retail,,,,,,North America,Retail,,,,,,North America,Retail,,,,,,North America,Retail,,,1.0,,1.0,North America,Retail,,,1.0,,
+allianz,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0
+allstate,North America,Financial services,,,,,,North America,Financial services,,,,,1.0,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,
+alphabet,North America,Technology,1.0,,1.0,,,North America,Technology,1.0,,1.0,1.0,1.0,North America,Technology,,,,1.0,1.0,North America,Technology,,,,1.0,1.0,North America,Retail,,1.0,,1.0,-1.0
+aluminum corp. of china,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
+amazon,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,1.0,North America,Retail,,,,1.0,1.0
 amer international group,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,,,,,,,,,,,,,,
 américa móvil,North America,Retail,,1.0,1.0,,,North America,Telecommunications and media,,1.0,,1.0,,North America,Telecommunications and media,,1.0,,1.0,,,,,,,,,,,,,,,
-american express,North America,Financial services,1.0,,1.0,,,North America,Financial services,1.0,,1.0,1.0,,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,1.0,,,1.0
+american express,North America,Financial services,1.0,,1.0,,,North America,Financial services,1.0,,1.0,1.0,,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,1.0,,1.0,1.0
 amerisourcebergen,North America,Health care and pharmaceuticals,,,,,,North America,Retail,,,,,,North America,Health care and pharmaceuticals,,1.0,,,,,,,,,,,,,,,,,
-amgen,North America,Health care and pharmaceuticals,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,North America,Health care and pharmaceuticals,,1.0,,1.0,
+amgen,North America,Health care and pharmaceuticals,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,North America,Health care and pharmaceuticals,,1.0,1.0,,
 anglo american,Other,Industrial goods,,,1.0,,,Other,Metals and mining,,,1.0,,,Other,Energy and utilities,,,1.0,,,,,,,,,,,,,,,,
-anheuser-busch inbev,Other,"Food, beverages and agriculture",1.0,1.0,,,,Other,"Food, beverages and agriculture",1.0,1.0,,1.0,,Other,"Food, beverages and agriculture",1.0,1.0,,1.0,,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,1.0,Europe,"Food, beverages and agriculture",1.0,1.0,,,
+anheuser-busch inbev,Other,"Food, beverages and agriculture",1.0,1.0,,,,Other,"Food, beverages and agriculture",1.0,1.0,,1.0,,Other,"Food, beverages and agriculture",1.0,1.0,,1.0,,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,1.0,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,
 anhui conch group,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,-1.0,Asia,Industrial goods,,,,,,,,,,,,,,,,,,,
-ansteel group,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,1.0,
+ansteel group,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,1.0,,
 anthem,North America,Health care and pharmaceuticals,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-apple,North America,Technology,1.0,1.0,1.0,1.0,,North America,Technology,1.0,1.0,1.0,,1.0,North America,Technology,1.0,1.0,1.0,,1.0,North America,Technology,1.0,1.0,1.0,,1.0,North America,Technology,1.0,1.0,,1.0,1.0
-arcelormittal,Other,Industrial goods,,,1.0,,,Other,Metals and mining,,,,1.0,1.0,Other,Industrial goods,,,1.0,,1.0,Europe,Metals and mining,,,,1.0,1.0,Europe,Metals and mining,,,,,1.0
+apple,North America,Technology,1.0,1.0,1.0,1.0,,North America,Technology,1.0,1.0,1.0,,1.0,North America,Technology,1.0,1.0,1.0,,1.0,North America,Technology,1.0,1.0,1.0,,1.0,North America,Technology,1.0,1.0,1.0,,1.0
+arcelormittal,Other,Industrial goods,,,1.0,,,Other,Metals and mining,,,,1.0,1.0,Other,Industrial goods,,,1.0,,1.0,Europe,Metals and mining,,,,1.0,1.0,Europe,Metals and mining,,,,1.0,1.0
 archer daniels midland,North America,"Food, beverages and agriculture",,,,,,North America,"Food, beverages and agriculture",,,,,,North America,"Food, beverages and agriculture",,,,,,North America,"Food, beverages and agriculture",,,,,,North America,"Food, beverages and agriculture",,,,,
 arrow electronics,North America,Technology,,,,,,North America,Retail,,,,,,North America,Retail,,,,,,North America,Retail,,,,,,,,,,,,
-assicurazioni generali,Europe,Financial services,,,1.0,1.0,,Europe,Financial services,,,1.0,1.0,1.0,Europe,Financial services,,,,1.0,,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,,1.0
-astrazeneca,Europe,Health care and pharmaceuticals,1.0,,,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,,
-at&t,North America,Telecommunications and media,,1.0,1.0,,,North America,Telecommunications and media,,1.0,1.0,,,North America,Telecommunications and media,,1.0,1.0,,1.0,North America,Telecommunications and media,,1.0,1.0,,1.0,North America,Telecommunications and media,,1.0,,,1.0
+assicurazioni generali,Europe,Financial services,,,1.0,1.0,,Europe,Financial services,,,1.0,1.0,1.0,Europe,Financial services,,,,1.0,,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0
+astrazeneca,Europe,Health care and pharmaceuticals,1.0,,,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,
+at&t,North America,Telecommunications and media,,1.0,1.0,,,North America,Telecommunications and media,,1.0,1.0,,,North America,Telecommunications and media,,1.0,1.0,,1.0,North America,Telecommunications and media,,1.0,1.0,,1.0,North America,Telecommunications and media,,1.0,,1.0,1.0
 aviation industry corp. of china,Asia,Aerospace and defense,,,,,,Asia,Aerospace and defense,,,,1.0,,Asia,Aerospace and defense,,,,,,Asia,Aerospace and defense,,,,1.0,1.0,,,,,,,
 aviva,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,
-axa,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,,1.0
-bae systems,Europe,Aerospace and defense,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,Europe,Aerospace and defense,,1.0,,,
-banco bilbao vizcaya argentaria,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,,1.0
-banco bradesco,Other,Financial services,,,1.0,1.0,,Other,Financial services,,,1.0,1.0,1.0,Other,Financial services,,,,1.0,1.0,Other,Financial services,,,,1.0,1.0,Other,Financial services,,,,,1.0
+axa,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0
+bae systems,Europe,Aerospace and defense,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,Europe,Aerospace and defense,,1.0,,1.0,
+banco bilbao vizcaya argentaria,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0
+banco bradesco,Other,Financial services,,,1.0,1.0,,Other,Financial services,,,1.0,1.0,1.0,Other,Financial services,,,,1.0,1.0,Other,Financial services,,,,1.0,1.0,Other,Financial services,,,,1.0,1.0
 banco do brasil,Other,Financial services,,,1.0,,,Other,Financial services,,,1.0,,1.0,Other,Financial services,,,1.0,,1.0,Other,Financial services,,,1.0,,1.0,Other,Financial services,,,,,1.0
-banco santander,Europe,Financial services,,,1.0,1.0,,Europe,Financial services,,,1.0,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,,1.0
-bank of america,North America,Financial services,1.0,,1.0,1.0,,North America,Financial services,1.0,,1.0,1.0,-1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,,1.0
-bank of china,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,1.0,,,Asia,Financial services,,,,1.0,1.0
+banco santander,Europe,Financial services,,,1.0,1.0,,Europe,Financial services,,,1.0,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0
+bank of america,North America,Financial services,1.0,,1.0,1.0,,North America,Financial services,1.0,,1.0,1.0,-1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0
+bank of china,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,1.0,,,Asia,Financial services,,,1.0,,1.0
 bank of communications,Asia,Financial services,,,,,,Asia,Financial services,,,,,-1.0,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
-bank of montreal,North America,Financial services,,,1.0,1.0,,,,,,,,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,,1.0
-bank of nova scotia,North America,Financial services,,,,,,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,,1.0
-barclays,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,1.0,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,,1.0
-basf,Europe,Chemicals,,,1.0,,,Europe,Chemicals,,,,1.0,1.0,Europe,Chemicals,,,,1.0,,Europe,Chemicals,,,,1.0,1.0,Europe,Chemicals,,,,,1.0
-bayer,Europe,Health care and pharmaceuticals,,1.0,1.0,1.0,,Europe,Health care and pharmaceuticals,,1.0,1.0,1.0,1.0,Europe,Health care and pharmaceuticals,,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,,1.0,,1.0,1.0,Europe,Chemicals,,1.0,,,1.0
-beijing automotive group,Asia,Automotive,,,,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,,,,Asia,Automotive,,,,1.0,
-beijing jianlong heavy industry group,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,1.0,,
+bank of montreal,North America,Financial services,,,1.0,1.0,,,,,,,,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0
+bank of nova scotia,North America,Financial services,,,,,,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0
+barclays,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,1.0,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,1.0,1.0
+basf,Europe,Chemicals,,,1.0,,,Europe,Chemicals,,,,1.0,1.0,Europe,Chemicals,,,,1.0,,Europe,Chemicals,,,,1.0,1.0,Europe,Chemicals,,,,1.0,1.0
+bayer,Europe,Health care and pharmaceuticals,,1.0,1.0,1.0,,Europe,Health care and pharmaceuticals,,1.0,1.0,1.0,1.0,Europe,Health care and pharmaceuticals,,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,,1.0,,1.0,1.0,Europe,Chemicals,,1.0,,1.0,1.0
+beijing automotive group,Asia,Automotive,,,,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,,,,Asia,Automotive,,,1.0,,
+beijing jianlong heavy industry group,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
 berkshire hathaway,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,
-best buy,North America,Retail,,1.0,1.0,,,North America,Retail,,1.0,1.0,,1.0,North America,Retail,,1.0,,1.0,,North America,Retail,,1.0,,1.0,1.0,North America,Retail,,1.0,,,1.0
-bharat petroleum,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,1.0,,Asia,Energy and utilities,,,,1.0,,Asia,Oil and gas,,,,1.0,1.0,Asia,Oil and gas,,,,,
-bhp group,Other,Industrial goods,,,,1.0,,Other,Metals and mining,,,,1.0,1.0,Other,Energy and utilities,,,,1.0,,Other,Metals and mining,,,,1.0,1.0,Other,Metals and mining,,,,,1.0
-bmw group,Europe,Automotive,1.0,1.0,1.0,,,Europe,Automotive,1.0,1.0,1.0,,1.0,Europe,Automotive,1.0,1.0,1.0,,1.0,Europe,Automotive,1.0,1.0,,1.0,1.0,Europe,Automotive,1.0,1.0,,,1.0
-bnp paribas,Europe,Financial services,,,1.0,1.0,,Europe,Financial services,,,1.0,1.0,1.0,Europe,Financial services,,,1.0,,,Europe,Financial services,,,1.0,,1.0,Europe,Financial services,,,,1.0,1.0
+best buy,North America,Retail,,1.0,1.0,,,North America,Retail,,1.0,1.0,,1.0,North America,Retail,,1.0,,1.0,,North America,Retail,,1.0,,1.0,1.0,North America,Retail,,1.0,,1.0,1.0
+bharat petroleum,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,1.0,,Asia,Energy and utilities,,,,1.0,,Asia,Oil and gas,,,,1.0,1.0,Asia,Oil and gas,,,,1.0,
+bhp group,Other,Industrial goods,,,,1.0,,Other,Metals and mining,,,,1.0,1.0,Other,Energy and utilities,,,,1.0,,Other,Metals and mining,,,,1.0,1.0,Other,Metals and mining,,,,1.0,1.0
+bmw group,Europe,Automotive,1.0,1.0,1.0,,,Europe,Automotive,1.0,1.0,1.0,,1.0,Europe,Automotive,1.0,1.0,1.0,,1.0,Europe,Automotive,1.0,1.0,,1.0,1.0,Europe,Automotive,1.0,1.0,,1.0,1.0
+bnp paribas,Europe,Financial services,,,1.0,1.0,,Europe,Financial services,,,1.0,1.0,1.0,Europe,Financial services,,,1.0,,,Europe,Financial services,,,1.0,,1.0,Europe,Financial services,,,1.0,,1.0
 boehringer ingelheim,Europe,Health care and pharmaceuticals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 boeing,North America,Aerospace and defense,,,,1.0,,North America,Aerospace and defense,,,,1.0,1.0,North America,Aerospace and defense,,,,1.0,,North America,Aerospace and defense,,,1.0,,1.0,North America,Aerospace and defense,,,,,1.0
-bosch group,Europe,Automotive,,,1.0,,,Europe,Automotive,,,1.0,,,Europe,Automotive,,,1.0,,1.0,Europe,Automotive,,,1.0,,1.0,Europe,Automotive,,1.0,,1.0,1.0
-bouygues,Europe,Engineering and construction,,,,,,Europe,Engineering and construction,,,,,,Europe,Engineering and construction,,,,,,Europe,Engineering and construction,,1.0,,,,Europe,Engineering and construction,,,,,
-bp,Europe,Oil and gas,,,,1.0,,Europe,Oil and gas,,,,1.0,1.0,Europe,Energy and utilities,,,,1.0,,Europe,Oil and gas,,,,1.0,1.0,Europe,Oil and gas,,,,,1.0
+bosch group,Europe,Automotive,,,1.0,,,Europe,Automotive,,,1.0,,,Europe,Automotive,,,1.0,,1.0,Europe,Automotive,,,1.0,,1.0,Europe,Automotive,,1.0,1.0,,1.0
+bouygues,Europe,Engineering and construction,,,,,,Europe,Engineering and construction,,,,,,Europe,Engineering and construction,,,,,,Europe,Engineering and construction,,1.0,,,,Europe,Engineering and construction,,,,1.0,
+bp,Europe,Oil and gas,,,,1.0,,Europe,Oil and gas,,,,1.0,1.0,Europe,Energy and utilities,,,,1.0,,Europe,Oil and gas,,,,1.0,1.0,Europe,Oil and gas,,,,1.0,1.0
 bridgestone,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,-1.0,Asia,Automotive,,1.0,1.0,,,,,,,,,,,,,,,,
-bristol-myers squibb,North America,Health care and pharmaceuticals,,,1.0,,,North America,Health care and pharmaceuticals,,,1.0,,,North America,Health care and pharmaceuticals,,,1.0,,1.0,North America,Health care and pharmaceuticals,,1.0,,1.0,1.0,North America,Health care and pharmaceuticals,,1.0,,,
-british american tobacco,Europe,"Food, beverages and agriculture",,1.0,1.0,,,Europe,"Food, beverages and agriculture",,1.0,1.0,1.0,,Europe,"Food, beverages and agriculture",,1.0,,1.0,1.0,Europe,"Food, beverages and agriculture",,1.0,,1.0,1.0,Europe,Household and personal products,,1.0,,,
+bristol-myers squibb,North America,Health care and pharmaceuticals,,,1.0,,,North America,Health care and pharmaceuticals,,,1.0,,,North America,Health care and pharmaceuticals,,,1.0,,1.0,North America,Health care and pharmaceuticals,,1.0,,1.0,1.0,North America,Health care and pharmaceuticals,,1.0,,1.0,
+british american tobacco,Europe,"Food, beverages and agriculture",,1.0,1.0,,,Europe,"Food, beverages and agriculture",,1.0,1.0,1.0,,Europe,"Food, beverages and agriculture",,1.0,,1.0,1.0,Europe,"Food, beverages and agriculture",,1.0,,1.0,1.0,Europe,Household and personal products,,1.0,,1.0,
 brookfield asset management,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,-1.0,North America,Financial services,,,,1.0,,,,,,,,,,,,,,,
 bt group,Europe,Telecommunications and media,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 bunge,North America,"Food, beverages and agriculture",,,,,,North America,"Food, beverages and agriculture",,,,,,North America,"Food, beverages and agriculture",,1.0,,,,North America,"Food, beverages and agriculture",,1.0,,,,,,,,,,
 canon,Asia,Technology,,,,1.0,,Asia,Technology,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,
-capital one financial,North America,Financial services,1.0,,,,,North America,Financial services,1.0,,,,1.0,North America,Financial services,1.0,,1.0,,-1.0,North America,Financial services,1.0,,1.0,,-1.0,North America,Financial services,,,,,-1.0
+capital one financial,North America,Financial services,1.0,,,,,North America,Financial services,1.0,,,,1.0,North America,Financial services,1.0,,1.0,,-1.0,North America,Financial services,1.0,,1.0,,-1.0,North America,Financial services,,,,1.0,-1.0
 cardinal health,North America,Health care and pharmaceuticals,,,,,,North America,Retail,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Retail,,1.0,,,,North America,Health care and pharmaceuticals,,1.0,,,
-carrefour,Europe,"Food, beverages and agriculture",,1.0,,,,Europe,Retail,,1.0,1.0,,,Europe,"Food, beverages and agriculture",,1.0,1.0,,1.0,Europe,Retail,,1.0,1.0,,,Europe,Retail,,1.0,,1.0,
+carrefour,Europe,"Food, beverages and agriculture",,1.0,,,,Europe,Retail,,1.0,1.0,,,Europe,"Food, beverages and agriculture",,1.0,1.0,,1.0,Europe,Retail,,1.0,1.0,,,Europe,Retail,,1.0,1.0,,
 caterpillar,North America,Industrial goods,,,,,,North America,Industrial goods,,,,,,North America,Industrial goods,,,,,,North America,Industrial goods,,,,,,North America,Engineering and construction,,,,,
 cathay financial holding,Asia,Financial services,,,,,,Asia,Financial services,,,,,,,,,,,,,,,,,,,,,,,,,,
 chery holding group,Asia,Financial services,,,,,,,,,,,,,,,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,
 centene,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,
 centrica,Europe,Energy and utilities,,,,1.0,,,,,,,,,,,,,,,,Europe,Energy and utilities,,,,1.0,,,,,,,,
-charter communications,North America,Telecommunications and media,,,1.0,,,North America,Telecommunications and media,,,1.0,,1.0,North America,Telecommunications and media,,,1.0,,,North America,Telecommunications and media,,,1.0,,,North America,Telecommunications and media,,,,1.0,
+charter communications,North America,Telecommunications and media,,,1.0,,,North America,Telecommunications and media,,,1.0,,1.0,North America,Telecommunications and media,,,1.0,,,North America,Telecommunications and media,,,1.0,,,North America,Telecommunications and media,,,1.0,,
 chemchina,Asia,Chemicals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-chevron,North America,Oil and gas,,,,,,North America,Oil and gas,,,,1.0,,North America,Energy and utilities,,,,1.0,,North America,Oil and gas,,,,1.0,1.0,North America,Oil and gas,,,,,1.0
+chevron,North America,Oil and gas,,,,,,North America,Oil and gas,,,,1.0,,North America,Energy and utilities,,,,1.0,,North America,Oil and gas,,,,1.0,1.0,North America,Oil and gas,,,,1.0,1.0
 china aerospace science & industry,Asia,Aerospace and defense,,,,,,Asia,Aerospace and defense,,,,,,Asia,Aerospace and defense,,,,,,,,,,,,,,,,,,,
 china aerospace science & technology,Asia,Aerospace and defense,,,,,,Asia,Aerospace and defense,,,,,,,,,,,,,,,,,,,,,,,,,,
-china baowu steel group,Asia,Industrial goods,,,1.0,,,Asia,Metals and mining,,,1.0,,1.0,Asia,Industrial goods,,,1.0,,,Asia,Metals and mining,,,1.0,,,Asia,Metals and mining,,,1.0,,1.0
+china baowu steel group,Asia,Industrial goods,,,1.0,,,Asia,Metals and mining,,,1.0,,1.0,Asia,Industrial goods,,,1.0,,,Asia,Metals and mining,,,1.0,,,Asia,Metals and mining,,,,,1.0
 china communications construction,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,-1.0
-china construction bank,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,
+china construction bank,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
 china cosco shipping,Asia,Transportation and logistics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-china datang,Asia,Energy and utilities,,,1.0,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,1.0,,
+china datang,Asia,Energy and utilities,,,1.0,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,
 china electronics,Asia,Technology,,,,,,Asia,Industrial goods,,,,,,Asia,Technology,,,,,,Asia,Industrial goods,,,,,,Asia,Technology,,,,,
 china electronics technology group,Asia,Aerospace and defense,,,,,,Asia,Aerospace and defense,,,,,,Asia,Aerospace and defense,,,,,,Asia,Aerospace and defense,,,,,,,,,,,,
 china energy engineering group,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,
-china energy investment,Asia,Oil and gas,,,,,,Asia,Metals and mining,,,,,,Asia,Energy and utilities,,,,,,Asia,Metals and mining,,,,,,Asia,Energy and utilities,,,1.0,,
+china energy investment,Asia,Oil and gas,,,,,,Asia,Metals and mining,,,,,,Asia,Energy and utilities,,,,,,Asia,Metals and mining,,,,,,Asia,Energy and utilities,,,,,
 china everbright group,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,,,,,,,,,,,,,,,,,,,,,,
 china evergrande group,Asia,Real estate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-china faw group,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,1.0,,
-china general technology,Asia,Engineering and construction,,,,,,,,,,,,,,,,,,,,,,,,,,,Asia,Financial services,,,1.0,,
-china huadian,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,1.0,,
-china huaneng group,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,1.0,
-china life insurance,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,
-china merchants bank,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,1.0,
+china faw group,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,
+china general technology,Asia,Engineering and construction,,,,,,,,,,,,,,,,,,,,,,,,,,,Asia,Financial services,,,,,
+china huadian,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,
+china huaneng group,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,1.0,,
+china life insurance,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
+china merchants bank,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,
 china merchants group,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,,,,,,,,,,,,,,
-china minmetals,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,1.0,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,1.0,,
-china minsheng banking,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,
+china minmetals,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,1.0,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
+china minsheng banking,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
 china telecommunications,Asia,Telecommunications and media,,,1.0,,,Asia,Telecommunications and media,,,,,,Asia,Telecommunications and media,,,,,,Asia,Telecommunications and media,,,,,,Asia,Telecommunications and media,,,,,
-china national building material group,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,1.0,,Asia,Industrial goods,,,1.0,,
-china national coal group,Asia,Oil and gas,,,,,,Asia,Metals and mining,,,,,,Asia,Oil and gas,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,1.0,,
+china national building material group,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,1.0,,Asia,Industrial goods,,,,,
+china national coal group,Asia,Oil and gas,,,,,,Asia,Metals and mining,,,,,,Asia,Oil and gas,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
 china national nuclear,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,,,,,,,
 china national offshore oil,Asia,Oil and gas,,,,,,Asia,Metals and mining,,,,,,Asia,Oil and gas,,,1.0,,,Asia,Metals and mining,,,1.0,,1.0,Asia,Metals and mining,,,,,1.0
-china national petroleum,Asia,Oil and gas,,,,1.0,,Asia,Oil and gas,,,,1.0,,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,1.0,,
+china national petroleum,Asia,Oil and gas,,,,1.0,,Asia,Oil and gas,,,,1.0,,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,1.0,
 china south industries group,Asia,Aerospace and defense,,,,,,Asia,Aerospace and defense,,,,,,Asia,Aerospace and defense,,,,,,Asia,Aerospace and defense,,,,,,Asia,Aerospace and defense,,,,,
-china pacific insurance (group),Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,
+china pacific insurance (group),Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
 china post group,Asia,Real estate,,,,,,Asia,Transportation and logistics,,,1.0,,,Asia,Transportation and logistics,,,,,,Asia,Real estate,,,,,,Asia,Transportation and logistics,,,,,
-china railway construction,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,1.0,
+china railway construction,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,1.0,,
 china reinsurance (group),Asia,Financial services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 china resources,Asia,Health care and pharmaceuticals,,,,,,Asia,Health care and pharmaceuticals,,,,,,Asia,Health care and pharmaceuticals,,,,,,Asia,Health care and pharmaceuticals,,,,,,Asia,Financial services,,,,,
-china southern power grid,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,1.0,,
-china state construction engineering,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,1.0,,,Asia,Engineering and construction,,,,1.0,
+china southern power grid,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,
+china state construction engineering,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,1.0,,,Asia,Engineering and construction,,,1.0,,
 china state shipbuilding,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,,,,,,,
 china taiping insurance group,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,1.0,,,,,,,,,,,,,,,
-china united network communications,Asia,Telecommunications and media,,,,,,Asia,Telecommunications and media,,,,,,Asia,Telecommunications and media,,,,,,Asia,Telecommunications and media,,,,,,Asia,Telecommunications and media,,,1.0,,
-china vanke,Asia,Real estate,,,,,,Asia,Real estate,,,,,,Asia,Financial services,,,,,1.0,Asia,Real estate,,,,,,Asia,Real estate,,,1.0,,
+china united network communications,Asia,Telecommunications and media,,,,,,Asia,Telecommunications and media,,,,,,Asia,Telecommunications and media,,,,,,Asia,Telecommunications and media,,,,,,Asia,Telecommunications and media,,,,,
+china vanke,Asia,Real estate,,,,,,Asia,Real estate,,,,,,Asia,Financial services,,,,,1.0,Asia,Real estate,,,,,,Asia,Real estate,,,,,
 christian dior,Europe,Retail,,,,,,Europe,Household and personal products,,,,,,Europe,Retail,,,,,,Europe,Household and personal products,,,,,,Europe,Retail,,1.0,,,
 chs,North America,"Food, beverages and agriculture",,,,,,North America,"Food, beverages and agriculture",,,,,,North America,"Food, beverages and agriculture",,,,,,North America,"Food, beverages and agriculture",,,,,,North America,"Food, beverages and agriculture",,,,,
 chubb,Europe,Financial services,,,,,,Europe,Financial services,,,1.0,,1.0,Europe,Financial services,,,1.0,,1.0,Europe,Financial services,,,,,,Europe,Financial services,,,,,1.0
 chubu electric power,Asia,Energy and utilities,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-cigna,North America,Health care and pharmaceuticals,,,1.0,,,North America,Health care and pharmaceuticals,1.0,,1.0,,,North America,Health care and pharmaceuticals,1.0,,1.0,,,North America,Health care and pharmaceuticals,1.0,,1.0,,1.0,North America,Health care and pharmaceuticals,1.0,,,1.0,
-cisco systems,North America,Technology,,1.0,,,,North America,Telecommunications and media,,1.0,,1.0,,North America,Technology,,1.0,,1.0,,North America,Telecommunications and media,1.0,1.0,,1.0,,North America,Technology,1.0,1.0,,,
-citigroup,Asia,Financial services,,,1.0,,,Asia,Financial services,,,,,,North America,Financial services,1.0,,,1.0,,Asia,Financial services,,,,,,North America,Financial services,,,,,1.0
+cigna,North America,Health care and pharmaceuticals,,,1.0,,,North America,Health care and pharmaceuticals,1.0,,1.0,,,North America,Health care and pharmaceuticals,1.0,,1.0,,,North America,Health care and pharmaceuticals,1.0,,1.0,,1.0,North America,Health care and pharmaceuticals,1.0,,1.0,,
+cisco systems,North America,Technology,,1.0,,,,North America,Telecommunications and media,,1.0,,1.0,,North America,Technology,,1.0,,1.0,,North America,Telecommunications and media,1.0,1.0,,1.0,,North America,Technology,1.0,1.0,,1.0,
+citigroup,Asia,Financial services,,,1.0,,,Asia,Financial services,,,,,,North America,Financial services,1.0,,,1.0,,Asia,Financial services,,,,,,North America,Financial services,,,,1.0,1.0
 cj corp.,Asia,Retail,,,,,,Asia,"Food, beverages and agriculture",,,1.0,,1.0,Asia,"Food, beverages and agriculture",,,1.0,,,,,,,,,,,,,,,,
-ck hutchison holdings,Asia,Retail,,,,1.0,,Asia,Retail,,,,,,Asia,Retail,,1.0,,1.0,,Asia,Retail,,1.0,,1.0,1.0,Asia,Retail,,,,,
+ck hutchison holdings,Asia,Retail,,,,1.0,,Asia,Retail,,,,,,Asia,Retail,,1.0,,1.0,,Asia,Retail,,1.0,,1.0,1.0,Asia,Retail,,,,1.0,
 cma cgm,Europe,Transportation and logistics,,,1.0,,,Europe,Transportation and logistics,,,,1.0,,,,,,,,,,,,,,,,,,,,,,
-coca-cola,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,1.0,North America,"Food, beverages and agriculture",,1.0,,,
+coca-cola,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,1.0,North America,"Food, beverages and agriculture",,1.0,,1.0,
 cofco,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Retail,,,,,,Asia,Financial services,,1.0,,,,Asia,Financial services,,1.0,,,
 coles group,Other,"Food, beverages and agriculture",,,,1.0,,Other,Retail,,,,1.0,,,,,,,,,,,,,,,,,,,,,,
-comcast,North America,Telecommunications and media,,,1.0,,,North America,Telecommunications and media,,,1.0,,,North America,Telecommunications and media,,,1.0,,1.0,North America,Telecommunications and media,,,1.0,,,North America,Telecommunications and media,,1.0,,1.0,1.0
-commonwealth bank of australia,Other,Financial services,1.0,,,,,,,,,,,,,,,,,,,Other,Financial services,,,,1.0,1.0,Other,Financial services,1.0,,,,1.0
+comcast,North America,Telecommunications and media,,,1.0,,,North America,Telecommunications and media,,,1.0,,,North America,Telecommunications and media,,,1.0,,1.0,North America,Telecommunications and media,,,1.0,,,North America,Telecommunications and media,,1.0,1.0,,1.0
+commonwealth bank of australia,Other,Financial services,1.0,,,,,,,,,,,,,,,,,,,Other,Financial services,,,,1.0,1.0,Other,Financial services,1.0,,,1.0,1.0
 compal electronics,Asia,Technology,,,,,,Asia,Technology,,,,1.0,,Asia,Technology,,,,1.0,,,,,,,,,,,,,,,
-compass group,Europe,"Food, beverages and agriculture",,,,,,,,,,,,,Europe,Retail,,1.0,,1.0,,Europe,"Food, beverages and agriculture",,1.0,,1.0,1.0,Europe,Industrial goods,,1.0,,,1.0
-continental,Europe,Automotive,1.0,1.0,1.0,,,Europe,Automotive,1.0,1.0,1.0,,1.0,Europe,Automotive,1.0,1.0,1.0,,1.0,Europe,Automotive,1.0,1.0,1.0,,1.0,Europe,Automotive,1.0,1.0,,1.0,
-coop group,Europe,"Food, beverages and agriculture",,,1.0,,,Europe,Retail,,,1.0,1.0,1.0,Europe,"Food, beverages and agriculture",,1.0,,1.0,,Europe,Retail,,,,1.0,,Europe,Retail,,,,,
+compass group,Europe,"Food, beverages and agriculture",,,,,,,,,,,,,Europe,Retail,,1.0,,1.0,,Europe,"Food, beverages and agriculture",,1.0,,1.0,1.0,Europe,Industrial goods,,1.0,,1.0,1.0
+continental,Europe,Automotive,1.0,1.0,1.0,,,Europe,Automotive,1.0,1.0,1.0,,1.0,Europe,Automotive,1.0,1.0,1.0,,1.0,Europe,Automotive,1.0,1.0,1.0,,1.0,Europe,Automotive,1.0,1.0,1.0,,
+coop group,Europe,"Food, beverages and agriculture",,,1.0,,,Europe,Retail,,,1.0,1.0,1.0,Europe,"Food, beverages and agriculture",,1.0,,1.0,,Europe,Retail,,,,1.0,,Europe,Retail,,,,1.0,
 costco wholesale,North America,Retail,,,,,,North America,Retail,,,,,,North America,Retail,,,,,,North America,Retail,,,,,,North America,Retail,,,,,
-country garden holdings,Asia,Real estate,,,1.0,,,Asia,Real estate,,,,,-1.0,Asia,Financial services,,,,,,,,,,,,,Asia,Real estate,,,1.0,,
-credit agricole,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,,,Europe,Financial services,1.0,,1.0,,1.0,Europe,Financial services,1.0,,1.0,,1.0,Europe,Financial services,1.0,,,,1.0
+country garden holdings,Asia,Real estate,,,1.0,,,Asia,Real estate,,,,,-1.0,Asia,Financial services,,,,,,,,,,,,,Asia,Real estate,,,,,
+credit agricole,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,,,Europe,Financial services,1.0,,1.0,,1.0,Europe,Financial services,1.0,,1.0,,1.0,Europe,Financial services,1.0,,,1.0,1.0
 credit suisse group,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,
-crh,Other,Industrial goods,,,1.0,,,Europe,Industrial goods,,1.0,1.0,,,Europe,Industrial goods,,1.0,,1.0,,Europe,Industrial goods,,1.0,,1.0,,Europe,Industrial goods,,1.0,,,
-crrc group,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,1.0,,,Asia,Industrial goods,,,1.0,,,Asia,Industrial goods,,,,1.0,
-cvs health,North America,Health care and pharmaceuticals,,1.0,,,,North America,Health care and pharmaceuticals,,1.0,1.0,1.0,,North America,Health care and pharmaceuticals,,1.0,,1.0,,North America,Health care and pharmaceuticals,,1.0,,1.0,,North America,Health care and pharmaceuticals,,1.0,,,1.0
-dai-ichi life holdings,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,,
+crh,Other,Industrial goods,,,1.0,,,Europe,Industrial goods,,1.0,1.0,,,Europe,Industrial goods,,1.0,,1.0,,Europe,Industrial goods,,1.0,,1.0,,Europe,Industrial goods,,1.0,,1.0,
+crrc group,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,1.0,,,Asia,Industrial goods,,,1.0,,,Asia,Industrial goods,,,1.0,,
+cvs health,North America,Health care and pharmaceuticals,,1.0,,,,North America,Health care and pharmaceuticals,,1.0,1.0,1.0,,North America,Health care and pharmaceuticals,,1.0,,1.0,,North America,Health care and pharmaceuticals,,1.0,,1.0,,North America,Health care and pharmaceuticals,,1.0,,1.0,1.0
+dai-ichi life holdings,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,
 daimler,Europe,Automotive,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-daiwa house industry,Asia,Real estate,1.0,1.0,,1.0,,Asia,Engineering and construction,1.0,1.0,1.0,,,Asia,Engineering and construction,1.0,1.0,,1.0,,Asia,Engineering and construction,1.0,1.0,,1.0,,Asia,Engineering and construction,,1.0,,,1.0
+daiwa house industry,Asia,Real estate,1.0,1.0,,1.0,,Asia,Engineering and construction,1.0,1.0,1.0,,,Asia,Engineering and construction,1.0,1.0,,1.0,,Asia,Engineering and construction,1.0,1.0,,1.0,,Asia,Engineering and construction,,1.0,,1.0,1.0
 danone,Europe,"Food, beverages and agriculture",1.0,1.0,1.0,,,Europe,"Food, beverages and agriculture",1.0,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,
-deere,North America,Industrial goods,,,,,,North America,Industrial goods,,,,,,North America,Industrial goods,,1.0,,,,North America,Industrial goods,,1.0,,,,North America,Engineering and construction,,1.0,,,
-dell technologies,North America,Technology,1.0,1.0,,1.0,,North America,Technology,1.0,1.0,,1.0,,North America,Technology,1.0,1.0,,1.0,,North America,Technology,1.0,1.0,,1.0,1.0,North America,Technology,1.0,1.0,,,
-denso,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,1.0,Asia,Automotive,,1.0,1.0,,1.0,Asia,Automotive,,1.0,,1.0,1.0
-deutsche bank,Europe,Transportation and logistics,,1.0,1.0,,,Europe,Transportation and logistics,,1.0,1.0,,,Europe,Transportation and logistics,,1.0,1.0,,1.0,Europe,Transportation and logistics,,1.0,1.0,,,Europe,Financial services,1.0,,,,1.0
+deere,North America,Industrial goods,,,,,,North America,Industrial goods,,,,,,North America,Industrial goods,,1.0,,,,North America,Industrial goods,,1.0,,,,North America,Engineering and construction,,1.0,,1.0,
+dell technologies,North America,Technology,1.0,1.0,,1.0,,North America,Technology,1.0,1.0,,1.0,,North America,Technology,1.0,1.0,,1.0,,North America,Technology,1.0,1.0,,1.0,1.0,North America,Technology,1.0,1.0,,1.0,
+denso,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,1.0,Asia,Automotive,,1.0,1.0,,1.0,Asia,Automotive,,1.0,1.0,,1.0
+deutsche bank,Europe,Transportation and logistics,,1.0,1.0,,,Europe,Transportation and logistics,,1.0,1.0,,,Europe,Transportation and logistics,,1.0,1.0,,1.0,Europe,Transportation and logistics,,1.0,1.0,,,Europe,Financial services,1.0,,,1.0,1.0
 deutsche post dhl group,Europe,Transportation and logistics,,,,1.0,,Europe,Transportation and logistics,,,,1.0,1.0,Europe,Transportation and logistics,,1.0,,1.0,,,,,,,,,,,,,,,
-deutsche telekom,Europe,Telecommunications and media,1.0,1.0,1.0,1.0,,Europe,Telecommunications and media,1.0,1.0,1.0,1.0,,Europe,Telecommunications and media,1.0,1.0,,1.0,1.0,Europe,Telecommunications and media,1.0,1.0,,1.0,1.0,Europe,Telecommunications and media,1.0,1.0,,,1.0
+deutsche telekom,Europe,Telecommunications and media,1.0,1.0,1.0,1.0,,Europe,Telecommunications and media,1.0,1.0,1.0,1.0,,Europe,Telecommunications and media,1.0,1.0,,1.0,1.0,Europe,Telecommunications and media,1.0,1.0,,1.0,1.0,Europe,Telecommunications and media,1.0,1.0,,1.0,1.0
 dollar general,North America,Retail,,,,,,North America,Retail,,,,,,North America,Retail,,,,,,North America,Retail,,,,,,North America,Retail,,,,,1.0
 dollar tree,North America,Retail,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-dongfeng motor,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,1.0,Asia,Automotive,,,,,,Asia,Automotive,,,,1.0,
-dow,North America,Chemicals,,,1.0,,,North America,Chemicals,,,1.0,,1.0,North America,Chemicals,,,1.0,,,North America,Chemicals,,,1.0,,1.0,North America,Chemicals,,,,1.0,
-dz bank,Europe,Financial services,,,,,,Europe,Financial services,,,,,,,,,,,,,Europe,Financial services,,,1.0,,1.0,Europe,Financial services,,,,,1.0
-e.on,Europe,Energy and utilities,,,1.0,,,Europe,Energy and utilities,,1.0,1.0,,-1.0,Europe,Energy and utilities,,1.0,1.0,,1.0,Europe,Energy and utilities,,1.0,1.0,,1.0,Europe,Energy and utilities,,1.0,,1.0,
-edeka zentrale,Europe,"Food, beverages and agriculture",,,,,,Europe,Retail,,,,,-1.0,Europe,Retail,,,,,,Europe,Retail,,,,1.0,,Europe,"Food, beverages and agriculture",,1.0,,,
-electricite de france,Europe,Energy and utilities,,1.0,1.0,,,Europe,Energy and utilities,,1.0,1.0,,1.0,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,,-1.0
-eli lilly,North America,Health care and pharmaceuticals,,,1.0,,,,,,,,,,,,,,,,,North America,Health care and pharmaceuticals,,,1.0,,1.0,North America,Health care and pharmaceuticals,,,,1.0,1.0
+dongfeng motor,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,1.0,Asia,Automotive,,,,,,Asia,Automotive,,,1.0,,
+dow,North America,Chemicals,,,1.0,,,North America,Chemicals,,,1.0,,1.0,North America,Chemicals,,,1.0,,,North America,Chemicals,,,1.0,,1.0,North America,Chemicals,,,1.0,,
+dz bank,Europe,Financial services,,,,,,Europe,Financial services,,,,,,,,,,,,,Europe,Financial services,,,1.0,,1.0,Europe,Financial services,,,,1.0,1.0
+e.on,Europe,Energy and utilities,,,1.0,,,Europe,Energy and utilities,,1.0,1.0,,-1.0,Europe,Energy and utilities,,1.0,1.0,,1.0,Europe,Energy and utilities,,1.0,1.0,,1.0,Europe,Energy and utilities,,1.0,1.0,,
+edeka zentrale,Europe,"Food, beverages and agriculture",,,,,,Europe,Retail,,,,,-1.0,Europe,Retail,,,,,,Europe,Retail,,,,1.0,,Europe,"Food, beverages and agriculture",,1.0,,1.0,
+electricite de france,Europe,Energy and utilities,,1.0,1.0,,,Europe,Energy and utilities,,1.0,1.0,,1.0,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,-1.0
+eli lilly,North America,Health care and pharmaceuticals,,,1.0,,,,,,,,,,,,,,,,,North America,Health care and pharmaceuticals,,,1.0,,1.0,North America,Health care and pharmaceuticals,,,1.0,,1.0
 elo group,Europe,"Food, beverages and agriculture",,,,,,Europe,Retail,,,1.0,,,Europe,"Food, beverages and agriculture",,1.0,,,,Europe,Retail,,,,,,Europe,Retail,,,,,
-enbridge,North America,Oil and gas,,,,1.0,,North America,Oil and gas,,,,1.0,1.0,North America,Energy and utilities,,,,1.0,,North America,Oil and gas,,,,1.0,1.0,North America,Energy and utilities,,,,,1.0
-enel,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,-1.0,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,1.0,Europe,Energy and utilities,,1.0,,,-1.0
-eneos holdings,Asia,Oil and gas,,,1.0,,,Asia,Oil and gas,,,1.0,,,Asia,Energy and utilities,,,1.0,,,Asia,Oil and gas,,,1.0,,1.0,Asia,Oil and gas,,,,1.0,1.0
+enbridge,North America,Oil and gas,,,,1.0,,North America,Oil and gas,,,,1.0,1.0,North America,Energy and utilities,,,,1.0,,North America,Oil and gas,,,,1.0,1.0,North America,Energy and utilities,,,,1.0,1.0
+enel,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,-1.0,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,1.0,Europe,Energy and utilities,,1.0,,1.0,-1.0
+eneos holdings,Asia,Oil and gas,,,1.0,,,Asia,Oil and gas,,,1.0,,,Asia,Energy and utilities,,,1.0,,,Asia,Oil and gas,,,1.0,,1.0,Asia,Oil and gas,,,1.0,,1.0
 energy transfer,North America,Oil and gas,,,,,,North America,Oil and gas,,,,,,North America,Energy and utilities,,,,,,North America,Oil and gas,,,,,,North America,Energy and utilities,,,,,
-engie,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,-1.0,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,1.0,Europe,Energy and utilities,,1.0,,,1.0
-eni,Europe,Oil and gas,,,1.0,1.0,,Europe,Oil and gas,,,,1.0,,Europe,Energy and utilities,,,1.0,,1.0,Europe,Oil and gas,,,,1.0,1.0,Europe,Oil and gas,,,,,1.0
+engie,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,-1.0,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,1.0,Europe,Energy and utilities,,1.0,,1.0,1.0
+eni,Europe,Oil and gas,,,1.0,1.0,,Europe,Oil and gas,,,,1.0,,Europe,Energy and utilities,,,1.0,,1.0,Europe,Oil and gas,,,,1.0,1.0,Europe,Oil and gas,,,,1.0,1.0
 enterprise products partners,North America,Oil and gas,,,,,,North America,Oil and gas,,,,,,North America,Energy and utilities,,,,,,North America,Oil and gas,,,,,,North America,Energy and utilities,,,,,
-equinor,Europe,Oil and gas,,,1.0,1.0,,Europe,Oil and gas,,,1.0,1.0,,Europe,Energy and utilities,,,,1.0,,Europe,Oil and gas,,,,1.0,,Europe,Oil and gas,,,,,1.0
+equinor,Europe,Oil and gas,,,1.0,1.0,,Europe,Oil and gas,,,1.0,1.0,,Europe,Energy and utilities,,,,1.0,,Europe,Oil and gas,,,,1.0,,Europe,Oil and gas,,,,1.0,1.0
 ericsson,Europe,Telecommunications and media,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 exelon,North America,Energy and utilities,,,,1.0,,North America,Energy and utilities,,,,1.0,,,,,,,,,,,,,,,,,,,,,,
 exor group,Europe,Financial services,,,,,,Europe,Financial services,,,1.0,1.0,-1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0,,,,,,,
-exxon mobil,North America,Oil and gas,,,,,,North America,Oil and gas,,,,1.0,,North America,Energy and utilities,,,,1.0,,North America,Oil and gas,,,,1.0,1.0,North America,Oil and gas,,,,,1.0
+exxon mobil,North America,Oil and gas,,,,,,North America,Oil and gas,,,,1.0,,North America,Energy and utilities,,,,1.0,,North America,Oil and gas,,,,1.0,1.0,North America,Oil and gas,,,,1.0,1.0
 facebook,North America,Technology,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 fannie mae,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,
-fedex,North America,Transportation and logistics,,,1.0,,,North America,Transportation and logistics,,,1.0,,1.0,North America,Transportation and logistics,,,1.0,,,North America,Transportation and logistics,,,1.0,,,North America,Transportation and logistics,,,,1.0,
+fedex,North America,Transportation and logistics,,,1.0,,,North America,Transportation and logistics,,,1.0,,1.0,North America,Transportation and logistics,,,1.0,,,North America,Transportation and logistics,,,1.0,,,North America,Transportation and logistics,,,1.0,,
 financière de l'odet,Europe,Telecommunications and media,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 finatis,Europe,"Food, beverages and agriculture",,,,,,Europe,Retail,,,,,,Europe,"Food, beverages and agriculture",,,,,,,,,,,,,,,,,,,
 flex,Asia,Technology,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ford motor,North America,Automotive,,1.0,1.0,,,North America,Automotive,,1.0,1.0,,,North America,Automotive,,1.0,1.0,,1.0,North America,Automotive,,1.0,1.0,,1.0,North America,Automotive,,1.0,,1.0,1.0
+ford motor,North America,Automotive,,1.0,1.0,,,North America,Automotive,,1.0,1.0,,,North America,Automotive,,1.0,1.0,,1.0,North America,Automotive,,1.0,1.0,,1.0,North America,Automotive,,1.0,1.0,,1.0
 fortum,Europe,Energy and utilities,,,1.0,,,Europe,Energy and utilities,,,1.0,,,,,,,,,,,,,,,,,,,,,,,
 freddie mac,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,
 fresenius,Europe,Health care and pharmaceuticals,,,,,,Europe,Health care and pharmaceuticals,,,,1.0,,Europe,Health care and pharmaceuticals,,,1.0,,,,,,,,,,,,,,,,
 fubon financial holding,Asia,Financial services,,,,,,Asia,Financial services,,,,,,,,,,,,,,,,,,,,,,,,,,
 fujitsu,Asia,Technology,1.0,1.0,,1.0,,Asia,Technology,1.0,1.0,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,
 gazprom,Europe,Energy and utilities,,,,,,Europe,Oil and gas,,,,,,Europe,Energy and utilities,,,,,,Asia,Oil and gas,,,,,,Europe,Energy and utilities,,,,,1.0
-general dynamics,North America,Aerospace and defense,,,,,,North America,Aerospace and defense,,,1.0,,1.0,North America,Aerospace and defense,,,,,,North America,Aerospace and defense,,,1.0,,,North America,Aerospace and defense,,,,1.0,
+general dynamics,North America,Aerospace and defense,,,,,,North America,Aerospace and defense,,,1.0,,1.0,North America,Aerospace and defense,,,,,,North America,Aerospace and defense,,,1.0,,,North America,Aerospace and defense,,,1.0,,
 general electric,North America,Industrial goods,,,1.0,1.0,,North America,Industrial goods,,,1.0,1.0,1.0,North America,Industrial goods,,,,1.0,1.0,North America,Industrial goods,,,,1.0,1.0,,,,,,,
-general motors,North America,Automotive,1.0,1.0,1.0,,,North America,Automotive,1.0,1.0,1.0,,,North America,Automotive,1.0,1.0,1.0,,,North America,Automotive,1.0,1.0,1.0,,,North America,Automotive,1.0,1.0,,1.0,1.0
-george weston,North America,"Food, beverages and agriculture",,,,,,North America,Retail,,,,1.0,,North America,"Food, beverages and agriculture",,,,1.0,,North America,Retail,,,,1.0,1.0,North America,Retail,,,,,
+general motors,North America,Automotive,1.0,1.0,1.0,,,North America,Automotive,1.0,1.0,1.0,,,North America,Automotive,1.0,1.0,1.0,,,North America,Automotive,1.0,1.0,1.0,,,North America,Automotive,1.0,1.0,1.0,,1.0
+george weston,North America,"Food, beverages and agriculture",,,,,,North America,Retail,,,,1.0,,North America,"Food, beverages and agriculture",,,,1.0,,North America,Retail,,,,1.0,1.0,North America,Retail,,,,1.0,
 gilead sciences,North America,Health care and pharmaceuticals,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 glaxosmithkline,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-glencore,Europe,Industrial goods,,,,1.0,,Europe,Metals and mining,,,,1.0,-1.0,Europe,Energy and utilities,,,,1.0,,Europe,Metals and mining,,,,1.0,,Europe,Metals and mining,,,,,
-goldman sachs group,North America,Financial services,1.0,,1.0,1.0,,North America,Financial services,1.0,,1.0,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,,,,1.0
+glencore,Europe,Industrial goods,,,,1.0,,Europe,Metals and mining,,,,1.0,-1.0,Europe,Energy and utilities,,,,1.0,,Europe,Metals and mining,,,,1.0,,Europe,Metals and mining,,,,1.0,
+goldman sachs group,North America,Financial services,1.0,,1.0,1.0,,North America,Financial services,1.0,,1.0,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0
 gree electric appliances,Asia,Technology,,,,,,Asia,Industrial goods,,,,,,,,,,,,,,,,,,,,,,,,,,
-greenland holding group,Asia,Real estate,,,,,,Asia,Real estate,,,,,,Asia,Financial services,,,,,,Asia,Real estate,,,,,,Asia,Real estate,,,1.0,,
-groupe bpce,Europe,Financial services,,,,1.0,,Europe,Financial services,,,,1.0,-1.0,Europe,Financial services,,,1.0,,,Europe,Financial services,,,1.0,,1.0,Europe,Financial services,,,,,1.0
-guangxi investment group,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,
-guangzhou automobile industry group,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,1.0,Asia,Automotive,,,,1.0,
+greenland holding group,Asia,Real estate,,,,,,Asia,Real estate,,,,,,Asia,Financial services,,,,,,Asia,Real estate,,,,,,Asia,Real estate,,,,,
+groupe bpce,Europe,Financial services,,,,1.0,,Europe,Financial services,,,,1.0,-1.0,Europe,Financial services,,,1.0,,,Europe,Financial services,,,1.0,,1.0,Europe,Financial services,,,,1.0,1.0
+guangxi investment group,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
+guangzhou automobile industry group,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,1.0,Asia,Automotive,,,1.0,,
 guangzhou municipal construction group,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,
 guangzhou pharmaceutical holdings,Asia,Health care and pharmaceuticals,,,,,,Asia,Health care and pharmaceuticals,,,,,,Asia,Health care and pharmaceuticals,,,,,,Asia,Health care and pharmaceuticals,,,,,,Asia,Health care and pharmaceuticals,,,,,
-haier smart home,Asia,Technology,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,1.0,,Asia,Industrial goods,,,,,,Asia,Household and personal products,,,,,
-hailiang group,Asia,Financial services,,,,,,Asia,Financial services,,,,,,,,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
-hanwha,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,,1.0
-hbis group,Asia,Industrial goods,,,1.0,,,Asia,Metals and mining,,,1.0,,,Asia,Industrial goods,,,1.0,,,Asia,Metals and mining,,,1.0,,,Asia,Metals and mining,,,,1.0,
-hca healthcare,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,1.0,,North America,Health care and pharmaceuticals,,,,,
-hengli group,Asia,Retail,,,,,,Asia,Household and personal products,,,,,,Asia,Industrial goods,,,,,,Asia,Household and personal products,,,,,,Asia,Household and personal products,,,1.0,,
+haier smart home,Asia,Technology,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,1.0,,Asia,Industrial goods,,,,,,Asia,Household and personal products,,,,1.0,
+hailiang group,Asia,Financial services,,,,,,Asia,Financial services,,,,,,,,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,1.0,
+hanwha,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,1.0
+hbis group,Asia,Industrial goods,,,1.0,,,Asia,Metals and mining,,,1.0,,,Asia,Industrial goods,,,1.0,,,Asia,Metals and mining,,,1.0,,,Asia,Metals and mining,,,1.0,,
+hca healthcare,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,1.0,,North America,Health care and pharmaceuticals,,,,1.0,
+hengli group,Asia,Retail,,,,,,Asia,Household and personal products,,,,,,Asia,Industrial goods,,,,,,Asia,Household and personal products,,,,,,Asia,Household and personal products,,,,,
 heraeus holding,Europe,Industrial goods,,,,,,Europe,Metals and mining,,,1.0,,,,,,,,,,,,,,,,,,,,,,,
 hewlett packard enterprise,North America,Technology,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-hitachi,Asia,Technology,,1.0,1.0,,,Asia,Industrial goods,,1.0,1.0,,,Asia,Technology,,1.0,1.0,,1.0,Asia,Industrial goods,,1.0,1.0,,1.0,Asia,Technology,,1.0,,,
+hitachi,Asia,Technology,,1.0,1.0,,,Asia,Industrial goods,,1.0,1.0,,,Asia,Technology,,1.0,1.0,,1.0,Asia,Industrial goods,,1.0,1.0,,1.0,Asia,Technology,,1.0,,1.0,
 holcim,Europe,Industrial goods,,,,1.0,,Europe,Industrial goods,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,
 home depot,North America,Retail,,,,,,North America,Retail,1.0,,,,,North America,Retail,1.0,,,,,North America,Retail,1.0,1.0,,,,North America,Retail,1.0,1.0,,,
-hon hai precision industry,Asia,Technology,,,,1.0,,Asia,Industrial goods,,,,1.0,,Asia,Technology,,1.0,,1.0,,Asia,Industrial goods,,1.0,,1.0,1.0,Asia,Technology,1.0,1.0,,,
-honda motor,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,1.0,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,,1.0,1.0
-honeywell international,North America,Technology,,,1.0,,,North America,Industrial goods,,,1.0,,,North America,Industrial goods,,1.0,1.0,,1.0,North America,Industrial goods,,1.0,1.0,,,North America,Industrial goods,,1.0,,1.0,1.0
-hp,North America,Technology,1.0,1.0,1.0,1.0,,North America,Technology,1.0,1.0,1.0,1.0,,North America,Technology,1.0,1.0,,1.0,1.0,North America,Technology,1.0,1.0,,1.0,1.0,North America,Technology,1.0,1.0,,,1.0
-hsbc holdings,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,,1.0
+hon hai precision industry,Asia,Technology,,,,1.0,,Asia,Industrial goods,,,,1.0,,Asia,Technology,,1.0,,1.0,,Asia,Industrial goods,,1.0,,1.0,1.0,Asia,Technology,1.0,1.0,,1.0,
+honda motor,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,1.0,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,1.0
+honeywell international,North America,Technology,,,1.0,,,North America,Industrial goods,,,1.0,,,North America,Industrial goods,,1.0,1.0,,1.0,North America,Industrial goods,,1.0,1.0,,,North America,Industrial goods,,1.0,1.0,,1.0
+hp,North America,Technology,1.0,1.0,1.0,1.0,,North America,Technology,1.0,1.0,1.0,1.0,,North America,Technology,1.0,1.0,,1.0,1.0,North America,Technology,1.0,1.0,,1.0,1.0,North America,Technology,1.0,1.0,,1.0,1.0
+hsbc holdings,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0
 huawei investment & holding,Asia,Technology,,,,,,Asia,Telecommunications and media,,,,,,Asia,Technology,,,,,,Asia,Telecommunications and media,,,,,,Asia,Technology,,,,,
 huayang new material technology group,Asia,Industrial goods,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 humana,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,1.0,,,,North America,Health care and pharmaceuticals,,1.0,,,
-hyundai mobis,Asia,Automotive,,,,,,Asia,Automotive,1.0,,1.0,,,Asia,Automotive,1.0,,,1.0,,Asia,Automotive,1.0,,,1.0,1.0,Asia,Automotive,1.0,1.0,,,
-hyundai motor,Asia,Automotive,1.0,,1.0,,,Asia,Automotive,1.0,,1.0,,1.0,Asia,Automotive,1.0,,,1.0,,Asia,Automotive,1.0,,1.0,,1.0,Asia,Automotive,1.0,,,1.0,
-iberdrola,Europe,Energy and utilities,,1.0,1.0,,,Europe,Energy and utilities,,1.0,1.0,,,Europe,Energy and utilities,,1.0,,1.0,-1.0,Europe,Energy and utilities,,1.0,,1.0,1.0,Europe,Energy and utilities,,1.0,,,1.0
-idemitsu kosan,Asia,Oil and gas,,,1.0,,,Asia,Oil and gas,,,1.0,,,Asia,Energy and utilities,,,1.0,,1.0,Asia,Oil and gas,,,1.0,,1.0,Asia,Oil and gas,,,,1.0,
-indian oil,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,,,Asia,Energy and utilities,,,,1.0,,Asia,Oil and gas,,,,1.0,1.0,Asia,Oil and gas,,,,,1.0
-industrial & commercial bank of china,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,1.0
-industrial bank,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,1.0,1.0
-ing group,Europe,Financial services,1.0,,1.0,,,Europe,Retail,1.0,1.0,,1.0,,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,1.0,,,-1.0
-intel,North America,Technology,1.0,,1.0,,,North America,Industrial goods,1.0,,,1.0,-1.0,North America,Technology,1.0,,,1.0,,North America,Industrial goods,1.0,,,1.0,1.0,North America,Technology,1.0,,,,1.0
+hyundai mobis,Asia,Automotive,,,,,,Asia,Automotive,1.0,,1.0,,,Asia,Automotive,1.0,,,1.0,,Asia,Automotive,1.0,,,1.0,1.0,Asia,Automotive,1.0,1.0,,1.0,
+hyundai motor,Asia,Automotive,1.0,,1.0,,,Asia,Automotive,1.0,,1.0,,1.0,Asia,Automotive,1.0,,,1.0,,Asia,Automotive,1.0,,1.0,,1.0,Asia,Automotive,1.0,,1.0,,
+iberdrola,Europe,Energy and utilities,,1.0,1.0,,,Europe,Energy and utilities,,1.0,1.0,,,Europe,Energy and utilities,,1.0,,1.0,-1.0,Europe,Energy and utilities,,1.0,,1.0,1.0,Europe,Energy and utilities,,1.0,,1.0,1.0
+idemitsu kosan,Asia,Oil and gas,,,1.0,,,Asia,Oil and gas,,,1.0,,,Asia,Energy and utilities,,,1.0,,1.0,Asia,Oil and gas,,,1.0,,1.0,Asia,Oil and gas,,,1.0,,
+indian oil,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,,,Asia,Energy and utilities,,,,1.0,,Asia,Oil and gas,,,,1.0,1.0,Asia,Oil and gas,,,,1.0,1.0
+industrial & commercial bank of china,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,1.0
+industrial bank,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,1.0
+ing group,Europe,Financial services,1.0,,1.0,,,Europe,Retail,1.0,1.0,,1.0,,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,1.0,,1.0,-1.0
+intel,North America,Technology,1.0,,1.0,,,North America,Industrial goods,1.0,,,1.0,-1.0,North America,Technology,1.0,,,1.0,,North America,Industrial goods,1.0,,,1.0,1.0,North America,Technology,1.0,,,1.0,1.0
 international business machines,North America,Technology,,,,1.0,,North America,Technology,,,,1.0,,,,,,,,,,,,,,,,,,,,,,
-intesa sanpaolo,Europe,Financial services,,,,,,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,,Europe,Financial services,,1.0,,,1.0
-itau unibanco holding,Other,Financial services,,,,,,Other,Financial services,,,1.0,1.0,1.0,Other,Financial services,,,,1.0,1.0,Other,Financial services,,,,1.0,1.0,Other,Financial services,,,,,1.0
-itochu,Asia,Financial services,,,1.0,1.0,,Asia,Financial services,,,1.0,1.0,1.0,Asia,Retail,,,,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,,1.0
-j. sainsbury,Europe,"Food, beverages and agriculture",,1.0,,1.0,,Europe,Retail,,1.0,,1.0,-1.0,Europe,"Food, beverages and agriculture",,1.0,,1.0,,Europe,Retail,,1.0,,1.0,,Europe,Retail,,1.0,,,
+intesa sanpaolo,Europe,Financial services,,,,,,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,,Europe,Financial services,,1.0,,1.0,1.0
+itau unibanco holding,Other,Financial services,,,,,,Other,Financial services,,,1.0,1.0,1.0,Other,Financial services,,,,1.0,1.0,Other,Financial services,,,,1.0,1.0,Other,Financial services,,,,1.0,1.0
+itochu,Asia,Financial services,,,1.0,1.0,,Asia,Financial services,,,1.0,1.0,1.0,Asia,Retail,,,,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,1.0
+j. sainsbury,Europe,"Food, beverages and agriculture",,1.0,,1.0,,Europe,Retail,,1.0,,1.0,-1.0,Europe,"Food, beverages and agriculture",,1.0,,1.0,,Europe,Retail,,1.0,,1.0,,Europe,Retail,,1.0,,1.0,
 jabil,North America,Technology,,,,,,North America,Industrial goods,,,1.0,,,North America,Technology,,,1.0,,,North America,Industrial goods,,,1.0,,,,,,,,,
-japan post holdings,Asia,Financial services,,,1.0,,,Asia,Financial services,,,1.0,,-1.0,Asia,Financial services,,,1.0,,,Asia,Financial services,,,1.0,,,Asia,Financial services,,,,1.0,
-jardine matheson,North America,Automotive,,,,,,North America,Automotive,,,,,,North America,Automotive,,,,,,Other,Automotive,,,,1.0,,Asia,Automotive,,,,,
-jbs,Other,"Food, beverages and agriculture",,,,1.0,,Other,"Food, beverages and agriculture",,,,1.0,-1.0,Other,"Food, beverages and agriculture",,,,1.0,,Other,"Food, beverages and agriculture",,,,1.0,1.0,Europe,"Food, beverages and agriculture",,,,,
-jd.com,Asia,Technology,,,,,,Asia,Retail,,,1.0,,1.0,Asia,Retail,,,,,,Asia,Retail,,,,,,Asia,Retail,,,1.0,,
+japan post holdings,Asia,Financial services,,,1.0,,,Asia,Financial services,,,1.0,,-1.0,Asia,Financial services,,,1.0,,,Asia,Financial services,,,1.0,,,Asia,Financial services,,,1.0,,
+jardine matheson,North America,Automotive,,,,,,North America,Automotive,,,,,,North America,Automotive,,,,,,Other,Automotive,,,,1.0,,Asia,Automotive,,,,1.0,
+jbs,Other,"Food, beverages and agriculture",,,,1.0,,Other,"Food, beverages and agriculture",,,,1.0,-1.0,Other,"Food, beverages and agriculture",,,,1.0,,Other,"Food, beverages and agriculture",,,,1.0,1.0,Europe,"Food, beverages and agriculture",,,,1.0,
+jd.com,Asia,Technology,,,,,,Asia,Retail,,,1.0,,1.0,Asia,Retail,,,,,,Asia,Retail,,,,,,Asia,Retail,,,,,
 jfe holdings,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,1.0,,,Asia,Industrial goods,,,1.0,,,Asia,Metals and mining,,,1.0,,,,,,,,,
-jiangsu shagang group,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,1.0,,
-jiangxi copper,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,1.0,,
-jinchuan group,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,1.0,,
+jiangsu shagang group,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
+jiangxi copper,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
+jinchuan group,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
 jinneng holding group,Asia,Oil and gas,,,,,,Asia,Metals and mining,,,,,,Asia,Energy and utilities,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
-johnson & johnson,North America,Health care and pharmaceuticals,1.0,1.0,1.0,1.0,,North America,Health care and pharmaceuticals,1.0,1.0,1.0,,,North America,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,North America,Health care and pharmaceuticals,1.0,1.0,,1.0,,North America,Health care and pharmaceuticals,1.0,1.0,,,1.0
-jpmorgan chase,North America,Financial services,1.0,,1.0,,,North America,Financial services,1.0,,1.0,,,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,,1.0
+johnson & johnson,North America,Health care and pharmaceuticals,1.0,1.0,1.0,1.0,,North America,Health care and pharmaceuticals,1.0,1.0,1.0,,,North America,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,North America,Health care and pharmaceuticals,1.0,1.0,,1.0,,North America,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0
+jpmorgan chase,North America,Financial services,1.0,,1.0,,,North America,Financial services,1.0,,1.0,,,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0
 kansai electric power,Asia,Energy and utilities,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-kb financial group,Asia,Financial services,,,,1.0,,Asia,Financial services,,1.0,1.0,,-1.0,Asia,Financial services,1.0,1.0,,1.0,,Asia,Financial services,1.0,1.0,,1.0,1.0,Asia,Financial services,1.0,1.0,,,
-kddi,Asia,Telecommunications and media,,,,1.0,,Asia,Telecommunications and media,1.0,1.0,,1.0,,Asia,Telecommunications and media,1.0,1.0,,1.0,1.0,Asia,Telecommunications and media,1.0,1.0,1.0,,1.0,Asia,Telecommunications and media,1.0,1.0,,,1.0
-kia,Asia,Automotive,,,,,,Asia,Automotive,1.0,,1.0,,,Asia,Automotive,1.0,,1.0,,1.0,Asia,Automotive,1.0,,,1.0,1.0,Asia,Automotive,1.0,,,1.0,
-koc holding,Other,Energy and utilities,,,1.0,,,Other,Energy and utilities,,,1.0,,,Other,Energy and utilities,,,1.0,,,Asia,Energy and utilities,,,1.0,,,Europe,Energy and utilities,,,,1.0,
-tokyo electric power,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,1.0,,,Asia,Energy and utilities,,,,1.0,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,1.0,1.0
+kb financial group,Asia,Financial services,,,,1.0,,Asia,Financial services,,1.0,1.0,,-1.0,Asia,Financial services,1.0,1.0,,1.0,,Asia,Financial services,1.0,1.0,,1.0,1.0,Asia,Financial services,1.0,1.0,,1.0,
+kddi,Asia,Telecommunications and media,,,,1.0,,Asia,Telecommunications and media,1.0,1.0,,1.0,,Asia,Telecommunications and media,1.0,1.0,,1.0,1.0,Asia,Telecommunications and media,1.0,1.0,1.0,,1.0,Asia,Telecommunications and media,1.0,1.0,,1.0,1.0
+kia,Asia,Automotive,,,,,,Asia,Automotive,1.0,,1.0,,,Asia,Automotive,1.0,,1.0,,1.0,Asia,Automotive,1.0,,,1.0,1.0,Asia,Automotive,1.0,,1.0,,
+koc holding,Other,Energy and utilities,,,1.0,,,Other,Energy and utilities,,,1.0,,,Other,Energy and utilities,,,1.0,,,Asia,Energy and utilities,,,1.0,,,Europe,Energy and utilities,,,1.0,,
+tokyo electric power,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,1.0,,,Asia,Energy and utilities,,,,1.0,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,1.0,,1.0
 kraft heinz,North America,"Food, beverages and agriculture",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 kroger,North America,"Food, beverages and agriculture",,,,,,North America,Retail,,,,,,North America,"Food, beverages and agriculture",,,,,,North America,Retail,,,,,,North America,Retail,,,,,
-la poste,Europe,Transportation and logistics,1.0,1.0,1.0,,,Europe,Transportation and logistics,1.0,1.0,1.0,1.0,1.0,Europe,Transportation and logistics,,1.0,,1.0,1.0,Europe,Transportation and logistics,,1.0,,1.0,,Europe,Transportation and logistics,1.0,1.0,,,
+la poste,Europe,Transportation and logistics,1.0,1.0,1.0,,,Europe,Transportation and logistics,1.0,1.0,1.0,1.0,1.0,Europe,Transportation and logistics,,1.0,,1.0,1.0,Europe,Transportation and logistics,,1.0,,1.0,,Europe,Transportation and logistics,1.0,1.0,,1.0,
 legal & general group,Europe,Financial services,,,,1.0,,Europe,Financial services,,,,1.0,,,,,,,,,,,,,,,,,,,,,,
-lenovo group,Asia,Technology,,1.0,,,,Asia,Technology,,1.0,,1.0,1.0,Asia,Technology,,1.0,,1.0,,Asia,Technology,,1.0,,1.0,1.0,Asia,Technology,,1.0,,,
-lg chem,Asia,Chemicals,,,,,,Asia,Chemicals,,,,1.0,1.0,Asia,Chemicals,,,,1.0,1.0,Asia,Chemicals,,,,1.0,1.0,Asia,Chemicals,,,,,1.0
-lg electronics,Asia,Technology,,,1.0,,,Asia,Industrial goods,,1.0,1.0,,,Asia,Technology,1.0,1.0,1.0,,1.0,Asia,Industrial goods,1.0,1.0,1.0,,1.0,Asia,Technology,1.0,1.0,,1.0,1.0
+lenovo group,Asia,Technology,,1.0,,,,Asia,Technology,,1.0,,1.0,1.0,Asia,Technology,,1.0,,1.0,,Asia,Technology,,1.0,,1.0,1.0,Asia,Technology,,1.0,,1.0,
+lg chem,Asia,Chemicals,,,,,,Asia,Chemicals,,,,1.0,1.0,Asia,Chemicals,,,,1.0,1.0,Asia,Chemicals,,,,1.0,1.0,Asia,Chemicals,,,,1.0,1.0
+lg electronics,Asia,Technology,,,1.0,,,Asia,Industrial goods,,1.0,1.0,,,Asia,Technology,1.0,1.0,1.0,,1.0,Asia,Industrial goods,1.0,1.0,1.0,,1.0,Asia,Technology,1.0,1.0,1.0,,1.0
 liberty mutual insurance group,North America,Financial services,,,,,,North America,Financial services,,,,,-1.0,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,
-linde,Europe,Chemicals,,,,,,Europe,Chemicals,,,,,,Europe,Chemicals,,1.0,1.0,,,Europe,Chemicals,,1.0,1.0,,,Europe,Chemicals,,1.0,,1.0,
-lloyds banking group,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,1.0,1.0,,,,,,,,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,,1.0
+linde,Europe,Chemicals,,,,,,Europe,Chemicals,,,,,,Europe,Chemicals,,1.0,1.0,,,Europe,Chemicals,,1.0,1.0,,,Europe,Chemicals,,1.0,1.0,,
+lloyds banking group,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,1.0,1.0,,,,,,,,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0
 lockheed martin,North America,Aerospace and defense,,,,,,North America,Aerospace and defense,,,,,,North America,Aerospace and defense,,,,,,North America,Aerospace and defense,,,,,,North America,Aerospace and defense,,,,,
 longfor group holdings,Asia,Real estate,,,,,,Asia,Real estate,,,,,,Asia,Financial services,,,,,1.0,,,,,,,,,,,,,,
-l'oreal,Europe,Household and personal products,,1.0,1.0,1.0,,Europe,Household and personal products,,1.0,1.0,1.0,,Europe,Household and personal products,,1.0,,1.0,1.0,Europe,Household and personal products,,1.0,,1.0,-1.0,Europe,Household and personal products,,1.0,,,1.0
+l'oreal,Europe,Household and personal products,,1.0,1.0,1.0,,Europe,Household and personal products,,1.0,1.0,1.0,,Europe,Household and personal products,,1.0,,1.0,1.0,Europe,Household and personal products,,1.0,,1.0,-1.0,Europe,Household and personal products,,1.0,,1.0,1.0
 louis dreyfus,Europe,"Food, beverages and agriculture",,,,,,Europe,"Food, beverages and agriculture",,,,,,Europe,"Food, beverages and agriculture",,,,,,Europe,"Food, beverages and agriculture",,,,,,Europe,"Food, beverages and agriculture",,,,,1.0
-lowe's,North America,Retail,,,,,,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,,North America,Retail,,,,,
+lowe's,North America,Retail,,,,,,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,
 lukoil,Europe,Oil and gas,,,,,,Europe,Oil and gas,,,,,,,,,,,,,Asia,Oil and gas,,,,1.0,,Europe,Oil and gas,,,,,
-lyondellbasell industries,Europe,Chemicals,,,,,,Europe,Chemicals,,,,1.0,1.0,Europe,Chemicals,,,,1.0,,Europe,Chemicals,,,,1.0,1.0,Europe,Chemicals,,,,,
-maersk group,Europe,Transportation and logistics,,,1.0,1.0,,Europe,Transportation and logistics,,,,1.0,1.0,Europe,Transportation and logistics,,,,1.0,,Europe,Transportation and logistics,,1.0,,1.0,1.0,Europe,Transportation and logistics,,1.0,,,1.0
-magna international,North America,Automotive,,,1.0,,,North America,Automotive,,,1.0,,,North America,Automotive,,,1.0,,1.0,North America,Automotive,,1.0,,1.0,,North America,Automotive,,1.0,,,1.0
+lyondellbasell industries,Europe,Chemicals,,,,,,Europe,Chemicals,,,,1.0,1.0,Europe,Chemicals,,,,1.0,,Europe,Chemicals,,,,1.0,1.0,Europe,Chemicals,,,,1.0,
+maersk group,Europe,Transportation and logistics,,,1.0,1.0,,Europe,Transportation and logistics,,,,1.0,1.0,Europe,Transportation and logistics,,,,1.0,,Europe,Transportation and logistics,,1.0,,1.0,1.0,Europe,Transportation and logistics,,1.0,,1.0,1.0
+magna international,North America,Automotive,,,1.0,,,North America,Automotive,,,1.0,,,North America,Automotive,,,1.0,,1.0,North America,Automotive,,1.0,,1.0,,North America,Automotive,,1.0,,1.0,1.0
 manulife financial,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,-1.0,,,,,,,,,,,,,,,,,,,,,
-mapfre group,Europe,Financial services,,,1.0,,,,,,,,,,,,,,,,,Europe,Financial services,,,1.0,,,Europe,Financial services,,,,1.0,1.0
+mapfre group,Europe,Financial services,,,1.0,,,,,,,,,,,,,,,,,Europe,Financial services,,,1.0,,,Europe,Financial services,,,1.0,,1.0
 marathon petroleum,North America,Oil and gas,,,,,,North America,Oil and gas,,,,,,North America,Energy and utilities,,,,,,North America,Oil and gas,,,,,,North America,Oil and gas,,,,,
-marubeni,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Retail,,,,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,,
-mazda motor,Asia,Automotive,,,,,,,,,,,,,,,,,,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,,1.0,1.0
+marubeni,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Retail,,,,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,
+mazda motor,Asia,Automotive,,,,,,,,,,,,,,,,,,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,1.0
 mckesson,North America,Health care and pharmaceuticals,,,,,,North America,Retail,,,1.0,,,North America,Health care and pharmaceuticals,,1.0,,,,North America,Retail,,1.0,,,,North America,Health care and pharmaceuticals,,1.0,,,
 medipal holdings,Asia,Health care and pharmaceuticals,,,,,,Asia,Retail,,,,,,,,,,,,,,,,,,,,,,,,,,
-medtronic,North America,Health care and pharmaceuticals,,,1.0,,,North America,Health care and pharmaceuticals,,,1.0,1.0,1.0,North America,Health care and pharmaceuticals,,,,1.0,,,,,,,,,Europe,Health care and pharmaceuticals,,1.0,,,1.0
-meiji yasuda life insurance,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,,
-merck,North America,Health care and pharmaceuticals,,,1.0,,,North America,Health care and pharmaceuticals,,1.0,1.0,,1.0,North America,Health care and pharmaceuticals,,1.0,1.0,,,North America,Health care and pharmaceuticals,,1.0,1.0,,1.0,North America,Health care and pharmaceuticals,,1.0,,,1.0
-metlife,North America,Financial services,,,1.0,,,North America,Financial services,,,1.0,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,,1.0
-metro,Europe,"Food, beverages and agriculture",,1.0,1.0,,,Europe,Retail,,1.0,1.0,,,Europe,Retail,,1.0,1.0,,,Europe,Retail,,1.0,1.0,,,Europe,"Food, beverages and agriculture",,,,1.0,
-microsoft,North America,Technology,1.0,1.0,1.0,1.0,,North America,Technology,1.0,1.0,1.0,1.0,,North America,Technology,1.0,1.0,,1.0,1.0,North America,Technology,1.0,1.0,1.0,,1.0,North America,Technology,1.0,1.0,,1.0,1.0
-midea group,Asia,Technology,,,,,,Asia,Industrial goods,,,,,-1.0,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,,Asia,Technology,,,1.0,,
-migros group,Europe,Retail,,,,,,Europe,Retail,,1.0,1.0,1.0,1.0,Europe,"Food, beverages and agriculture",,1.0,,1.0,1.0,Europe,Retail,,1.0,,1.0,1.0,Europe,Retail,,1.0,,,1.0
-mitsubishi,Asia,Financial services,,,,,,,,,,,,,Asia,Retail,,,,1.0,,Asia,Industrial goods,,,,1.0,1.0,Asia,Financial services,,,,,1.0
+medtronic,North America,Health care and pharmaceuticals,,,1.0,,,North America,Health care and pharmaceuticals,,,1.0,1.0,1.0,North America,Health care and pharmaceuticals,,,,1.0,,,,,,,,,Europe,Health care and pharmaceuticals,,1.0,,1.0,1.0
+meiji yasuda life insurance,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,
+merck,North America,Health care and pharmaceuticals,,,1.0,,,North America,Health care and pharmaceuticals,,1.0,1.0,,1.0,North America,Health care and pharmaceuticals,,1.0,1.0,,,North America,Health care and pharmaceuticals,,1.0,1.0,,1.0,North America,Health care and pharmaceuticals,,1.0,,1.0,1.0
+metlife,North America,Financial services,,,1.0,,,North America,Financial services,,,1.0,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0
+metro,Europe,"Food, beverages and agriculture",,1.0,1.0,,,Europe,Retail,,1.0,1.0,,,Europe,Retail,,1.0,1.0,,,Europe,Retail,,1.0,1.0,,,Europe,"Food, beverages and agriculture",,,1.0,,
+microsoft,North America,Technology,1.0,1.0,1.0,1.0,,North America,Technology,1.0,1.0,1.0,1.0,,North America,Technology,1.0,1.0,,1.0,1.0,North America,Technology,1.0,1.0,1.0,,1.0,North America,Technology,1.0,1.0,1.0,,1.0
+midea group,Asia,Technology,,,,,,Asia,Industrial goods,,,,,-1.0,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,,Asia,Technology,,,,,
+migros group,Europe,Retail,,,,,,Europe,Retail,,1.0,1.0,1.0,1.0,Europe,"Food, beverages and agriculture",,1.0,,1.0,1.0,Europe,Retail,,1.0,,1.0,1.0,Europe,Retail,,1.0,,1.0,1.0
+mitsubishi,Asia,Financial services,,,,,,,,,,,,,Asia,Retail,,,,1.0,,Asia,Industrial goods,,,,1.0,1.0,Asia,Financial services,,,,1.0,1.0
 mitsubishi chemical holdings,Asia,Chemicals,,,,,,Asia,Chemicals,,,1.0,,1.0,Asia,Chemicals,,,1.0,,,,,,,,,,,,,,,,
-mitsubishi electric,Asia,Technology,,1.0,,1.0,,Asia,Industrial goods,,1.0,,1.0,,Asia,Industrial goods,,1.0,,1.0,,Asia,Industrial goods,,1.0,,1.0,,Asia,Technology,,1.0,,,
-mitsubishi heavy industries,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,1.0,1.0,Asia,Industrial goods,,,1.0,,,Asia,Industrial goods,,,,1.0,,Asia,Industrial goods,,,,,
-mitsubishi ufj financial group,Asia,Financial services,,,1.0,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,,1.0
-mitsui,Asia,Industrial goods,,,1.0,1.0,,Asia,Financial services,,1.0,,1.0,1.0,Asia,Retail,,,,1.0,,Asia,Financial services,,,,,,Asia,Financial services,,,,,1.0
-mizuho financial group,Asia,"Food, beverages and agriculture",,,1.0,,,Asia,Financial services,,,1.0,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,-1.0,Asia,Financial services,,,,,-1.0
-mondelez international,North America,Financial services,,1.0,,,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,,
-morgan stanley,North America,Financial services,1.0,,1.0,1.0,,North America,Financial services,1.0,,1.0,1.0,-1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,,,,,1.0
-ms&ad insurance group holdings,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,,
-munich re group,Europe,Financial services,,,1.0,1.0,,Europe,Financial services,,,1.0,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,,1.0
-nationwide,North America,Technology,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,,1.0
+mitsubishi electric,Asia,Technology,,1.0,,1.0,,Asia,Industrial goods,,1.0,,1.0,,Asia,Industrial goods,,1.0,,1.0,,Asia,Industrial goods,,1.0,,1.0,,Asia,Technology,,1.0,,1.0,
+mitsubishi heavy industries,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,1.0,1.0,Asia,Industrial goods,,,1.0,,,Asia,Industrial goods,,,,1.0,,Asia,Industrial goods,,,,1.0,
+mitsubishi ufj financial group,Asia,Financial services,,,1.0,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,1.0
+mitsui,Asia,Industrial goods,,,1.0,1.0,,Asia,Financial services,,1.0,,1.0,1.0,Asia,Retail,,,,1.0,,Asia,Financial services,,,,,,Asia,Financial services,,,,1.0,1.0
+mizuho financial group,Asia,"Food, beverages and agriculture",,,1.0,,,Asia,Financial services,,,1.0,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,-1.0,Asia,Financial services,,,,1.0,-1.0
+mondelez international,North America,Financial services,,1.0,,,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,
+morgan stanley,North America,Financial services,1.0,,1.0,1.0,,North America,Financial services,1.0,,1.0,1.0,-1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,,,,1.0,1.0
+ms&ad insurance group holdings,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,
+munich re group,Europe,Financial services,,,1.0,1.0,,Europe,Financial services,,,1.0,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0
+nationwide,North America,Technology,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0
 nec,Asia,"Food, beverages and agriculture",1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-nestlé,Europe,Telecommunications and media,1.0,1.0,,1.0,,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,,,,,,,,,Europe,"Food, beverages and agriculture",1.0,1.0,,,-1.0
-netflix,North America,Financial services,,1.0,,1.0,,North America,Telecommunications and media,1.0,1.0,,1.0,1.0,North America,Telecommunications and media,,1.0,,1.0,,North America,Telecommunications and media,,1.0,,1.0,1.0,North America,Telecommunications and media,,1.0,,,1.0
-new hope holding group,Asia,Financial services,,,,,,Asia,"Food, beverages and agriculture",,,,,-1.0,Asia,"Food, beverages and agriculture",,,,,,Asia,"Food, beverages and agriculture",,,,,,Asia,"Food, beverages and agriculture",,,,1.0,
+nestlé,Europe,Telecommunications and media,1.0,1.0,,1.0,,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,,,,,,,,,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,-1.0
+netflix,North America,Financial services,,1.0,,1.0,,North America,Telecommunications and media,1.0,1.0,,1.0,1.0,North America,Telecommunications and media,,1.0,,1.0,,North America,Telecommunications and media,,1.0,,1.0,1.0,North America,Telecommunications and media,,1.0,,1.0,1.0
+new hope holding group,Asia,Financial services,,,,,,Asia,"Food, beverages and agriculture",,,,,-1.0,Asia,"Food, beverages and agriculture",,,,,,Asia,"Food, beverages and agriculture",,,,,,Asia,"Food, beverages and agriculture",,,1.0,,
 new york life insurance,North America,Retail,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,,
 nike,North America,Financial services,1.0,1.0,,,,North America,Household and personal products,1.0,1.0,,,,North America,Retail,1.0,1.0,,1.0,,North America,Household and personal products,1.0,1.0,,1.0,1.0,North America,Retail,1.0,1.0,,,
-nippon life insurance,Asia,Industrial goods,,,1.0,,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,1.0,,,1.0,,Asia,Financial services,1.0,,,,
+nippon life insurance,Asia,Industrial goods,,,1.0,,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,1.0,,,1.0,,Asia,Financial services,1.0,,,1.0,
 nippon steel corporation,Asia,Telecommunications and media,,,1.0,,,Asia,Metals and mining,,,1.0,,,Asia,Industrial goods,,,1.0,,1.0,Asia,Metals and mining,,,1.0,,1.0,,,,,,,
 nippon telegraph and telephone,Asia,Automotive,,,,,,Asia,Telecommunications and media,,,1.0,,,Asia,Telecommunications and media,,1.0,1.0,,1.0,Asia,Telecommunications and media,,,1.0,,,,,,,,,
-nissan motor,Asia,Technology,,1.0,1.0,,,Asia,Automotive,,1.0,1.0,,,Asia,Automotive,,1.0,1.0,,1.0,Asia,Automotive,,1.0,1.0,,1.0,Asia,Automotive,,1.0,,1.0,1.0
+nissan motor,Asia,Technology,,1.0,1.0,,,Asia,Automotive,,1.0,1.0,,,Asia,Automotive,,1.0,1.0,,1.0,Asia,Automotive,,1.0,1.0,,1.0,Asia,Automotive,,1.0,1.0,,1.0
 nokia,Europe,Aerospace and defense,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-northrop grumman,North America,Financial services,,,,,,North America,Aerospace and defense,,,,1.0,1.0,North America,Aerospace and defense,,,,1.0,,North America,Aerospace and defense,,,,1.0,,North America,Aerospace and defense,,,,,1.0
+northrop grumman,North America,Financial services,,,,,,North America,Aerospace and defense,,,,1.0,1.0,North America,Aerospace and defense,,,,1.0,,North America,Aerospace and defense,,,,1.0,,North America,Aerospace and defense,,,,1.0,1.0
 northwestern mutual,North America,Health care and pharmaceuticals,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,
-novartis,Europe,Oil and gas,1.0,1.0,1.0,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,1.0,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,,1.0
-oil & natural gas,Asia,"Food, beverages and agriculture",,,,,,Asia,Metals and mining,,,1.0,,1.0,Asia,Energy and utilities,,,,1.0,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,1.0
+novartis,Europe,Oil and gas,1.0,1.0,1.0,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,1.0,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0
+oil & natural gas,Asia,"Food, beverages and agriculture",,,,,,Asia,Metals and mining,,,1.0,,1.0,Asia,Energy and utilities,,,,1.0,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,1.0,1.0
 olam international,Asia,Technology,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-oracle,North America,Telecommunications and media,,,,,,North America,Technology,,,1.0,1.0,1.0,North America,Technology,,,,1.0,,North America,Technology,,,,1.0,,North America,Technology,,,,,
-orange,Europe,Engineering and construction,,1.0,,1.0,,Europe,Telecommunications and media,,1.0,,1.0,1.0,Europe,Telecommunications and media,,1.0,,1.0,,Europe,Telecommunications and media,,1.0,,1.0,1.0,Europe,Telecommunications and media,,1.0,,,1.0
-pacific construction group,Asia,Technology,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,1.0
+oracle,North America,Telecommunications and media,,,,,,North America,Technology,,,1.0,1.0,1.0,North America,Technology,,,,1.0,,North America,Technology,,,,1.0,,North America,Technology,,,,1.0,
+orange,Europe,Engineering and construction,,1.0,,1.0,,Europe,Telecommunications and media,,1.0,,1.0,1.0,Europe,Telecommunications and media,,1.0,,1.0,,Europe,Telecommunications and media,,1.0,,1.0,1.0,Europe,Telecommunications and media,,1.0,,1.0,1.0
+pacific construction group,Asia,Technology,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,1.0,1.0
 panasonic,Asia,Technology,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-pegatron,Asia,Oil and gas,,,,,,Asia,Industrial goods,,,,,,Asia,Technology,,,,,,Asia,Industrial goods,,,,1.0,,Asia,Technology,,1.0,,,
-pemex,North America,Financial services,,,,,,North America,Metals and mining,,,,,,North America,Energy and utilities,,,,,,North America,Metals and mining,,,,1.0,1.0,Other,Metals and mining,,,,,1.0
-people's insurance co. of china,Asia,"Food, beverages and agriculture",,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,
-pepsico,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,1.0,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,1.0,North America,"Food, beverages and agriculture",1.0,1.0,,,1.0
+pegatron,Asia,Oil and gas,,,,,,Asia,Industrial goods,,,,,,Asia,Technology,,,,,,Asia,Industrial goods,,,,1.0,,Asia,Technology,,1.0,,1.0,
+pemex,North America,Financial services,,,,,,North America,Metals and mining,,,,,,North America,Energy and utilities,,,,,,North America,Metals and mining,,,,1.0,1.0,Other,Metals and mining,,,,1.0,1.0
+people's insurance co. of china,Asia,"Food, beverages and agriculture",,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
+pepsico,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,1.0,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,1.0,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,1.0
 performance food group,North America,Oil and gas,,,,,,North America,Retail,,,,,,North America,Retail,,,,,,North America,Retail,,,,1.0,,North America,"Food, beverages and agriculture",,,,,
-pertamina,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,,,Asia,Energy and utilities,,,,1.0,,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,,
-petrobras,Other,Energy and utilities,,,,,,Other,Oil and gas,,,,1.0,,Other,Energy and utilities,,,1.0,,1.0,Other,Oil and gas,,,1.0,,1.0,Other,Oil and gas,,,,,1.0
-petronas,Asia,Health care and pharmaceuticals,,,,1.0,,Asia,Oil and gas,,,,1.0,,Asia,Energy and utilities,,,,1.0,,Asia,Oil and gas,,,,1.0,,Asia,Energy and utilities,,,,,
-pfizer,North America,"Food, beverages and agriculture",,1.0,1.0,,,North America,Health care and pharmaceuticals,,1.0,1.0,1.0,,North America,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,North America,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,North America,Health care and pharmaceuticals,1.0,1.0,,,1.0
-philip morris international,North America,Oil and gas,,1.0,1.0,1.0,,North America,"Food, beverages and agriculture",,1.0,1.0,1.0,1.0,North America,"Food, beverages and agriculture",,1.0,,1.0,1.0,North America,"Food, beverages and agriculture",,1.0,,1.0,1.0,North America,Household and personal products,,1.0,,,1.0
+pertamina,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,,,Asia,Energy and utilities,,,,1.0,,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,1.0,
+petrobras,Other,Energy and utilities,,,,,,Other,Oil and gas,,,,1.0,,Other,Energy and utilities,,,1.0,,1.0,Other,Oil and gas,,,1.0,,1.0,Other,Oil and gas,,,,1.0,1.0
+petronas,Asia,Health care and pharmaceuticals,,,,1.0,,Asia,Oil and gas,,,,1.0,,Asia,Energy and utilities,,,,1.0,,Asia,Oil and gas,,,,1.0,,Asia,Energy and utilities,,,,1.0,
+pfizer,North America,"Food, beverages and agriculture",,1.0,1.0,,,North America,Health care and pharmaceuticals,,1.0,1.0,1.0,,North America,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,North America,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,North America,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0
+philip morris international,North America,Oil and gas,,1.0,1.0,1.0,,North America,"Food, beverages and agriculture",,1.0,1.0,1.0,1.0,North America,"Food, beverages and agriculture",,1.0,,1.0,1.0,North America,"Food, beverages and agriculture",,1.0,,1.0,1.0,North America,Household and personal products,,1.0,,1.0,1.0
 phillips 66,North America,Financial services,,,,,,North America,Oil and gas,,,,,,North America,Energy and utilities,,,,,,North America,Oil and gas,,,,,,North America,Oil and gas,,,,,
 phoenix group holdings,Europe,Health care and pharmaceuticals,,,1.0,1.0,,Europe,Financial services,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,
-phoenix pharma,Europe,Financial services,,,,,,Europe,Retail,,,,1.0,,Europe,Health care and pharmaceuticals,,,1.0,,1.0,Europe,Retail,,,,1.0,1.0,Europe,Health care and pharmaceuticals,,,,1.0,1.0
-ping an insurance,Asia,Industrial goods,,,,,,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,,1.0,
+phoenix pharma,Europe,Financial services,,,,,,Europe,Retail,,,,1.0,,Europe,Health care and pharmaceuticals,,,1.0,,1.0,Europe,Retail,,,,1.0,1.0,Europe,Health care and pharmaceuticals,,,1.0,,1.0
+ping an insurance,Asia,Industrial goods,,,,,,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,1.0,,
 posco,Asia,Financial services,,,1.0,,,Asia,Metals and mining,,,1.0,,,Asia,Industrial goods,,,,1.0,,,,,,,,,,,,,,,
 poste italiane,Europe,Financial services,,,,1.0,,Europe,Financial services,,,1.0,,1.0,Europe,Financial services,,,1.0,,1.0,,,,,,,,,,,,,,
 power corp. of canada,North America,Engineering and construction,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,1.0,,North America,Financial services,,,,,,,,,,,,
-powerchina,Asia,Household and personal products,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,1.0,,
-procter & gamble,North America,Financial services,1.0,1.0,1.0,,,North America,Household and personal products,1.0,1.0,1.0,1.0,1.0,North America,Household and personal products,1.0,1.0,,1.0,1.0,North America,Household and personal products,1.0,1.0,,1.0,1.0,North America,Household and personal products,,1.0,,,1.0
-progressive,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,
+powerchina,Asia,Household and personal products,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,
+procter & gamble,North America,Financial services,1.0,1.0,1.0,,,North America,Household and personal products,1.0,1.0,1.0,1.0,1.0,North America,Household and personal products,1.0,1.0,,1.0,1.0,North America,Household and personal products,1.0,1.0,,1.0,1.0,North America,Household and personal products,,1.0,,1.0,1.0
+progressive,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,1.0,,
 prudential,Europe,Financial services,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-prudential financial,North America,Chemicals,,,1.0,1.0,,North America,Financial services,,,,,,North America,Financial services,,,,1.0,-1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,,1.0
-ptt,Asia,"Food, beverages and agriculture",,,,,,Asia,Oil and gas,,,,1.0,,Asia,Energy and utilities,,,,1.0,,Asia,Oil and gas,,,,1.0,1.0,Asia,Oil and gas,,,,,1.0
+prudential financial,North America,Chemicals,,,1.0,1.0,,North America,Financial services,,,,,,North America,Financial services,,,,1.0,-1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0
+ptt,Asia,"Food, beverages and agriculture",,,,,,Asia,Oil and gas,,,,1.0,,Asia,Energy and utilities,,,,1.0,,Asia,Oil and gas,,,,1.0,1.0,Asia,Oil and gas,,,,1.0,1.0
 publix super markets,North America,Technology,,,,,,North America,Retail,,,,,-1.0,North America,"Food, beverages and agriculture",,,,,,North America,Retail,,,,,,North America,Retail,,,,,
-quanta computer,Asia,Financial services,,,,,,Asia,Technology,,,,,,Asia,Technology,,,1.0,,,Asia,Technology,,,1.0,,,Asia,Technology,,1.0,,,
+quanta computer,Asia,Financial services,,,,,,Asia,Technology,,,,,,Asia,Technology,,,1.0,,,Asia,Technology,,,1.0,,,Asia,Technology,,1.0,,1.0,
 rajesh exports,Asia,Aerospace and defense,,,,,,Asia,Financial services,,,,,-1.0,Asia,Retail,,,,,,Asia,Financial services,,,,,,,,,,,,
 raytheon technologies,North America,Oil and gas,,,,,,North America,Aerospace and defense,,,,,,,,,,,,,,,,,,,,,,,,,,
-reliance industries,Asia,Automotive,,,,1.0,,Asia,Oil and gas,,,,,,Asia,Energy and utilities,,,,1.0,,Asia,Oil and gas,,,,1.0,,Asia,Oil and gas,,,,,1.0
-renault,Europe,Oil and gas,,1.0,1.0,,,Europe,Automotive,,1.0,1.0,,,Europe,Automotive,,1.0,1.0,,,Europe,Automotive,,1.0,,1.0,1.0,Europe,Automotive,,1.0,,1.0,
-repsol,Europe,Industrial goods,,,,1.0,,Europe,Oil and gas,,,,1.0,1.0,Europe,Energy and utilities,,,,1.0,,Europe,Oil and gas,,,,1.0,1.0,Europe,Oil and gas,,,,,1.0
-rio tinto group,Europe,"Food, beverages and agriculture",,,,1.0,,Europe,Metals and mining,,,,1.0,,Europe,Energy and utilities,,,,1.0,,Europe,Metals and mining,,,,1.0,,Europe,Metals and mining,,,,,1.0
+reliance industries,Asia,Automotive,,,,1.0,,Asia,Oil and gas,,,,,,Asia,Energy and utilities,,,,1.0,,Asia,Oil and gas,,,,1.0,,Asia,Oil and gas,,,,1.0,1.0
+renault,Europe,Oil and gas,,1.0,1.0,,,Europe,Automotive,,1.0,1.0,,,Europe,Automotive,,1.0,1.0,,,Europe,Automotive,,1.0,,1.0,1.0,Europe,Automotive,,1.0,1.0,,
+repsol,Europe,Industrial goods,,,,1.0,,Europe,Oil and gas,,,,1.0,1.0,Europe,Energy and utilities,,,,1.0,,Europe,Oil and gas,,,,1.0,1.0,Europe,Oil and gas,,,,1.0,1.0
+rio tinto group,Europe,"Food, beverages and agriculture",,,,1.0,,Europe,Metals and mining,,,,1.0,,Europe,Energy and utilities,,,,1.0,,Europe,Metals and mining,,,,1.0,,Europe,Metals and mining,,,,1.0,1.0
 rite aid,North America,Health care and pharmaceuticals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-roche group,Europe,Oil and gas,,,,1.0,,Europe,Health care and pharmaceuticals,,,,1.0,,Europe,Health care and pharmaceuticals,,,,1.0,,Europe,Health care and pharmaceuticals,,,,1.0,-1.0,Europe,Health care and pharmaceuticals,,1.0,,,
-rosneft oil,Europe,"Food, beverages and agriculture",,,,,,Europe,Oil and gas,,,,1.0,,,,,,,,,Europe,Oil and gas,,,1.0,,1.0,Europe,Oil and gas,,,,1.0,
-royal ahold delhaize,Europe,Financial services,,1.0,,1.0,,Europe,Retail,,1.0,,1.0,,Europe,"Food, beverages and agriculture",,1.0,,1.0,,Europe,Retail,,1.0,,1.0,,Europe,Retail,,1.0,,,1.0
-royal bank of canada,North America,Oil and gas,,,1.0,1.0,,North America,Financial services,,,1.0,1.0,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,,1.0
+roche group,Europe,Oil and gas,,,,1.0,,Europe,Health care and pharmaceuticals,,,,1.0,,Europe,Health care and pharmaceuticals,,,,1.0,,Europe,Health care and pharmaceuticals,,,,1.0,-1.0,Europe,Health care and pharmaceuticals,,1.0,,1.0,
+rosneft oil,Europe,"Food, beverages and agriculture",,,,,,Europe,Oil and gas,,,,1.0,,,,,,,,,Europe,Oil and gas,,,1.0,,1.0,Europe,Oil and gas,,,1.0,,
+royal ahold delhaize,Europe,Financial services,,1.0,,1.0,,Europe,Retail,,1.0,,1.0,,Europe,"Food, beverages and agriculture",,1.0,,1.0,,Europe,Retail,,1.0,,1.0,,Europe,Retail,,1.0,,1.0,1.0
+royal bank of canada,North America,Oil and gas,,,1.0,1.0,,North America,Financial services,,,1.0,1.0,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0
 royal dutch shell,Europe,Automotive,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-saic motor,Asia,Industrial goods,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,1.0,
-saint-gobain,Europe,Financial services,,1.0,1.0,,,Europe,Industrial goods,,1.0,,1.0,,Europe,Industrial goods,,1.0,,1.0,,Europe,Industrial goods,,1.0,,1.0,,Europe,Industrial goods,,1.0,,,1.0
+saic motor,Asia,Industrial goods,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,1.0,,
+saint-gobain,Europe,Financial services,,1.0,1.0,,,Europe,Industrial goods,,1.0,,1.0,,Europe,Industrial goods,,1.0,,1.0,,Europe,Industrial goods,,1.0,,1.0,,Europe,Industrial goods,,1.0,,1.0,1.0
 samsung c&t,Asia,Technology,,,,,,Asia,Financial services,,,,,,Asia,Retail,,,1.0,,,Asia,Financial services,,,1.0,,1.0,,,,,,,
-samsung electronics,Asia,Financial services,,,,,,Asia,Industrial goods,,,,,1.0,Asia,Technology,1.0,,,1.0,,Asia,Industrial goods,1.0,,,1.0,,Asia,Technology,1.0,,,,1.0
+samsung electronics,Asia,Financial services,,,,,,Asia,Industrial goods,,,,,1.0,Asia,Technology,1.0,,,1.0,,Asia,Industrial goods,1.0,,,1.0,,Asia,Technology,1.0,,,1.0,1.0
 samsung life insurance,Asia,Health care and pharmaceuticals,,,,,,Asia,Financial services,,,1.0,,-1.0,Asia,Financial services,1.0,,1.0,,1.0,,,,,,,,,,,,,,
-sanofi,Europe,Technology,1.0,1.0,1.0,,,Europe,Health care and pharmaceuticals,1.0,1.0,1.0,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,,1.0
-sap,Europe,Oil and gas,1.0,1.0,1.0,,,Europe,Technology,,1.0,1.0,1.0,1.0,Europe,Technology,1.0,1.0,,1.0,1.0,Europe,Technology,1.0,1.0,,1.0,1.0,Europe,Technology,1.0,1.0,,,1.0
-saudi aramco,Other,Financial services,,,,,,Other,Metals and mining,,,,1.0,1.0,Other,Energy and utilities,,,,1.0,,Asia,Metals and mining,,,,1.0,1.0,Other,Metals and mining,,,,,1.0
-sberbank,Europe,Technology,,,1.0,,,Europe,Financial services,,,1.0,,-1.0,Europe,Financial services,,,1.0,,,Asia,Financial services,,,1.0,,1.0,Europe,Financial services,,,,1.0,1.0
-schneider electric,Europe,Retail,1.0,1.0,1.0,,,Europe,Industrial goods,1.0,1.0,1.0,1.0,1.0,Europe,Industrial goods,1.0,1.0,,1.0,1.0,Europe,Industrial goods,1.0,1.0,,1.0,1.0,Europe,Technology,1.0,1.0,,,1.0
-seven & i holdings,Asia,Oil and gas,1.0,,,1.0,,Asia,Retail,1.0,,,1.0,,Asia,Retail,1.0,,1.0,,,Asia,Retail,1.0,,,1.0,,Asia,Retail,1.0,,,,
-shaanxi coal & chemical industry,Asia,Oil and gas,,,,,,Asia,Metals and mining,,,,,,Asia,Energy and utilities,,,,,1.0,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,1.0,
+sanofi,Europe,Technology,1.0,1.0,1.0,,,Europe,Health care and pharmaceuticals,1.0,1.0,1.0,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0
+sap,Europe,Oil and gas,1.0,1.0,1.0,,,Europe,Technology,,1.0,1.0,1.0,1.0,Europe,Technology,1.0,1.0,,1.0,1.0,Europe,Technology,1.0,1.0,,1.0,1.0,Europe,Technology,1.0,1.0,,1.0,1.0
+saudi aramco,Other,Financial services,,,,,,Other,Metals and mining,,,,1.0,1.0,Other,Energy and utilities,,,,1.0,,Asia,Metals and mining,,,,1.0,1.0,Other,Metals and mining,,,,1.0,1.0
+sberbank,Europe,Technology,,,1.0,,,Europe,Financial services,,,1.0,,-1.0,Europe,Financial services,,,1.0,,,Asia,Financial services,,,1.0,,1.0,Europe,Financial services,,,1.0,,1.0
+schneider electric,Europe,Retail,1.0,1.0,1.0,,,Europe,Industrial goods,1.0,1.0,1.0,1.0,1.0,Europe,Industrial goods,1.0,1.0,,1.0,1.0,Europe,Industrial goods,1.0,1.0,,1.0,1.0,Europe,Technology,1.0,1.0,,1.0,1.0
+seven & i holdings,Asia,Oil and gas,1.0,,,1.0,,Asia,Retail,1.0,,,1.0,,Asia,Retail,1.0,,1.0,,,Asia,Retail,1.0,,,1.0,,Asia,Retail,1.0,,,1.0,
+shaanxi coal & chemical industry,Asia,Oil and gas,,,,,,Asia,Metals and mining,,,,,,Asia,Energy and utilities,,,,,1.0,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,1.0,,
 shaanxi yanchang petroleum (group),Asia,Oil and gas,,,,,,Asia,Metals and mining,,,,,,Asia,Energy and utilities,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
-shandong energy group,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Energy and utilities,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,1.0,,
-hunan iron & steel group,Asia,Retail,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,1.0,,
-shandong weiqiao pioneering group,North America,Engineering and construction,,,,,,Asia,Household and personal products,,,,,,Asia,Industrial goods,,,,,,Asia,Household and personal products,,,,1.0,,Asia,Household and personal products,,,,1.0,
-shanghai construction group,Asia,Health care and pharmaceuticals,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,1.0,,
-shanghai pharmaceuticals holding,Asia,Financial services,,,,,,Asia,Retail,,,,,,Asia,Health care and pharmaceuticals,,,,,,Asia,Retail,,,,,,Asia,Health care and pharmaceuticals,,,1.0,,
-shanghai pudong development bank,Asia,Oil and gas,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,
+shandong energy group,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Energy and utilities,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
+hunan iron & steel group,Asia,Retail,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
+shandong weiqiao pioneering group,North America,Engineering and construction,,,,,,Asia,Household and personal products,,,,,,Asia,Industrial goods,,,,,,Asia,Household and personal products,,,,1.0,,Asia,Household and personal products,,,1.0,,
+shanghai construction group,Asia,Health care and pharmaceuticals,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,
+shanghai pharmaceuticals holding,Asia,Financial services,,,,,,Asia,Retail,,,,,,Asia,Health care and pharmaceuticals,,,,,,Asia,Retail,,,,,,Asia,Health care and pharmaceuticals,,,,,
+shanghai pudong development bank,Asia,Oil and gas,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
 shanxi coking coal group,Asia,Chemicals,,,,,,Asia,Metals and mining,,,,,,Asia,Energy and utilities,,,,,,Asia,Metals and mining,,,,,,,,,,,,
 shenghong holding group,Asia,Financial services,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,
 shenzhen investment holdings,Asia,Industrial goods,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
 shougang group,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,,,,,,,
-siemens,Europe,Energy and utilities,1.0,1.0,1.0,,,Europe,Industrial goods,1.0,1.0,1.0,1.0,,Europe,Industrial goods,1.0,1.0,,1.0,,Europe,Industrial goods,1.0,1.0,,1.0,1.0,Europe,Industrial goods,,1.0,,,1.0
-siemens energy,Europe,Chemicals,,,1.0,,,Europe,Energy and utilities,,1.0,1.0,1.0,1.0,Europe,Energy and utilities,,1.0,1.0,,1.0,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,
+siemens,Europe,Energy and utilities,1.0,1.0,1.0,,,Europe,Industrial goods,1.0,1.0,1.0,1.0,,Europe,Industrial goods,1.0,1.0,,1.0,,Europe,Industrial goods,1.0,1.0,,1.0,1.0,Europe,Industrial goods,,1.0,,1.0,1.0
+siemens energy,Europe,Chemicals,,,1.0,,,Europe,Energy and utilities,,1.0,1.0,1.0,1.0,Europe,Energy and utilities,,1.0,1.0,,1.0,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,1.0,,
 sinochem,Asia,Industrial goods,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-sinomach,Asia,Oil and gas,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,1.0,,
-sinopec group,Asia,Health care and pharmaceuticals,,,1.0,,,Asia,Oil and gas,,,,,-1.0,Asia,Energy and utilities,,,,,,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,1.0,1.0
+sinomach,Asia,Oil and gas,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,
+sinopec group,Asia,Health care and pharmaceuticals,,,1.0,,,Asia,Oil and gas,,,,,-1.0,Asia,Energy and utilities,,,,,,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,1.0,,1.0
 sinopharm,Asia,Oil and gas,,,,,,Asia,Health care and pharmaceuticals,,,,,,Asia,Retail,,,,,,Asia,Health care and pharmaceuticals,,,,,,Asia,Health care and pharmaceuticals,,,,,
-sk,Asia,Technology,1.0,,,1.0,,,,,,,,,,,,,,,,Asia,Oil and gas,,,1.0,,1.0,Asia,Oil and gas,1.0,,,,1.0
-sk hynix,Asia,Transportation and logistics,1.0,,,,,Asia,Industrial goods,1.0,,,1.0,,Asia,Technology,1.0,,,1.0,,,,,,,,,Asia,Technology,1.0,,,,1.0
-sncf group,Europe,Financial services,,1.0,1.0,,,Europe,Transportation and logistics,,,1.0,,1.0,Europe,Transportation and logistics,,1.0,1.0,,,Europe,Transportation and logistics,,,,1.0,,Europe,Transportation and logistics,,1.0,1.0,,1.0
+sk,Asia,Technology,1.0,,,1.0,,,,,,,,,,,,,,,,Asia,Oil and gas,,,1.0,,1.0,Asia,Oil and gas,1.0,,,1.0,1.0
+sk hynix,Asia,Transportation and logistics,1.0,,,,,Asia,Industrial goods,1.0,,,1.0,,Asia,Technology,1.0,,,1.0,,,,,,,,,Asia,Technology,1.0,,,1.0,1.0
+sncf group,Europe,Financial services,,1.0,1.0,,,Europe,Transportation and logistics,,,1.0,,1.0,Europe,Transportation and logistics,,1.0,1.0,,,Europe,Transportation and logistics,,,,1.0,,Europe,Transportation and logistics,,1.0,,,1.0
 société générale,Europe,Telecommunications and media,,,1.0,,,Europe,Financial services,,,1.0,,,Europe,Financial services,,,1.0,,,,,,,,,,,,,,,,
-softbank group,Asia,Financial services,,1.0,1.0,,,Asia,Telecommunications and media,,1.0,1.0,,,Asia,Telecommunications and media,,1.0,1.0,,,Asia,Telecommunications and media,1.0,1.0,,1.0,1.0,Asia,Telecommunications and media,1.0,1.0,,,1.0
-sompo holdings,Asia,Technology,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,,1.0
-sony,Asia,Financial services,1.0,1.0,,1.0,,Asia,Industrial goods,1.0,1.0,1.0,,,Asia,Technology,1.0,1.0,,1.0,1.0,Asia,Industrial goods,1.0,1.0,,1.0,,Asia,Technology,1.0,1.0,,,1.0
-state bank of india,Asia,Financial services,,,1.0,,,Asia,Financial services,,,1.0,,-1.0,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,
+softbank group,Asia,Financial services,,1.0,1.0,,,Asia,Telecommunications and media,,1.0,1.0,,,Asia,Telecommunications and media,,1.0,1.0,,,Asia,Telecommunications and media,1.0,1.0,,1.0,1.0,Asia,Telecommunications and media,1.0,1.0,,1.0,1.0
+sompo holdings,Asia,Technology,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,1.0
+sony,Asia,Financial services,1.0,1.0,,1.0,,Asia,Industrial goods,1.0,1.0,1.0,,,Asia,Technology,1.0,1.0,,1.0,1.0,Asia,Industrial goods,1.0,1.0,,1.0,,Asia,Technology,1.0,1.0,,1.0,1.0
+state bank of india,Asia,Financial services,,,1.0,,,Asia,Financial services,,,1.0,,-1.0,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,1.0,,
 state farm insurance,North America,Energy and utilities,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,
-state grid,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,1.0,,
+state grid,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,
 state power investment,Asia,Financial services,,,,,,Asia,Energy and utilities,,,1.0,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,,Asia,Energy and utilities,,,,,
-stonex group,North America,Automotive,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,1.0
+stonex group,North America,Automotive,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,1.0,1.0
 subaru,Asia,Financial services,,,1.0,,,,,,,,,,,,,,,,,Asia,Automotive,,,1.0,,1.0,,,,,,,
-sumitomo,Asia,Automotive,,,1.0,,,Asia,Financial services,,,1.0,,,Asia,Retail,,,1.0,,1.0,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,,1.0,1.0
+sumitomo,Asia,Automotive,,,1.0,,,Asia,Financial services,,,1.0,,,Asia,Retail,,,1.0,,1.0,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,1.0,,1.0
 sumitomo electric industries,Asia,Financial services,,1.0,1.0,,,Asia,Automotive,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,
-sumitomo life insurance,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,,,,,,,,Asia,Financial services,,,,,1.0
-sumitomo mitsui financial group,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,,1.0
+sumitomo life insurance,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,,,,,,,,,Asia,Financial services,,,,1.0,1.0
+sumitomo mitsui financial group,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,1.0
 sun life financial,North America,Real estate,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 sunac china holdings,Asia,Retail,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 suning.com group,Asia,Automotive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-suzuki motor,Asia,Financial services,,,,,,Asia,Automotive,,,,1.0,-1.0,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,,1.0,1.0
-swiss re,Europe,Technology,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,,1.0
+suzuki motor,Asia,Financial services,,,,,,Asia,Automotive,,,,1.0,-1.0,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,1.0
+swiss re,Europe,Technology,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0
 synnex,North America,"Food, beverages and agriculture",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 sysco,North America,Financial services,,,,,,North America,Retail,,,,,,North America,Retail,,1.0,,,,North America,Retail,,1.0,,,,North America,"Food, beverages and agriculture",,1.0,,,1.0
-taikang insurance group,Asia,Technology,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,
-taiwan semiconductor manufacturing,Asia,Health care and pharmaceuticals,1.0,,,1.0,,Asia,Industrial goods,1.0,,,,,Asia,Technology,1.0,,,1.0,,Asia,Industrial goods,,,,1.0,,Asia,Technology,,,,,1.0
+taikang insurance group,Asia,Technology,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
+taiwan semiconductor manufacturing,Asia,Health care and pharmaceuticals,1.0,,,1.0,,Asia,Industrial goods,1.0,,,,,Asia,Technology,1.0,,,1.0,,Asia,Industrial goods,,,,1.0,,Asia,Technology,,,,1.0,1.0
 takeda pharmaceutical,Asia,Financial services,,1.0,1.0,1.0,,Asia,Health care and pharmaceuticals,,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,
-talanx,Europe,Retail,,,1.0,,,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,,1.0
-target,North America,Automotive,1.0,1.0,,1.0,,North America,Retail,1.0,1.0,,1.0,,North America,Retail,1.0,1.0,,1.0,,North America,Retail,1.0,1.0,,1.0,1.0,North America,Retail,1.0,1.0,,,
-tata motors,Asia,Telecommunications and media,1.0,,,1.0,,Asia,Automotive,1.0,1.0,,,1.0,Asia,Automotive,1.0,,,1.0,,Asia,Automotive,1.0,,,,,Asia,Automotive,1.0,,,,
-telefonica,Europe,Retail,1.0,1.0,,1.0,,Europe,Telecommunications and media,1.0,1.0,,1.0,1.0,Europe,Telecommunications and media,1.0,1.0,,1.0,,Europe,Telecommunications and media,1.0,1.0,,1.0,1.0,Europe,Telecommunications and media,1.0,1.0,,,1.0
-tencent holdings,Asia,"Food, beverages and agriculture",,,,,,Asia,Technology,,,1.0,,1.0,Asia,Technology,,1.0,,1.0,1.0,Asia,Technology,,1.0,1.0,,1.0,Asia,Retail,,1.0,,,
-tesco,Europe,Automotive,1.0,1.0,,1.0,,Europe,Retail,1.0,1.0,,1.0,,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,,Europe,Retail,1.0,1.0,,1.0,1.0,Europe,Retail,1.0,1.0,,,1.0
+talanx,Europe,Retail,,,1.0,,,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,1.0
+target,North America,Automotive,1.0,1.0,,1.0,,North America,Retail,1.0,1.0,,1.0,,North America,Retail,1.0,1.0,,1.0,,North America,Retail,1.0,1.0,,1.0,1.0,North America,Retail,1.0,1.0,,1.0,
+tata motors,Asia,Telecommunications and media,1.0,,,1.0,,Asia,Automotive,1.0,1.0,,,1.0,Asia,Automotive,1.0,,,1.0,,Asia,Automotive,1.0,,,,,Asia,Automotive,1.0,,,1.0,
+telefonica,Europe,Retail,1.0,1.0,,1.0,,Europe,Telecommunications and media,1.0,1.0,,1.0,1.0,Europe,Telecommunications and media,1.0,1.0,,1.0,,Europe,Telecommunications and media,1.0,1.0,,1.0,1.0,Europe,Telecommunications and media,1.0,1.0,,1.0,1.0
+tencent holdings,Asia,"Food, beverages and agriculture",,,,,,Asia,Technology,,,1.0,,1.0,Asia,Technology,,1.0,,1.0,1.0,Asia,Technology,,1.0,1.0,,1.0,Asia,Retail,,1.0,,1.0,
+tesco,Europe,Automotive,1.0,1.0,,1.0,,Europe,Retail,1.0,1.0,,1.0,,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,,Europe,Retail,1.0,1.0,,1.0,1.0,Europe,Retail,1.0,1.0,,1.0,1.0
 tesla,North America,Technology,,,,,,North America,Automotive,,,,,,North America,Automotive,,,,,,North America,Automotive,,,,,,North America,Automotive,,,,,
-thermo fisher scientific,North America,Engineering and construction,,,,1.0,,North America,Industrial goods,,,,1.0,-1.0,North America,Health care and pharmaceuticals,,1.0,,1.0,,North America,Industrial goods,,1.0,,1.0,1.0,North America,Health care and pharmaceuticals,,1.0,,,-1.0
-thyssenkrupp,Europe,Financial services,,1.0,1.0,,,Europe,Metals and mining,,1.0,1.0,,,Europe,Industrial goods,,1.0,1.0,,,Europe,Metals and mining,,1.0,1.0,,,Europe,Metals and mining,,1.0,,,
-tiaa,North America,Retail,,,,,,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,,1.0
-tjx,North America,Financial services,,,,,,North America,Retail,,,,1.0,1.0,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,1.0,North America,Retail,,,,,1.0
-tokio marine holdings,Asia,Energy and utilities,,,1.0,,,Asia,Financial services,,,1.0,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,,1.0
-tongling nonferrous metals group,Asia,Financial services,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,1.0,,
-toronto-dominion bank,North America,Technology,,,1.0,1.0,,North America,Financial services,1.0,,1.0,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,,,,1.0
+thermo fisher scientific,North America,Engineering and construction,,,,1.0,,North America,Industrial goods,,,,1.0,-1.0,North America,Health care and pharmaceuticals,,1.0,,1.0,,North America,Industrial goods,,1.0,,1.0,1.0,North America,Health care and pharmaceuticals,,1.0,,1.0,-1.0
+thyssenkrupp,Europe,Financial services,,1.0,1.0,,,Europe,Metals and mining,,1.0,1.0,,,Europe,Industrial goods,,1.0,1.0,,,Europe,Metals and mining,,1.0,1.0,,,Europe,Metals and mining,,1.0,,1.0,
+tiaa,North America,Retail,,,,,,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0
+tjx,North America,Financial services,,,,,,North America,Retail,,,,1.0,1.0,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,1.0,North America,Retail,,,,1.0,1.0
+tokio marine holdings,Asia,Energy and utilities,,,1.0,,,Asia,Financial services,,,1.0,1.0,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,,,1.0,1.0
+tongling nonferrous metals group,Asia,Financial services,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
+toronto-dominion bank,North America,Technology,,,1.0,1.0,,North America,Financial services,1.0,,1.0,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0,North America,Financial services,1.0,,,1.0,1.0
 toshiba,Asia,Oil and gas,,1.0,,,,Asia,Industrial goods,,1.0,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,
-totalenergies,Europe,Automotive,,,,1.0,,Europe,Oil and gas,,,,1.0,,Europe,Energy and utilities,,,,1.0,,Europe,Oil and gas,,,1.0,,1.0,Europe,Oil and gas,,,,,1.0
-toyota motor,Asia,Financial services,,,1.0,,,Asia,Automotive,,,1.0,,1.0,Asia,Automotive,,1.0,1.0,,1.0,Asia,Automotive,,1.0,1.0,,1.0,Asia,Automotive,,1.0,,1.0,
-toyota tsusho,Asia,Financial services,,,1.0,,,Asia,Financial services,,,1.0,,,Asia,Retail,,,1.0,,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,1.0,,,
-trafigura group,Asia,Financial services,,,,,,Asia,Financial services,,,,,1.0,Asia,Retail,,,1.0,,1.0,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,,1.0,1.0
-travelers,North America,Financial services,,,1.0,,,North America,Financial services,,,1.0,,,North America,Financial services,,,1.0,,,North America,Financial services,,,1.0,,1.0,North America,Financial services,,,,1.0,
+totalenergies,Europe,Automotive,,,,1.0,,Europe,Oil and gas,,,,1.0,,Europe,Energy and utilities,,,,1.0,,Europe,Oil and gas,,,1.0,,1.0,Europe,Oil and gas,,,,1.0,1.0
+toyota motor,Asia,Financial services,,,1.0,,,Asia,Automotive,,,1.0,,1.0,Asia,Automotive,,1.0,1.0,,1.0,Asia,Automotive,,1.0,1.0,,1.0,Asia,Automotive,,1.0,1.0,,
+toyota tsusho,Asia,Financial services,,,1.0,,,Asia,Financial services,,,1.0,,,Asia,Retail,,,1.0,,,Asia,Financial services,,,,1.0,1.0,Asia,Financial services,,1.0,,1.0,
+trafigura group,Asia,Financial services,,,,,,Asia,Financial services,,,,,1.0,Asia,Retail,,,1.0,,1.0,Asia,Financial services,,,1.0,,1.0,Asia,Financial services,,,1.0,,1.0
+travelers,North America,Financial services,,,1.0,,,North America,Financial services,,,1.0,,,North America,Financial services,,,1.0,,,North America,Financial services,,,1.0,,1.0,North America,Financial services,,,1.0,,
 truist financial,North America,Industrial goods,,,,,,,,,,,,,,,,,,,,North America,Financial services,,,,1.0,,,,,,,,
 tsingshan holding group,Asia,"Food, beverages and agriculture",,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
-tyson foods,North America,Financial services,,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,,1.0
-u.s. bancorp,North America,Transportation and logistics,,,,,,,,,,,,,,,,,,,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,,
+tyson foods,North America,Financial services,,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,,North America,"Food, beverages and agriculture",,1.0,,1.0,1.0
+u.s. bancorp,North America,Transportation and logistics,,,,,,,,,,,,,,,,,,,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,
 u.s. postal service,North America,Financial services,,,,,,North America,Transportation and logistics,,,,,,North America,Transportation and logistics,,,,,,North America,Transportation and logistics,,,,,,North America,Transportation and logistics,,,,,
-ubs group,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,1.0,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,,1.0
-unicredit group,Europe,Household and personal products,,,,,,,,,,,,,,,,,,,,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,,
-unilever,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,,Europe,Household and personal products,1.0,1.0,,1.0,-1.0,Europe,Household and personal products,1.0,1.0,,1.0,,Europe,Household and personal products,1.0,1.0,,1.0,-1.0,Europe,Household and personal products,1.0,1.0,,,-1.0
+ubs group,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,1.0,Europe,Financial services,1.0,,,1.0,,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0
+unicredit group,Europe,Household and personal products,,,,,,,,,,,,,,,,,,,,Europe,Financial services,,,,1.0,1.0,Europe,Financial services,,,,1.0,
+unilever,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,,Europe,Household and personal products,1.0,1.0,,1.0,-1.0,Europe,Household and personal products,1.0,1.0,,1.0,,Europe,Household and personal products,1.0,1.0,,1.0,-1.0,Europe,Household and personal products,1.0,1.0,,1.0,-1.0
 united natural foods,North America,Transportation and logistics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-united parcel service,North America,Health care and pharmaceuticals,,,1.0,,,North America,Transportation and logistics,,,1.0,,1.0,North America,Transportation and logistics,,,1.0,,1.0,North America,Transportation and logistics,,,1.0,,1.0,North America,Transportation and logistics,,,,1.0,-1.0
-unitedhealth group,North America,Financial services,,,,,,North America,Health care and pharmaceuticals,,,,1.0,1.0,North America,Health care and pharmaceuticals,,,,1.0,,North America,Health care and pharmaceuticals,,,,1.0,1.0,North America,Health care and pharmaceuticals,,1.0,,,
+united parcel service,North America,Health care and pharmaceuticals,,,1.0,,,North America,Transportation and logistics,,,1.0,,1.0,North America,Transportation and logistics,,,1.0,,1.0,North America,Transportation and logistics,,,1.0,,1.0,North America,Transportation and logistics,,,1.0,,-1.0
+unitedhealth group,North America,Financial services,,,,,,North America,Health care and pharmaceuticals,,,,1.0,1.0,North America,Health care and pharmaceuticals,,,,1.0,,North America,Health care and pharmaceuticals,,,,1.0,1.0,North America,Health care and pharmaceuticals,,1.0,,1.0,
 usaa,North America,Industrial goods,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,
-vale,Other,Oil and gas,,,1.0,,,Other,Metals and mining,,,,1.0,1.0,Other,Energy and utilities,,,,1.0,,Other,Metals and mining,,,,1.0,,Other,Metals and mining,,,,,1.0
-valero energy,North America,Energy and utilities,,,1.0,,,North America,Oil and gas,,,1.0,,,North America,Energy and utilities,,,1.0,,,North America,Oil and gas,,,1.0,,1.0,North America,Oil and gas,,,,1.0,1.0
-veolia environnement,Europe,Telecommunications and media,,1.0,,,,Europe,Energy and utilities,,1.0,,1.0,1.0,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,1.0,Europe,Energy and utilities,,1.0,,,1.0
-verizon communications,North America,Telecommunications and media,,1.0,1.0,,,North America,Telecommunications and media,,1.0,,1.0,-1.0,North America,Telecommunications and media,,1.0,,1.0,,North America,Telecommunications and media,1.0,1.0,,1.0,,North America,Telecommunications and media,1.0,,,,
+vale,Other,Oil and gas,,,1.0,,,Other,Metals and mining,,,,1.0,1.0,Other,Energy and utilities,,,,1.0,,Other,Metals and mining,,,,1.0,,Other,Metals and mining,,,,1.0,1.0
+valero energy,North America,Energy and utilities,,,1.0,,,North America,Oil and gas,,,1.0,,,North America,Energy and utilities,,,1.0,,,North America,Oil and gas,,,1.0,,1.0,North America,Oil and gas,,,1.0,,1.0
+veolia environnement,Europe,Telecommunications and media,,1.0,,,,Europe,Energy and utilities,,1.0,,1.0,1.0,Europe,Energy and utilities,,1.0,,1.0,,Europe,Energy and utilities,,1.0,,1.0,1.0,Europe,Energy and utilities,,1.0,,1.0,1.0
+verizon communications,North America,Telecommunications and media,,1.0,1.0,,,North America,Telecommunications and media,,1.0,,1.0,-1.0,North America,Telecommunications and media,,1.0,,1.0,,North America,Telecommunications and media,1.0,1.0,,1.0,,North America,Telecommunications and media,1.0,,,1.0,
 viacomcbs,North America,Engineering and construction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-vinci,Europe,Telecommunications and media,,,1.0,,,Europe,Engineering and construction,,1.0,1.0,,,Europe,Engineering and construction,,1.0,1.0,,1.0,Europe,Engineering and construction,,1.0,1.0,,1.0,Europe,Engineering and construction,,1.0,,,1.0
-vodafone group,Europe,Automotive,1.0,1.0,,1.0,,Europe,Telecommunications and media,1.0,1.0,,1.0,-1.0,Europe,Telecommunications and media,1.0,1.0,,1.0,,Europe,Telecommunications and media,1.0,1.0,,1.0,,Europe,Telecommunications and media,1.0,1.0,,,
-volkswagen,Europe,Automotive,,1.0,1.0,,,Europe,Automotive,,1.0,1.0,,1.0,Europe,Automotive,,1.0,1.0,,,Europe,Automotive,,1.0,1.0,,1.0,Europe,Automotive,,1.0,,1.0,1.0
-volvo,Europe,"Food, beverages and agriculture",,1.0,1.0,1.0,,Europe,Automotive,,1.0,1.0,1.0,,Europe,Automotive,,1.0,,1.0,,Europe,Automotive,,1.0,1.0,,,Europe,Engineering and construction,,1.0,,,1.0
+vinci,Europe,Telecommunications and media,,,1.0,,,Europe,Engineering and construction,,1.0,1.0,,,Europe,Engineering and construction,,1.0,1.0,,1.0,Europe,Engineering and construction,,1.0,1.0,,1.0,Europe,Engineering and construction,,1.0,,1.0,1.0
+vodafone group,Europe,Automotive,1.0,1.0,,1.0,,Europe,Telecommunications and media,1.0,1.0,,1.0,-1.0,Europe,Telecommunications and media,1.0,1.0,,1.0,,Europe,Telecommunications and media,1.0,1.0,,1.0,,Europe,Telecommunications and media,1.0,1.0,,1.0,
+volkswagen,Europe,Automotive,,1.0,1.0,,,Europe,Automotive,,1.0,1.0,,1.0,Europe,Automotive,,1.0,1.0,,,Europe,Automotive,,1.0,1.0,,1.0,Europe,Automotive,,1.0,1.0,,1.0
+volvo,Europe,"Food, beverages and agriculture",,1.0,1.0,1.0,,Europe,Automotive,,1.0,1.0,1.0,,Europe,Automotive,,1.0,,1.0,,Europe,Automotive,,1.0,1.0,,,Europe,Engineering and construction,,1.0,,1.0,1.0
 walgreens boots alliance,North America,Retail,,,,,,North America,Retail,,,1.0,,,North America,"Food, beverages and agriculture",,,,,,North America,Retail,,,,1.0,,North America,Health care and pharmaceuticals,,,,,
-walmart,North America,Telecommunications and media,1.0,1.0,,1.0,,North America,Retail,1.0,1.0,,1.0,-1.0,North America,Retail,1.0,1.0,,1.0,,North America,Retail,1.0,1.0,,1.0,-1.0,North America,Retail,1.0,1.0,,,-1.0
-walt disney,North America,Industrial goods,,,,1.0,,North America,Telecommunications and media,,,,1.0,1.0,North America,Telecommunications and media,,,,1.0,,North America,Telecommunications and media,,1.0,,1.0,1.0,North America,Telecommunications and media,,1.0,,,1.0
+walmart,North America,Telecommunications and media,1.0,1.0,,1.0,,North America,Retail,1.0,1.0,,1.0,-1.0,North America,Retail,1.0,1.0,,1.0,,North America,Retail,1.0,1.0,,1.0,-1.0,North America,Retail,1.0,1.0,,1.0,-1.0
+walt disney,North America,Industrial goods,,,,1.0,,North America,Telecommunications and media,,,,1.0,1.0,North America,Telecommunications and media,,,,1.0,,North America,Telecommunications and media,,1.0,,1.0,1.0,North America,Telecommunications and media,,1.0,,1.0,1.0
 weichai power,Asia,Financial services,,,,,,Asia,Industrial goods,,,,,,,,,,,,,,,,,,,,,,,,,,
 wells fargo,North America,"Food, beverages and agriculture",1.0,,1.0,1.0,,North America,Financial services,1.0,,1.0,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,,1.0
 wh group,Asia,"Food, beverages and agriculture",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-wilmar international,Asia,Technology,,,,,,Asia,"Food, beverages and agriculture",,,,,,Asia,"Food, beverages and agriculture",,,,,,Asia,"Food, beverages and agriculture",,,,,,Asia,"Food, beverages and agriculture",,1.0,,,
-wistron,Asia,"Food, beverages and agriculture",,,,,,Asia,Technology,,,,,,Asia,Technology,,,1.0,,,,,,,,,,Asia,Technology,,1.0,,,1.0
-woolworths group,Other,Financial services,,1.0,,1.0,,Other,Retail,1.0,1.0,,1.0,,Other,"Food, beverages and agriculture",1.0,1.0,,1.0,,Other,Retail,1.0,1.0,,1.0,1.0,Other,Retail,1.0,1.0,,,1.0
+wilmar international,Asia,Technology,,,,,,Asia,"Food, beverages and agriculture",,,,,,Asia,"Food, beverages and agriculture",,,,,,Asia,"Food, beverages and agriculture",,,,,,Asia,"Food, beverages and agriculture",,1.0,,1.0,
+wistron,Asia,"Food, beverages and agriculture",,,,,,Asia,Technology,,,,,,Asia,Technology,,,1.0,,,,,,,,,,Asia,Technology,,1.0,,1.0,1.0
+woolworths group,Other,Financial services,,1.0,,1.0,,Other,Retail,1.0,1.0,,1.0,,Other,"Food, beverages and agriculture",1.0,1.0,,1.0,,Other,Retail,1.0,1.0,,1.0,1.0,Other,Retail,1.0,1.0,,1.0,1.0
 wuchan zhongda group,Asia,"Food, beverages and agriculture",,,,,,Asia,Financial services,,,,,,Asia,Retail,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
-x5 retail group,Europe,Financial services,,,1.0,,,Europe,Retail,,,1.0,,,Europe,"Food, beverages and agriculture",,,1.0,,,Asia,Retail,,,,,,Europe,Retail,,,,1.0,
-xiamen c&d,Asia,Technology,,,,,,Asia,Financial services,,,,,,Asia,Retail,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,
-xiamen itg holding group,Asia,Retail,,,,,,Asia,Financial services,,,,,,Asia,Retail,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,
-xiaomi,Asia,Financial services,,,,,,Asia,Industrial goods,,,,,,Asia,Technology,,,,,,Asia,Industrial goods,,,1.0,,1.0,Asia,Retail,,,,1.0,
+x5 retail group,Europe,Financial services,,,1.0,,,Europe,Retail,,,1.0,,,Europe,"Food, beverages and agriculture",,,1.0,,,Asia,Retail,,,,,,Europe,Retail,,,1.0,,
+xiamen c&d,Asia,Technology,,,,,,Asia,Financial services,,,,,,Asia,Retail,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
+xiamen itg holding group,Asia,Retail,,,,,,Asia,Financial services,,,,,,Asia,Retail,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
+xiaomi,Asia,Financial services,,,,,,Asia,Industrial goods,,,,,,Asia,Technology,,,,,,Asia,Industrial goods,,,1.0,,1.0,Asia,Retail,,,1.0,,
 xinjiang guanghui industry investment,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Retail,,,,,,,,,,,,,,,,,,,
-xmxyg,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Retail,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,
+xmxyg,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Retail,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
 yango longking group,Asia,Financial services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 yunnan provincial investment holding group,Asia,Automotive,,,,,,Asia,Financial services,,,,,,,,,,,,,,,,,,,,,,,,,,
-zf friedrichshafen,Europe,Transportation and logistics,,,1.0,,,Europe,Automotive,,1.0,1.0,,-1.0,Europe,Automotive,,1.0,,1.0,,Europe,Automotive,,1.0,1.0,,,Europe,Automotive,,1.0,,1.0,
-zhejiang communications investment group,Asia,Automotive,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,1.0,,
-zhejiang geely holding group,Asia,Chemicals,,,,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,,1.0,
-zhejiang hengyi group,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,1.0,,
-zhejiang rongsheng holding group,Asia,Industrial goods,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,1.0,,
-zijin mining group,Asia,Financial services,,,,,,Asia,Metals and mining,,,1.0,,,Asia,Industrial goods,,,1.0,,1.0,Asia,Metals and mining,,,1.0,,1.0,Asia,Metals and mining,,,,1.0,1.0
-zurich insurance group,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,,1.0
-shell,,,,,,,,Europe,Oil and gas,,,,1.0,1.0,Europe,Energy and utilities,,,,1.0,,Europe,Oil and gas,,,,1.0,1.0,Europe,Oil and gas,,,,,1.0
-stellantis,,,,,,,,Europe,Automotive,,,,1.0,-1.0,Europe,Automotive,,,,1.0,,Europe,Automotive,,,,1.0,1.0,Europe,Automotive,,,,,1.0
+zf friedrichshafen,Europe,Transportation and logistics,,,1.0,,,Europe,Automotive,,1.0,1.0,,-1.0,Europe,Automotive,,1.0,,1.0,,Europe,Automotive,,1.0,1.0,,,Europe,Automotive,,1.0,1.0,,
+zhejiang communications investment group,Asia,Automotive,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,
+zhejiang geely holding group,Asia,Chemicals,,,,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,
+zhejiang hengyi group,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,
+zhejiang rongsheng holding group,Asia,Industrial goods,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,
+zijin mining group,Asia,Financial services,,,,,,Asia,Metals and mining,,,1.0,,,Asia,Industrial goods,,,1.0,,1.0,Asia,Metals and mining,,,1.0,,1.0,Asia,Metals and mining,,,1.0,,1.0
+zurich insurance group,Europe,Financial services,1.0,,1.0,1.0,,Europe,Financial services,1.0,,1.0,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0
+shell,,,,,,,,Europe,Oil and gas,,,,1.0,1.0,Europe,Energy and utilities,,,,1.0,,Europe,Oil and gas,,,,1.0,1.0,Europe,Oil and gas,,,,1.0,1.0
+stellantis,,,,,,,,Europe,Automotive,,,,1.0,-1.0,Europe,Automotive,,,,1.0,,Europe,Automotive,,,,1.0,1.0,Europe,Automotive,,,,1.0,1.0
 sinochem holdings,,,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,,,,,,,
-mercedes-benz group,,,,,,,,Europe,Automotive,,,1.0,,1.0,Europe,Automotive,,,1.0,,,Europe,Automotive,,1.0,1.0,,1.0,Europe,Automotive,,1.0,,1.0,
-elevance health,,,,,,,,North America,Health care and pharmaceuticals,1.0,,,,,North America,Health care and pharmaceuticals,1.0,,,1.0,1.0,North America,Health care and pharmaceuticals,1.0,,,1.0,,North America,Health care and pharmaceuticals,1.0,1.0,,,1.0
-meta platforms,,,,,,,,North America,Technology,1.0,,,1.0,,North America,Technology,1.0,,,1.0,,North America,Technology,1.0,1.0,,1.0,1.0,North America,Retail,,1.0,,,1.0
+mercedes-benz group,,,,,,,,Europe,Automotive,,,1.0,,1.0,Europe,Automotive,,,1.0,,,Europe,Automotive,,1.0,1.0,,1.0,Europe,Automotive,,1.0,1.0,,
+elevance health,,,,,,,,North America,Health care and pharmaceuticals,1.0,,,,,North America,Health care and pharmaceuticals,1.0,,,1.0,1.0,North America,Health care and pharmaceuticals,1.0,,,1.0,,North America,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0
+meta platforms,,,,,,,,North America,Technology,1.0,,,1.0,,North America,Technology,1.0,,,1.0,,North America,Technology,1.0,1.0,,1.0,1.0,North America,Retail,,1.0,,1.0,1.0
 life insurance corp. of india,,,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
 sk group,,,,,,,,Asia,Oil and gas,,,,1.0,1.0,Asia,Energy and utilities,,,,1.0,,,,,,,,,,,,,,,
-cosco shipping,,,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,1.0,,1.0,,Asia,Transportation and logistics,,1.0,,1.0,,Asia,Transportation and logistics,,1.0,,,
-panasonic holdings,,,,,,,,Asia,Industrial goods,1.0,1.0,1.0,,,Asia,Technology,1.0,1.0,,1.0,,Asia,Industrial goods,1.0,1.0,,1.0,1.0,Asia,Technology,1.0,1.0,,,1.0
-conocophillips,,,,,,,,North America,Metals and mining,,,,1.0,1.0,North America,Energy and utilities,,,,1.0,,North America,Metals and mining,,,,1.0,1.0,North America,Metals and mining,,,,,1.0
-gsk,,,,,,,,Europe,Health care and pharmaceuticals,,1.0,,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,,1.0
+cosco shipping,,,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,1.0,,1.0,,Asia,Transportation and logistics,,1.0,,1.0,,Asia,Transportation and logistics,,1.0,,1.0,
+panasonic holdings,,,,,,,,Asia,Industrial goods,1.0,1.0,1.0,,,Asia,Technology,1.0,1.0,,1.0,,Asia,Industrial goods,1.0,1.0,,1.0,1.0,Asia,Technology,1.0,1.0,,1.0,1.0
+conocophillips,,,,,,,,North America,Metals and mining,,,,1.0,1.0,North America,Energy and utilities,,,,1.0,,North America,Metals and mining,,,,1.0,1.0,North America,Metals and mining,,,,1.0,1.0
+gsk,,,,,,,,Europe,Health care and pharmaceuticals,,1.0,,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,1.0
 susun construction group,,,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,
 plains gp holdings,,,,,,,,North America,Oil and gas,,,,,,North America,Energy and utilities,,,,,,North America,Oil and gas,,,,,,North America,Energy and utilities,,,,,
-omv group,,,,,,,,Other,Oil and gas,,,,1.0,,Other,Energy and utilities,,,,1.0,,Europe,Oil and gas,,,,1.0,1.0,Europe,Oil and gas,,,,,1.0
+omv group,,,,,,,,Other,Oil and gas,,,,1.0,,Other,Energy and utilities,,,,1.0,,Europe,Oil and gas,,,,1.0,1.0,Europe,Oil and gas,,,,1.0,1.0
 hangzhou iron and steel group,,,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
-energie baden-wurttemberg,,,,,,,,Europe,Energy and utilities,,,1.0,,1.0,Europe,Energy and utilities,,1.0,1.0,,1.0,Europe,Energy and utilities,,1.0,1.0,,1.0,Europe,Energy and utilities,,1.0,,1.0,1.0
-cenovus energy,,,,,,,,North America,Metals and mining,,,,1.0,1.0,North America,Energy and utilities,,,,1.0,,North America,Metals and mining,,,,1.0,,North America,Metals and mining,,,,,1.0
+energie baden-wurttemberg,,,,,,,,Europe,Energy and utilities,,,1.0,,1.0,Europe,Energy and utilities,,1.0,1.0,,1.0,Europe,Energy and utilities,,1.0,1.0,,1.0,Europe,Energy and utilities,,1.0,1.0,,1.0
+cenovus energy,,,,,,,,North America,Metals and mining,,,,1.0,1.0,North America,Energy and utilities,,,,1.0,,North America,Metals and mining,,,,1.0,,North America,Metals and mining,,,,1.0,1.0
 nucor,,,,,,,,North America,Metals and mining,,,,,1.0,North America,Industrial goods,,,,,,North America,Metals and mining,,,,1.0,1.0,,,,,,,
-massachusetts mutual life insurance,,,,,,,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,,North America,Financial services,,,,,1.0
+massachusetts mutual life insurance,,,,,,,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,1.0
 kuehne + nagel international,,,,,,,,Europe,Transportation and logistics,,1.0,1.0,,,Europe,Transportation and logistics,,1.0,,1.0,,,,,,,,,,,,,,,
 raízen,,,,,,,,Other,Oil and gas,,,,,,Other,Energy and utilities,,,,,,,,,,,,,,,,,,,
 mitsubishi corp,,,,,,,,Asia,Financial services,,,,1.0,,,,,,,,,,,,,,,,,,,,,,
-olam group,,,,,,,,Asia,Retail,,1.0,,,,Asia,Retail,,1.0,,,,Asia,Retail,,1.0,,1.0,1.0,Asia,"Food, beverages and agriculture",,1.0,,,
+olam group,,,,,,,,Asia,Retail,,1.0,,,,Asia,Retail,,1.0,,,,Asia,Retail,,1.0,,1.0,1.0,Asia,"Food, beverages and agriculture",,1.0,,1.0,
 shudao investment group,,,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,
-china national aviation fuel group,,,,,,,,Asia,Oil and gas,,,,,,Asia,Financial services,,,,,,Asia,Oil and gas,,,,,,Asia,Financial services,,,1.0,,-1.0
+china national aviation fuel group,,,,,,,,Asia,Oil and gas,,,,,,Asia,Financial services,,,,,,Asia,Oil and gas,,,,,,Asia,Financial services,,,,,-1.0
 lu'an chemical group,,,,,,,,Asia,Metals and mining,,,,,,Asia,Energy and utilities,,,,,,,,,,,,,,,,,,,
 pkn orlen group,,,,,,,,Other,Oil and gas,,,,1.0,,Other,Energy and utilities,,,1.0,,,,,,,,,,,,,,,,
-qualcomm,,,,,,,,North America,Industrial goods,,,,1.0,-1.0,North America,Technology,,1.0,,1.0,,North America,Industrial goods,,1.0,,1.0,1.0,North America,Technology,,1.0,,,1.0
+qualcomm,,,,,,,,North America,Industrial goods,,,,1.0,-1.0,North America,Technology,,1.0,,1.0,,North America,Industrial goods,,1.0,,1.0,1.0,North America,Technology,,1.0,,1.0,1.0
 carmax,,,,,,,,North America,Retail,,,,1.0,1.0,North America,Retail,,,,1.0,,,,,,,,,,,,,,,
 xinjiang zhongtai group,,,,,,,,Asia,Chemicals,,,,,,Asia,Chemicals,,,,,,,,,,,,,,,,,,,
 tata steel,,,,,,,,Asia,Metals and mining,,,,,,,,,,,,,,,,,,,,,,,,,,
-byd,,,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,1.0,
-inditex,,,,,,,,Europe,Retail,,1.0,,1.0,,Europe,Retail,,1.0,,1.0,,Europe,Retail,,1.0,,1.0,,Europe,Retail,,1.0,,,
-s.f. holding,,,,,,,,Asia,Transportation and logistics,,,,,1.0,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,1.0,,,1.0
-td synnex,,,,,,,,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,,North America,Retail,,1.0,,1.0,,North America,Industrial goods,,1.0,,,1.0
+byd,,,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,1.0,,
+inditex,,,,,,,,Europe,Retail,,1.0,,1.0,,Europe,Retail,,1.0,,1.0,,Europe,Retail,,1.0,,1.0,,Europe,Retail,,1.0,,1.0,
+s.f. holding,,,,,,,,Asia,Transportation and logistics,,,,,1.0,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,1.0,,1.0,1.0
+td synnex,,,,,,,,North America,Retail,,,,1.0,,North America,Retail,,,,1.0,,North America,Retail,,1.0,,1.0,,North America,Industrial goods,,1.0,,1.0,1.0
 world fuel services,,,,,,,,North America,Energy and utilities,,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,
-suncor energy,,,,,,,,North America,Oil and gas,,,,1.0,,North America,Energy and utilities,,,,1.0,,North America,Oil and gas,,,,,,North America,Oil and gas,,,,,1.0
-shandong hi-speed group,,,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,1.0,,1.0
+suncor energy,,,,,,,,North America,Oil and gas,,,,1.0,,North America,Energy and utilities,,,,1.0,,North America,Oil and gas,,,,,,North America,Oil and gas,,,,1.0,1.0
+shandong hi-speed group,,,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,,Asia,Transportation and logistics,,,,,1.0
 investor,,,,,,,,Europe,Financial services,,,,1.0,,,,,,,,,,,,,,,,,,,,,,
 chengdu xingcheng investment group,,,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and construction,,,,,,,,,,,,,,,,,,,
 shanghai delong steel group,,,,,,,,Asia,Metals and mining,,,,,,Asia,Industrial goods,,,,,,Asia,Metals and mining,,,,,,Asia,Metals and mining,,,,,
-gs caltex,,,,,,,,Asia,Oil and gas,,,,,,Asia,Energy and utilities,,,,,,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,1.0,
+gs caltex,,,,,,,,Asia,Oil and gas,,,,,,Asia,Energy and utilities,,,,,,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,1.0,,
 mercadona,,,,,,,,Europe,Retail,,,,,,,,,,,,,Europe,"Food, beverages and agriculture",,,,,,Europe,Retail,,,,,
-cpc,,,,,,,,Asia,Oil and gas,,,,,,Asia,Energy and utilities,,,,,,Asia,Oil and gas,,,,1.0,1.0,Asia,Oil and gas,,,,,1.0
-delta air lines,,,,,,,,North America,Transportation and Logistics,,,1.0,1.0,,North America,Transportation and logistics,,1.0,,1.0,,North America,Transportation and Logistics,,1.0,,1.0,1.0,North America,Transportation and logistics,,1.0,,,1.0
-american airlines group,,,,,,,,North America,Transportation and Logistics,,1.0,,1.0,1.0,North America,Transportation and logistics,,1.0,,1.0,,North America,Transportation and Logistics,,1.0,,1.0,1.0,North America,Transportation and logistics,,1.0,,,1.0
+cpc,,,,,,,,Asia,Oil and gas,,,,,,Asia,Energy and utilities,,,,,,Asia,Oil and gas,,,,1.0,1.0,Asia,Oil and gas,,,,1.0,1.0
+delta air lines,,,,,,,,North America,Transportation and Logistics,,,1.0,1.0,,North America,Transportation and logistics,,1.0,,1.0,,North America,Transportation and Logistics,,1.0,,1.0,1.0,North America,Transportation and logistics,,1.0,,1.0,1.0
+american airlines group,,,,,,,,North America,Transportation and Logistics,,1.0,,1.0,1.0,North America,Transportation and logistics,,1.0,,1.0,,North America,Transportation and Logistics,,1.0,,1.0,1.0,North America,Transportation and logistics,,1.0,,1.0,1.0
 paramount global,,,,,,,,North America,Telecommunications and media,,,,,,North America,Telecommunications and media,,,,,,,,,,,,,,,,,,,
 us foods holding,,,,,,,,North America,Retail,,,,,,North America,Retail,,1.0,,,,North America,Retail,,1.0,,,,North America,"Food, beverages and agriculture",,1.0,,,
 danaher,,,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,,,,,,,,,,,,,,
 randstad,,,,,,,,Europe,Financial services,,,,1.0,,,,,,,,,,,,,,,,,,,,,,
-starbucks,,,,,,,,North America,"Food, beverages and agriculture",1.0,1.0,,,,North America,Retail,1.0,1.0,,,,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,,North America,"Food, beverages and agriculture",1.0,1.0,,,-1.0
+starbucks,,,,,,,,North America,"Food, beverages and agriculture",1.0,1.0,,,,North America,Retail,1.0,1.0,,,,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,,North America,"Food, beverages and agriculture",1.0,1.0,,1.0,-1.0
 rwe,,,,,,,,Europe,Energy and utilities,,1.0,1.0,,,Europe,Energy and utilities,,1.0,1.0,,,,,,,,,,,,,,,,
 dsv,,,,,,,,Europe,Transportation and logistics,,1.0,,,,Europe,Transportation and logistics,,1.0,,1.0,,,,,,,,,,,,,,,
 umicore,,,,,,,,Other,Chemicals,,,,1.0,,,,,,,,,,,,,,,,,,,,,,
-uniper,,,,,,,,,,,,,,,Europe,Energy and utilities,,,1.0,,1.0,Europe,Energy and utilities,,,1.0,,1.0,Europe,Energy and utilities,,,,1.0,1.0
+uniper,,,,,,,,,,,,,,,Europe,Energy and utilities,,,1.0,,1.0,Europe,Energy and utilities,,,1.0,,1.0,Europe,Energy and utilities,,,1.0,,1.0
 rtx,,,,,,,,,,,,,,,North America,Aerospace and defense,,,,1.0,,North America,Aerospace and Defense,,,,1.0,1.0,North America,Aerospace and defense,,,,,
-ibm,,,,,,,,,,,,,,,North America,Technology,,,,1.0,,North America,Technology,,,,1.0,1.0,North America,Technology,,,,,1.0
-world kinect,,,,,,,,,,,,,,,North America,Energy and utilities,,,1.0,,1.0,North America,Energy and utilities,,,,,,North America,Energy and utilities,,,,,1.0
-daimler truck holding,,,,,,,,,,,,,,,Europe,Automotive,,,1.0,,,Europe,Automotive,,,1.0,,,Europe,Automotive,,,,1.0,1.0
-contemporary amperex technology,,,,,,,,,,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,,1.0,1.0
+ibm,,,,,,,,,,,,,,,North America,Technology,,,,1.0,,North America,Technology,,,,1.0,1.0,North America,Technology,,,,1.0,1.0
+world kinect,,,,,,,,,,,,,,,North America,Energy and utilities,,,1.0,,1.0,North America,Energy and utilities,,,,,,North America,Energy and utilities,,,,1.0,1.0
+daimler truck holding,,,,,,,,,,,,,,,Europe,Automotive,,,1.0,,,Europe,Automotive,,,1.0,,,Europe,Automotive,,,1.0,,1.0
+contemporary amperex technology,,,,,,,,,,,,,,,Asia,Automotive,,,,,,Asia,Automotive,,,1.0,,,Asia,Automotive,,,1.0,,1.0
 energi danmark group,,,,,,,,,,,,,,,Europe,Energy and utilities,,,1.0,,1.0,,,,,,,,,,,,,,
-hd hyundai,,,,,,,,,,,,,,,Asia,Energy and utilities,,,,,,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,,1.0,1.0
+hd hyundai,,,,,,,,,,,,,,,Asia,Energy and utilities,,,,,,Asia,Oil and gas,,,,,,Asia,Oil and gas,,,1.0,,1.0
 pbf energy,,,,,,,,,,,,,,,North America,Energy and utilities,,,1.0,,,North America,Oil and gas,,,1.0,,,North America,Oil and gas,,,,,
-united airlines holdings,,,,,,,,,,,,,,,North America,Transportation and logistics,,,,1.0,,North America,Transportation and logistics,,1.0,,1.0,-1.0,North America,Transportation and logistics,,1.0,,,-1.0
+united airlines holdings,,,,,,,,,,,,,,,North America,Transportation and logistics,,,,1.0,,North America,Transportation and logistics,,1.0,,1.0,-1.0,North America,Transportation and logistics,,1.0,,1.0,-1.0
 korea gas,,,,,,,,,,,,,,,Asia,Energy and utilities,,,1.0,,,Asia,Oil and gas,,,,,,,,,,,,
 hf sinclair,,,,,,,,,,,,,,,North America,Energy and utilities,,,,,,,,,,,,,,,,,,,
 nutrien,,,,,,,,,,,,,,,North America,"Food, beverages and agriculture",,,,,,,,,,,,,,,,,,,
-ecopetrol,,,,,,,,,,,,,,,Other,Energy and utilities,,,,1.0,,Other,Oil and gas,,,,1.0,1.0,Other,Metals and mining,,,,,1.0
+ecopetrol,,,,,,,,,,,,,,,Other,Energy and utilities,,,,1.0,,Other,Oil and gas,,,,1.0,1.0,Other,Metals and mining,,,,1.0,1.0
 gasterra,,,,,,,,,,,,,,,Europe,Energy and utilities,,,,,,,,,,,,,,,,,,,
 occidental petroleum,,,,,,,,,,,,,,,North America,Energy and utilities,,,,1.0,,,,,,,,,,,,,,,
-caixa economica federal,,,,,,,,,,,,,,,Other,Financial services,,,,,,Other,Financial services,,,,,,Other,Financial services,,,1.0,,1.0
+caixa economica federal,,,,,,,,,,,,,,,Other,Financial services,,,,,,Other,Financial services,,,,,,Other,Financial services,,,,1.0,1.0
 guangzhou industrial investment holdings,,,,,,,,,,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,,Asia,Industrial goods,,,,,
 hapag-lloyd,,,,,,,,,,,,,,,Europe,Transportation and logistics,,,1.0,,,,,,,,,,,,,,,,
 naturgy energy group,,,,,,,,,,,,,,,Europe,Energy and utilities,,,1.0,,1.0,,,,,,,,,,,,,,
 guangdong guangxin holdings,,,,,,,,,,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
 vibra energia,,,,,,,,,,,,,,,Other,Energy and utilities,,,1.0,,1.0,Other,Oil and gas,,,1.0,,1.0,,,,,,,
 shaanxi construction engineering holding,,,,,,,,,,,,,,,Asia,Engineering and construction,,,,,,Asia,Engineering and Construction,,,,,,,,,,,,
-lufthansa group,,,,,,,,,,,,,,,Europe,Transportation and logistics,,,1.0,,1.0,Europe,Transportation and logistics,,1.0,1.0,,1.0,Europe,Transportation and logistics,,1.0,,1.0,1.0
-magnit,,,,,,,,,,,,,,,Europe,"Food, beverages and agriculture",,,,,,,,,,,,,Europe,Retail,,1.0,,,
-warner bros. discovery,,,,,,,,,,,,,,,North America,Telecommunications and media,,,,,,North America,Telecommunications and media,,,,,,North America,Telecommunications and media,,,,,1.0
+lufthansa group,,,,,,,,,,,,,,,Europe,Transportation and logistics,,,1.0,,1.0,Europe,Transportation and logistics,,1.0,1.0,,1.0,Europe,Transportation and logistics,,1.0,1.0,,1.0
+magnit,,,,,,,,,,,,,,,Europe,"Food, beverages and agriculture",,,,,,,,,,,,,Europe,Retail,,1.0,,1.0,
+warner bros. discovery,,,,,,,,,,,,,,,North America,Telecommunications and media,,,,,,North America,Telecommunications and media,,,,,,North America,Telecommunications and media,,,,1.0,1.0
 lennar,,,,,,,,,,,,,,,North America,Engineering and construction,,,,,,North America,Engineering and Construction,,,,,,North America,Engineering and construction,,,,,
 fomento economico mexicano,,,,,,,,,,,,,,,North America,"Food, beverages and agriculture",,,,,,North America,"Food, beverages and agriculture",,,,,,Other,"Food, beverages and agriculture",,,,,
 d.r. horton,,,,,,,,,,,,,,,North America,Engineering and construction,,,,,,North America,Engineering and Construction,,,,,,North America,Engineering and construction,,,,,
@@ -575,64 +575,64 @@ broadcom,,,,,,,,,,,,,,,North America,Technology,,,,,,North America,Technology,,,
 meituan,,,,,,,,,,,,,,,Asia,Retail,,,,,,Asia,Retail,,,,,,Asia,Retail,,,,,
 canadian natural resources,,,,,,,,,,,,,,,North America,Energy and utilities,,,,,,,,,,,,,,,,,,,
 molina healthcare,,,,,,,,,,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,,North America,Health care and pharmaceuticals,,,,,
-tongwei group,,,,,,,,,,,,,,,Asia,Energy and utilities,,,1.0,,1.0,Asia,Energy and utilities,,,1.0,,1.0,Asia,Energy and utilities,1.0,,,1.0,1.0
-uber technologies,,,,,,,,,,,,,,,North America,Technology,,,,1.0,,North America,Technology,,1.0,,1.0,,North America,Retail,,1.0,,,1.0
-luxshare precision industry,,,,,,,,,,,,,,,Asia,Technology,,,1.0,,1.0,Asia,Technology,,1.0,1.0,,,Asia,Technology,,1.0,,1.0,
+tongwei group,,,,,,,,,,,,,,,Asia,Energy and utilities,,,1.0,,1.0,Asia,Energy and utilities,,,1.0,,1.0,Asia,Energy and utilities,1.0,,1.0,,1.0
+uber technologies,,,,,,,,,,,,,,,North America,Technology,,,,1.0,,North America,Technology,,1.0,,1.0,,North America,Retail,,1.0,,1.0,1.0
+luxshare precision industry,,,,,,,,,,,,,,,Asia,Technology,,,1.0,,1.0,Asia,Technology,,1.0,1.0,,,Asia,Technology,,1.0,1.0,,
 nrg energy,,,,,,,,,,,,,,,North America,Energy and utilities,,1.0,,1.0,,,,,,,,,,,,,,,
 air liquide,,,,,,,,,,,,,,,Europe,Chemicals,,1.0,1.0,,,,,,,,,,,,,,,,
-salesforce,,,,,,,,,,,,,,,North America,Technology,,,,1.0,,North America,Technology,,1.0,,1.0,1.0,North America,Technology,,1.0,,,1.0
+salesforce,,,,,,,,,,,,,,,North America,Technology,,,,1.0,,North America,Technology,,1.0,,1.0,1.0,North America,Technology,,1.0,,1.0,1.0
 aig,,,,,,,,,,,,,,,,,,,,,,North America,Financial services,,,,1.0,,,,,,,,
-air france-klm group,,,,,,,,,,,,,,,,,,,,,,Europe,Transportation and logistics,,1.0,,1.0,,Europe,Transportation and logistics,,1.0,,,1.0
-america movil,,,,,,,,,,,,,,,,,,,,,,North America,Telecommunications and media,,1.0,,,,Other,Telecommunications and media,,,,,
+air france-klm group,,,,,,,,,,,,,,,,,,,,,,Europe,Transportation and logistics,,1.0,,1.0,,Europe,Transportation and logistics,,1.0,,1.0,1.0
+america movil,,,,,,,,,,,,,,,,,,,,,,North America,Telecommunications and media,,1.0,,,,Other,Telecommunications and media,,,,1.0,
 anz group holdings,,,,,,,,,,,,,,,,,,,,,,Other,Financial services,1.0,,,1.0,,Other,Financial services,1.0,,,,1.0
 apollo global management,,,,,,,,,,,,,,,,,,,,,,North America,Financial services,,,1.0,,1.0,,,,,,,
 bank of new york mellon,,,,,,,,,,,,,,,,,,,,,,North America,Financial services,,,1.0,,1.0,,,,,,,
-brookfield,,,,,,,,,,,,,,,,,,,,,,North America,Financial services,,,,1.0,,North America,Financial services,,,,,1.0
-canadian imperial bank of commerce,,,,,,,,,,,,,,,,,,,,,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,,1.0
+brookfield,,,,,,,,,,,,,,,,,,,,,,North America,Financial services,,,,1.0,,North America,Financial services,,,,1.0,1.0
+canadian imperial bank of commerce,,,,,,,,,,,,,,,,,,,,,,North America,Financial services,,,,1.0,1.0,North America,Financial services,,,,1.0,1.0
 cencora,,,,,,,,,,,,,,,,,,,,,,North America,Retail,,1.0,,,,North America,Health care and pharmaceuticals,,1.0,,,
 cfe,,,,,,,,,,,,,,,,,,,,,,North America,Industrial goods,,,,,,Other,Energy and utilities,,,,,
-crédit mutuel group,,,,,,,,,,,,,,,,,,,,,,Europe,Financial services,,,,1.0,,Europe,Financial services,,,,,1.0
-cummins,,,,,,,,,,,,,,,,,,,,,,North America,Industrial goods,,1.0,,1.0,,North America,Industrial goods,,1.0,,,
-dhl group,,,,,,,,,,,,,,,,,,,,,,Europe,Transportation and logistics,,1.0,,1.0,,Europe,Transportation and logistics,,1.0,,,1.0
+crédit mutuel group,,,,,,,,,,,,,,,,,,,,,,Europe,Financial services,,,,1.0,,Europe,Financial services,,,,1.0,1.0
+cummins,,,,,,,,,,,,,,,,,,,,,,North America,Industrial goods,,1.0,,1.0,,North America,Industrial goods,,1.0,,1.0,
+dhl group,,,,,,,,,,,,,,,,,,,,,,Europe,Transportation and logistics,,1.0,,1.0,,Europe,Transportation and logistics,,1.0,,1.0,1.0
 emirates group,,,,,,,,,,,,,,,,,,,,,,Asia,Transportation and logistics,,,,,,Other,Transportation and logistics,,,,,
 fairfax financial holdings,,,,,,,,,,,,,,,,,,,,,,North America,Financial services,,,,,,North America,Financial services,,,,,
 hangzhou industrial investment group,,,,,,,,,,,,,,,,,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,,
-hdfc bank,,,,,,,,,,,,,,,,,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,,1.0,
-heineken,,,,,,,,,,,,,,,,,,,,,,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,,Europe,"Food, beverages and agriculture",1.0,1.0,,,1.0
-jerónimo martins,,,,,,,,,,,,,,,,,,,,,,Europe,"Food, beverages and agriculture",,1.0,,1.0,,Europe,Retail,,1.0,,,1.0
-landesbank baden-wurttemberg,,,,,,,,,,,,,,,,,,,,,,Europe,Financial services,,,,1.0,,Europe,Financial services,,,,,1.0
-national australia bank,,,,,,,,,,,,,,,,,,,,,,Other,Financial services,1.0,,,1.0,1.0,Other,Financial services,1.0,,,,1.0
+hdfc bank,,,,,,,,,,,,,,,,,,,,,,Asia,Financial services,,,,,,Asia,Financial services,,,1.0,,
+heineken,,,,,,,,,,,,,,,,,,,,,,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,1.0
+jerónimo martins,,,,,,,,,,,,,,,,,,,,,,Europe,"Food, beverages and agriculture",,1.0,,1.0,,Europe,Retail,,1.0,,1.0,1.0
+landesbank baden-wurttemberg,,,,,,,,,,,,,,,,,,,,,,Europe,Financial services,,,,1.0,,Europe,Financial services,,,,1.0,1.0
+national australia bank,,,,,,,,,,,,,,,,,,,,,,Other,Financial services,1.0,,,1.0,1.0,Other,Financial services,1.0,,,1.0,1.0
 nestle,,,,,,,,,,,,,,,,,,,,,,Europe,"Food, beverages and agriculture",1.0,1.0,,1.0,1.0,,,,,,,
-novo nordisk,,,,,,,,,,,,,,,,,,,,,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,,Europe,Health care and pharmaceuticals,1.0,,,,1.0
+novo nordisk,,,,,,,,,,,,,,,,,,,,,,Europe,Health care and pharmaceuticals,1.0,1.0,,1.0,,Europe,Health care and pharmaceuticals,1.0,,,1.0,1.0
 nvidia,,,,,,,,,,,,,,,,,,,,,,North America,Technology,,,,,,North America,Technology,,1.0,,,
-orlen,,,,,,,,,,,,,,,,,,,,,,Europe,Oil and gas,,,,1.0,,Europe,Oil and gas,,,,,
+orlen,,,,,,,,,,,,,,,,,,,,,,Europe,Oil and gas,,,,1.0,,Europe,Oil and gas,,,,1.0,
 paccar,,,,,,,,,,,,,,,,,,,,,,North America,Automotive,,1.0,,,,North America,Engineering and construction,,1.0,,,
 pdd holdings,,,,,,,,,,,,,,,,,,,,,,Asia,Retail,,,,,,Asia,Retail,,,,,
-posco holdings,,,,,,,,,,,,,,,,,,,,,,Asia,Metals and mining,,,1.0,,,Asia,Metals and mining,,,,,1.0
+posco holdings,,,,,,,,,,,,,,,,,,,,,,Asia,Metals and mining,,,1.0,,,Asia,Metals and mining,,,,1.0,1.0
 rabobank group,,,,,,,,,,,,,,,,,,,,,,Europe,Financial services,,,,,,Europe,Financial services,,,,,
 raizen,,,,,,,,,,,,,,,,,,,,,,Other,Oil and gas,,,,,,Other,Oil and gas,,,,,
-schlumberger,,,,,,,,,,,,,,,,,,,,,,North America,Oil and gas,,,,1.0,1.0,North America,Oil and gas,,,,,
-societe generale,,,,,,,,,,,,,,,,,,,,,,Europe,Financial services,,,1.0,,1.0,Europe,Financial services,,,,1.0,
-standard chartered,,,,,,,,,,,,,,,,,,,,,,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,,1.0
-visa,,,,,,,,,,,,,,,,,,,,,,North America,Financial services,1.0,1.0,1.0,,1.0,North America,Financial services,1.0,1.0,,,1.0
-vtb bank,,,,,,,,,,,,,,,,,,,,,,Asia,Financial services,,,,,,Europe,Financial services,,,,1.0,
-rewe group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Europe,Retail,,,,,1.0
-ntt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asia,Telecommunications and media,,1.0,,,1.0
-nippon steel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asia,Metals and mining,,,,1.0,1.0
+schlumberger,,,,,,,,,,,,,,,,,,,,,,North America,Oil and gas,,,,1.0,1.0,North America,Oil and gas,,,,1.0,
+societe generale,,,,,,,,,,,,,,,,,,,,,,Europe,Financial services,,,1.0,,1.0,Europe,Financial services,,,1.0,,
+standard chartered,,,,,,,,,,,,,,,,,,,,,,Europe,Financial services,1.0,,,1.0,1.0,Europe,Financial services,1.0,,,1.0,1.0
+visa,,,,,,,,,,,,,,,,,,,,,,North America,Financial services,1.0,1.0,1.0,,1.0,North America,Financial services,1.0,1.0,,1.0,1.0
+vtb bank,,,,,,,,,,,,,,,,,,,,,,Asia,Financial services,,,,,,Europe,Financial services,,,1.0,,
+rewe group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Europe,Retail,,,,1.0,1.0
+ntt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asia,Telecommunications and media,,1.0,,1.0,1.0
+nippon steel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asia,Metals and mining,,,1.0,,1.0
 bunge global,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Europe,"Food, beverages and agriculture",,1.0,,,
 ingram micro holding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North America,Industrial goods,,1.0,,,1.0
 bank of new york (bny),,,,,,,,,,,,,,,,,,,,,,,,,,,,,North America,Financial services,,,,,1.0
-general electric (ge aerospace),,,,,,,,,,,,,,,,,,,,,,,,,,,,,North America,Aerospace and defense,,,,,1.0
-westpac banking,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Other,Financial services,,,,,1.0
+general electric (ge aerospace),,,,,,,,,,,,,,,,,,,,,,,,,,,,,North America,Aerospace and defense,,,,1.0,1.0
+westpac banking,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Other,Financial services,,,,1.0,1.0
 qnb group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Other,Financial services,,,,,
-natwest group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Europe,Financial services,1.0,1.0,,,1.0
+natwest group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Europe,Financial services,1.0,1.0,,1.0,1.0
 lithia motors,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North America,Retail,,,,,1.0
-cbre group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North America,Real estate,,1.0,,,1.0
-ge vernova,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North America,Energy and utilities,,,,,1.0
-icici bank,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asia,Financial services,,,,1.0,
-shandong gold group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asia,Metals and mining,,,1.0,,
-international airlines group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Europe,Transportation and logistics,,,,,1.0
+cbre group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North America,Real estate,,1.0,,1.0,1.0
+ge vernova,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North America,Energy and utilities,,,,1.0,1.0
+icici bank,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asia,Financial services,,,1.0,,
+shandong gold group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asia,Metals and mining,,,,,
+international airlines group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Europe,Transportation and logistics,,,,1.0,1.0
 pnc financial services group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North America,Financial services,,,,,1.0
-perusahaan listrik negara,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asia,Energy and utilities,,,,,1.0
-st. james's place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Europe,Financial services,,,,,1.0
+perusahaan listrik negara,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asia,Energy and utilities,,,,1.0,1.0
+st. james's place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Europe,Financial services,,,,1.0,1.0
 guidewell mutual holding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North America,Health care and pharmaceuticals,,,,,
