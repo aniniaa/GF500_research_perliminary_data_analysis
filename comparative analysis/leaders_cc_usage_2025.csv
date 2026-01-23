@@ -1,0 +1,48 @@
+company,cc_pattern,cc_2025,uses_cc
+accenture,00010,0,Unstated
+apple,01111,1,Yes
+cisco systems,00000,0,Unstated
+dell technologies,00010,0,Unstated
+hon hai precision industry,00010,0,Unstated
+hp,00111,1,Yes
+lg electronics,00111,1,Yes
+microsoft,00111,1,Yes
+panasonic holdings,,Not found,Not found
+sap,01111,1,Yes
+schneider electric,01111,1,Yes
+sony,00101,1,Yes
+astrazeneca,00110,0,Unstated
+elevance health,,Not found,Not found
+gsk,,Not found,Not found
+johnson & johnson,00101,1,Yes
+novartis,00111,1,Yes
+pfizer,00111,1,Yes
+sanofi,00111,1,Yes
+aeon,0-1010,0,Unstated
+ingka group,,Not found,Not found
+target,00010,0,Unstated
+tesco,00011,1,Yes
+walmart,0-10-1-1,1,Yes
+woolworths group,00011,1,Yes
+american express,00111,1,Yes
+ing group,0011-1,1,Yes
+kb financial group,0-1010,0,Unstated
+natwest group,----1,1,Yes
+visa,---11,1,Yes
+deutsche telekom,00111,1,Yes
+kddi,00111,1,Yes
+softbank group,00011,1,Yes
+telefonica,01011,1,Yes
+vodafone group,0-1000,0,Unstated
+anheuser-busch inbev,00010,0,Unstated
+heineken,---01,1,Yes
+nestlé,,Not found,Not found
+pepsico,01011,1,Yes
+starbucks,-000-1,1,Yes
+bmw group,01111,1,Yes
+continental,01110,0,Unstated
+general motors,00001,1,Yes
+hyundai mobis,00010,0,Unstated
+la poste,01100,0,Unstated
+abb,01-10,0,Unstated
+unilever,0-10-1-1,1,Yes

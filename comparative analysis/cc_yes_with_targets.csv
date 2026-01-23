@@ -1,0 +1,430 @@
+company,target,pattern,cc_pattern
+3m,re100,1111-,0001-
+América Móvil,nz,01101,00000
+Bunge Global,sbti,00111,00000
+COSCO Shipping,sbti,00111,00000
+Cencora,sbti,00111,00000
+DHL Group,sbti,00111,01001
+Elevance Health,re100,11111,00101
+GSK,re100,10111,00011
+IBM,nz,11111,00011
+Mercedes-Benz Group,sbti,00011,01010
+Meta Platforms,sbti,00011,00011
+NTT,sbti,00101,00101
+Nestlé,re100,11111,0001-1
+Nippon Steel,cn,11111,00111
+Olam Group,sbti,11111,00010
+Orlen,nz,-1011,-0000
+POSCO Holdings,nz,00101,00001
+Panasonic Holdings,re100,11111,00011
+SK Group,re100,10001,01011
+Shell,nz,11111,01011
+Société Générale,cn,11111,00010
+TD Synnex,sbti,00011,00001
+abb,re100,11-11,01-10
+abbott laboratories,nz,00001,00000
+abbvie,sbti,00111,00010
+accenture,re100,11111,00010
+achmea,cn,1----,0----
+acs,nz,00001,00101
+aeon,re100,01111,0-1010
+aia group,sbti,00-11,00-00
+aig,nz,---1-,---0-
+air france-klm group,sbti,---11,---01
+air liquide,sbti,--1--,--0--
+airbus,sbti,00111,00011
+aisin,sbti,0001-,0-101-
+albertsons,sbti,01111,00010
+alibaba group holding,cn,01111,01110
+alimentation couche-tard,cn,00011,00010
+allianz,re100,11111,00111
+allstate,nz,00111,01000
+alphabet,sbti,00001,0111-1
+amazon,nz,11111,00011
+american airlines group,sbti,-1111,-1011
+american express,re100,11111,00111
+amgen,sbti,0---1,0---0
+anglo american,cn,111--,000--
+anheuser-busch inbev,re100,11111,00010
+ansteel group,cn,00001,00000
+anz group holdings,re100,---11,---01
+apollo global management,cn,---1-,---1-
+apple,re100,11111,01111
+arcelormittal,nz,01011,01111
+assicurazioni generali,nz,11111,01011
+astrazeneca,re100,11111,00110
+at&t,sbti,11111,00111
+aviation industry corp. of china,nz,0101-,0001-
+aviva,re100,11---,01---
+axa,re100,11111,01111
+bae systems,sbti,0---1,0---0
+banco bilbao vizcaya argentaria,nz,11111,01111
+banco bradesco,nz,11111,01111
+banco santander,nz,11111,01111
+bank of america,nz,11111,0-1111
+bank of china,cn,00111,00101
+bank of montreal,nz,1-111,0-111
+bank of new york mellon,cn,---1-,---1-
+bank of nova scotia,nz,01111,00011
+barclays,re100,11111,01101
+basf,nz,01111,01011
+bayer,sbti,11111,01111
+beijing automotive group,cn,01101,00000
+best buy,sbti,11111,01011
+bharat petroleum,nz,01111,00010
+bhp group,nz,11111,01011
+bmw group,re100,11111,01111
+bnp paribas,cn,00111,01011
+bosch group,sbti,00001,00111
+bouygues,nz,00001,00000
+bp,nz,11111,01011
+bridgestone,sbti,001--,0-10--
+bristol-myers squibb,sbti,00011,00110
+british american tobacco,sbti,11111,00110
+brookfield,nz,---11,---01
+brookfield asset management,nz,111--,0-10--
+bt group,re100,1----,0----
+byd,cn,-0001,-0000
+caixa economica federal,nz,--001,--001
+canadian imperial bank of commerce,nz,---11,---11
+canon,nz,11---,01---
+capital one financial,nz,00001,01-1-1-1
+cardinal health,sbti,00011,00000
+carmax,nz,-11--,-10--
+carrefour,sbti,11111,00100
+cbre group,sbti,----1,----1
+cenovus energy,nz,-1111,-1001
+centrica,nz,1--1-,0--0-
+charter communications,cn,11111,01000
+chevron,nz,01111,00011
+china everbright group,cn,01---,00---
+china huaneng group,cn,00001,00000
+china merchants bank,cn,00001,00000
+china national petroleum,nz,11001,00000
+china railway construction,cn,00001,00000
+china state construction engineering,cn,00011,00000
+china taiping insurance group,nz,001--,000--
+christian dior,sbti,00001,00000
+chubu electric power,nz,1----,0----
+cigna,re100,01111,00010
+cisco systems,re100,00011,00000
+citigroup,nz,00101,00001
+cj corp.,cn,011--,010--
+ck hutchison holdings,nz,10111,00010
+cma cgm,nz,01---,00---
+coca-cola,sbti,11111,00010
+cofco,sbti,00011,00000
+coles group,nz,11---,00---
+comcast,sbti,00001,00101
+commonwealth bank of australia,re100,1--01,0--11
+compal electronics,nz,011--,000--
+compass group,sbti,0-111,0-011
+conocophillips,nz,-1111,-1011
+contemporary amperex technology,cn,--011,--001
+continental,re100,11111,01110
+coop group,nz,01111,01000
+cpc,nz,-0011,-0011
+credit agricole,re100,11111,00111
+credit suisse group,re100,11---,00---
+crh,sbti,01111,00000
+crrc group,cn,00111,00000
+crédit mutuel group,nz,---11,---01
+cummins,sbti,---11,---00
+cvs health,sbti,11111,00001
+dai-ichi life holdings,nz,11111,00000
+daimler truck holding,cn,--111,--001
+daiwa house industry,sbti,11111,00001
+danone,re100,11---,01---
+deere,sbti,00111,00000
+dell technologies,re100,11111,00010
+delta air lines,sbti,-0111,-0011
+denso,sbti,00011,00111
+deutsche bank,re100,00001,00101
+deutsche telekom,re100,11111,00111
+dongfeng motor,cn,00001,00100
+dow,cn,11111,01010
+dsv,sbti,-11--,-00--
+dz bank,nz,00-01,00-11
+e.on,sbti,01111,0-1110
+ecopetrol,nz,--111,--011
+edeka zentrale,sbti,00001,0-1000
+electricite de france,sbti,11111,0100-1
+eli lilly,cn,1--11,0--11
+enbridge,nz,11111,01011
+enel,sbti,11111,0-101-1
+eneos holdings,cn,11111,00011
+energi danmark group,cn,--1--,--1--
+energie baden-wurttemberg,sbti,-0111,-1111
+engie,sbti,11111,0-1011
+eni,nz,11011,00111
+equinor,nz,11111,00001
+ericsson,sbti,1----,0----
+exelon,nz,11---,00---
+exor group,nz,0111-,0-111-
+exxon mobil,nz,01111,00011
+fedex,cn,11111,01000
+financière de l'odet,cn,1----,0----
+flex,sbti,1----,0----
+ford motor,sbti,11111,00111
+fortum,cn,11---,00---
+fresenius,cn,001--,000--
+fujitsu,re100,11---,01---
+ge vernova,nz,----1,----1
+general dynamics,cn,01011,01000
+general electric,nz,1111-,0111-
+general electric (ge aerospace),nz,----1,----1
+general motors,re100,11111,00001
+george weston,nz,01111,00010
+gilead sciences,sbti,1----,0----
+glencore,nz,11111,0-1000
+goldman sachs group,re100,11111,01111
+groupe bpce,nz,11001,0-1011
+gs caltex,cn,-0001,-0000
+guangzhou automobile industry group,cn,00111,00010
+haier smart home,nz,00101,00000
+hailiang group,nz,00-01,00-00
+hanwha,nz,00011,00011
+hapag-lloyd,cn,--1--,--0--
+hbis group,cn,11111,00000
+hca healthcare,nz,00011,00000
+hd hyundai,cn,--001,--001
+hdfc bank,cn,---01,---00
+heineken,re100,---11,---01
+heraeus holding,cn,01---,00---
+hewlett packard enterprise,re100,1----,0----
+hitachi,sbti,11111,00110
+holcim,sbti,01---,00---
+home depot,re100,01111,00000
+hon hai precision industry,re100,00001,00010
+honda motor,cn,11111,01001
+honeywell international,sbti,00111,00101
+hp,re100,11111,00111
+hsbc holdings,re100,11111,00011
+humana,sbti,00011,00000
+hyundai mobis,re100,01111,00010
+hyundai motor,re100,11111,01010
+iberdrola,sbti,11111,00-111
+icici bank,cn,----1,----0
+idemitsu kosan,cn,11111,00110
+indian oil,nz,00111,00011
+inditex,sbti,-1111,-0000
+industrial bank,cn,00001,00001
+ing group,re100,11111,0011-1
+ingram micro holding,sbti,----1,----1
+intel,re100,11111,0-1011
+international airlines group,nz,----1,----1
+intesa sanpaolo,sbti,00001,01101
+investor,nz,-1---,-0---
+itau unibanco holding,nz,01111,01111
+itochu,nz,11111,01011
+j. sainsbury,sbti,11111,0-1000
+jabil,cn,0111-,0000-
+japan post holdings,cn,11111,0-1000
+jardine matheson,nz,00011,00000
+jbs,nz,11111,0-1010
+jerónimo martins,sbti,---11,---01
+jfe holdings,cn,0111-,0000-
+johnson & johnson,re100,11111,00101
+jpmorgan chase,nz,00111,00111
+kb financial group,re100,00111,0-1010
+kddi,re100,01111,00111
+kia,re100,01111,00110
+koc holding,cn,11111,00000
+kuehne + nagel international,sbti,-11--,-00--
+l'oreal,sbti,11111,001-11
+la poste,re100,11001,01100
+landesbank baden-wurttemberg,nz,---11,---01
+legal & general group,nz,11---,00---
+lenovo group,sbti,11111,01010
+lg chem,nz,01111,01111
+lg electronics,re100,00111,00111
+linde,sbti,00111,00000
+lloyds banking group,re100,11-11,01-11
+lowe's,nz,01111,00000
+lufthansa group,sbti,--011,--111
+luxshare precision industry,sbti,--011,--100
+lyondellbasell industries,nz,01111,01010
+maersk group,sbti,00011,01011
+magna international,sbti,00011,00101
+magnit,sbti,--0-1,--0-0
+manulife financial,nz,11---,0-1---
+mapfre group,cn,1--11,0--01
+marubeni,nz,11111,00010
+massachusetts mutual life insurance,nz,-1111,-1001
+mazda motor,cn,0--11,0--01
+mckesson,sbti,00111,00000
+medtronic,sbti,000-1,010-1
+meiji yasuda life insurance,nz,11111,00010
+merck,sbti,01111,01011
+metlife,nz,01111,01111
+metro,cn,11111,00000
+microsoft,re100,11111,00111
+migros group,sbti,01111,01111
+mitsubishi,nz,0-111,0-011
+mitsubishi chemical holdings,cn,011--,010--
+mitsubishi corp,nz,-1---,-0---
+mitsubishi electric,sbti,11111,00000
+mitsubishi heavy industries,nz,01011,01000
+mitsubishi ufj financial group,nz,11011,00111
+mitsui,nz,11101,01001
+mizuho financial group,nz,01111,001-1-1
+mondelez international,sbti,11111,00000
+morgan stanley,nz,11111,0-1111
+ms&ad insurance group holdings,nz,11111,00000
+munich re group,nz,11111,01111
+national australia bank,re100,---11,---11
+nationwide,nz,00111,00111
+naturgy energy group,cn,--1--,--1--
+natwest group,re100,----1,----1
+nec,re100,1----,0----
+netflix,sbti,11111,01011
+new hope holding group,cn,00001,0-1000
+nike,re100,11111,00010
+nippon life insurance,re100,00011,00000
+nissan motor,sbti,11111,00111
+nokia,sbti,1----,0----
+northrop grumman,nz,01111,01001
+novartis,re100,11111,00111
+novo nordisk,re100,---11,---01
+nrg energy,sbti,--1--,--0--
+nucor,nz,-001-,-101-
+nvidia,sbti,---01,---00
+occidental petroleum,nz,--1--,--0--
+oil & natural gas,nz,00101,01001
+omv group,nz,-1111,-0011
+oracle,nz,01111,01000
+orange,sbti,11111,01011
+paccar,sbti,---11,---00
+pacific construction group,nz,00001,00001
+pegatron,sbti,00001,00000
+pemex,nz,00011,00011
+pepsico,re100,11111,01011
+pertamina,nz,00101,00000
+perusahaan listrik negara,nz,----1,----1
+petrobras,nz,01001,00111
+petronas,nz,11111,00000
+pfizer,re100,00111,00111
+philip morris international,sbti,11111,01111
+phoenix group holdings,nz,11---,01---
+phoenix pharma,cn,00101,00111
+ping an insurance,cn,01111,01110
+poste italiane,cn,011--,011--
+procter & gamble,sbti,11111,01111
+progressive,cn,00001,00110
+prudential,re100,1----,0----
+prudential financial,nz,10111,00-111
+ptt,nz,01111,00011
+qualcomm,sbti,-0111,--1011
+quanta computer,sbti,00001,00000
+randstad,nz,-1---,-0---
+reliance industries,nz,10111,00001
+renault,sbti,11111,00010
+repsol,nz,11111,01011
+rewe group,nz,----1,----1
+rio tinto group,nz,11111,00001
+roche group,sbti,00001,000-10
+rosneft oil,cn,00-11,00-10
+royal ahold delhaize,sbti,11111,00001
+royal bank of canada,nz,11111,00111
+rwe,sbti,-11--,-00--
+s.f. holding,sbti,-0001,-1001
+saic motor,cn,00001,00000
+saint-gobain,sbti,11111,00001
+salesforce,sbti,--011,--011
+samsung c&t,cn,0011-,0001-
+samsung electronics,re100,00111,01001
+samsung life insurance,re100,001--,0-11--
+sanofi,re100,11111,00111
+sap,re100,10111,01111
+saudi aramco,nz,01111,01011
+sberbank,cn,11111,0-1011
+schlumberger,nz,---11,---10
+schneider electric,re100,11111,01111
+seven & i holdings,re100,11111,00000
+shaanxi coal & chemical industry,cn,00001,00100
+shandong weiqiao pioneering group,cn,00001,00000
+siemens,sbti,11111,00011
+siemens energy,sbti,01111,01100
+sinopec group,cn,10001,0-1001
+sk hynix,re100,111-1,000-1
+sncf group,sbti,10101,01001
+softbank group,re100,00011,00011
+sompo holdings,nz,11111,00011
+sony,re100,11111,00101
+st. james's place,nz,----1,----1
+standard chartered,re100,---11,---11
+starbucks,re100,-1111,-000-1
+state bank of india,cn,11101,0-1110
+stellantis,nz,-1111,--1011
+stonex group,nz,00001,00001
+subaru,cn,1--1-,0--1-
+sumitomo,cn,11111,00111
+sumitomo electric industries,sbti,11---,00---
+sumitomo life insurance,nz,111-1,000-1
+sumitomo mitsui financial group,nz,11111,01011
+sun life financial,cn,1----,0----
+suncor energy,nz,-1101,-0001
+suzuki motor,cn,00111,0-1001
+swiss re,re100,11111,01111
+sysco,sbti,00111,00001
+taiwan semiconductor manufacturing,nz,10111,00001
+takeda pharmaceutical,sbti,11---,01---
+talanx,nz,01111,01111
+target,re100,11111,00010
+tata motors,re100,11111,01000
+telefonica,re100,11111,01011
+tencent holdings,sbti,00111,01110
+tesco,re100,11111,00011
+thermo fisher scientific,sbti,00111,0-101-1
+thyssenkrupp,sbti,11111,00000
+tiaa,nz,01111,00011
+tjx,nz,01111,01011
+tokio marine holdings,nz,01111,00111
+tokyo electric power,cn,01001,00001
+tongwei group,re100,--001,--111
+toronto-dominion bank,re100,01111,01111
+toshiba,sbti,11---,01---
+totalenergies,nz,11101,00011
+toyota motor,sbti,00111,01110
+toyota tsusho,sbti,00001,00010
+trafigura group,cn,00111,01111
+travelers,cn,11111,00010
+truist financial,nz,0--1-,0--0-
+tyson foods,sbti,11111,00001
+u.s. bancorp,nz,0--11,0--10
+uber technologies,sbti,--011,--001
+ubs group,re100,11111,01011
+umicore,nz,-1---,-0---
+unicredit group,nz,0--11,0--10
+unilever,re100,11111,0-10-1-1
+uniper,cn,--111,--111
+united airlines holdings,sbti,--011,--0-1-1
+united parcel service,cn,11111,0111-1
+unitedhealth group,sbti,00001,01010
+us foods holding,sbti,-0111,-0000
+vale,nz,01111,01001
+valero energy,cn,11111,00011
+veolia environnement,sbti,11111,01011
+verizon communications,re100,00011,0-1000
+vibra energia,cn,--11-,--11-
+vinci,sbti,01111,00111
+visa,re100,---11,---11
+vodafone group,re100,11111,0-1000
+volkswagen,sbti,11111,01011
+volvo,sbti,11111,00001
+vtb bank,cn,---01,---00
+walmart,re100,11111,0-10-1-1
+walt disney,sbti,00011,01011
+warner bros. discovery,nz,--001,--001
+westpac banking,nz,----1,----1
+wilmar international,sbti,00001,00000
+wistron,sbti,000-1,000-1
+woolworths group,re100,01111,00011
+world fuel services,cn,-1---,-1---
+world kinect,nz,--001,--101
+x5 retail group,cn,11101,00000
+xiaomi,cn,00011,00010
+zf friedrichshafen,sbti,01111,0-1000
+zhejiang geely holding group,cn,01111,00000
+zijin mining group,cn,01111,00111
+zurich insurance group,re100,11111,01111

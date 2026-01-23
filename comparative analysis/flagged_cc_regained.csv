@@ -1,0 +1,79 @@
+company,pattern,first_1_pos,zero_pos,regained_1_pos
+DHL Group,01001,1,2,4
+Elevance Health,00101,2,3,4
+Mercedes-Benz Group,01010,1,2,3
+NTT,00101,2,3,4
+SK Group,01011,1,2,3
+Shell,01011,1,2,3
+acs,00101,2,3,4
+aeon,0-1010,2,3,4
+aisin,0-101-,2,3,4
+american airlines group,-1011,1,2,3
+assicurazioni generali,01011,1,2,3
+bank of china,00101,2,3,4
+barclays,01101,1,3,4
+basf,01011,1,2,3
+best buy,01011,1,2,3
+bhp group,01011,1,2,3
+bnp paribas,01011,1,2,3
+boeing,01011,1,2,3
+bp,01011,1,2,3
+cenovus energy,-1001,1,2,4
+china baowu steel group,01001,1,2,4
+chubb,01101,1,3,4
+comcast,00101,2,3,4
+conocophillips,-1011,1,2,3
+deutsche bank,00101,2,3,4
+dow,01010,1,2,3
+electricite de france,0100-1,1,2,5
+enbridge,01011,1,2,3
+enel,0-101-1,2,3,4
+engie,0-1011,2,3,4
+groupe bpce,0-1011,2,3,4
+honda motor,01001,1,2,4
+honeywell international,00101,2,3,4
+hyundai motor,01010,1,2,3
+intel,0-1011,2,3,4
+intesa sanpaolo,01101,1,3,4
+itochu,01011,1,2,3
+jbs,0-1010,2,3,4
+johnson & johnson,00101,2,3,4
+kb financial group,0-1010,2,3,4
+lenovo group,01010,1,2,3
+lyondellbasell industries,01010,1,2,3
+maersk group,01011,1,2,3
+magna international,00101,2,3,4
+massachusetts mutual life insurance,-1001,1,2,4
+medtronic,010-1,1,2,4
+merck,01011,1,2,3
+mitsui,01001,1,2,4
+netflix,01011,1,2,3
+northrop grumman,01001,1,2,4
+nucor,-101-,1,2,3
+oil & natural gas,01001,1,2,4
+orange,01011,1,2,3
+pepsico,01011,1,2,3
+qualcomm,--1011,2,3,4
+repsol,01011,1,2,3
+s.f. holding,-1001,1,2,4
+samsung electronics,01001,1,2,4
+saudi aramco,01011,1,2,3
+sberbank,0-1011,2,3,4
+sinopec group,0-1001,2,3,5
+sncf group,01001,1,2,4
+sony,00101,2,3,4
+stellantis,--1011,2,3,4
+sumitomo mitsui financial group,01011,1,2,3
+suzuki motor,0-1001,2,3,5
+telefonica,01011,1,2,3
+thermo fisher scientific,0-101-1,2,3,4
+tjx,01011,1,2,3
+ubs group,01011,1,2,3
+unilever,0-10-1-1,2,3,5
+unitedhealth group,01010,1,2,3
+vale,01001,1,2,4
+veolia environnement,01011,1,2,3
+volkswagen,01011,1,2,3
+walmart,0-10-1-1,2,3,5
+walt disney,01011,1,2,3
+world kinect,--101,2,3,4
