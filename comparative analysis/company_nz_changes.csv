@@ -1,0 +1,530 @@
+company,sector,nz_2024,nz_2025,gained_nz,lost_nz
+ABB,Industrial goods,1.0,1.0,False,False
+ACS,Engineering and construction,0.0,1.0,True,False
+AEON,Retail,1.0,1.0,False,False
+AIA Group,Financial services,1.0,1.0,False,False
+ANZ Group Holdings,Financial services,1.0,0.0,False,True
+AT&T,Telecommunications and media,0.0,1.0,True,False
+AXA,Financial services,1.0,1.0,False,False
+AbbVie,Health care and pharmaceuticals,1.0,0.0,False,True
+Abbott Laboratories,Health care and pharmaceuticals,0.0,1.0,True,False
+Accenture,Financial services,1.0,,False,False
+Accenture,Technology,,1.0,False,False
+Agricultural Bank of China,Financial services,0.0,0.0,False,False
+Air France-KLM Group,Transportation and logistics,1.0,1.0,False,False
+Airbus,Aerospace and defense,1.0,0.0,False,True
+Albertsons,Retail,1.0,1.0,False,False
+Alibaba Group Holding,Retail,0.0,0.0,False,False
+Alimentation Couche-Tard,Retail,0.0,0.0,False,False
+Allianz,Financial services,1.0,1.0,False,False
+Allstate,Financial services,1.0,1.0,False,False
+Alphabet,Retail,,1.0,False,False
+Alphabet,Technology,1.0,,False,False
+Aluminum Corp. of China,Metals and mining,0.0,0.0,False,False
+Amazon,Retail,1.0,1.0,False,False
+America Movil,Telecommunications and media,0.0,1.0,True,False
+American Airlines Group,Transportation and Logistics,1.0,,False,False
+American Airlines Group,Transportation and logistics,,1.0,False,False
+American Express,Financial services,1.0,1.0,False,False
+Anheuser-Busch InBev,"Food, beverages and agriculture",1.0,1.0,False,False
+Ansteel Group,Metals and mining,0.0,0.0,False,False
+Apple,Technology,0.0,0.0,False,False
+ArcelorMittal,Metals and mining,1.0,1.0,False,False
+Archer Daniels Midland,"Food, beverages and agriculture",0.0,0.0,False,False
+Assicurazioni Generali,Financial services,1.0,1.0,False,False
+AstraZeneca,Health care and pharmaceuticals,1.0,1.0,False,False
+BASF,Chemicals,1.0,1.0,False,False
+BHP Group,Metals and mining,1.0,1.0,False,False
+BMW Group,Automotive,1.0,1.0,False,False
+BNP Paribas,Financial services,0.0,0.0,False,False
+BP,Oil and gas,1.0,1.0,False,False
+BYD,Automotive,0.0,0.0,False,False
+Banco Bilbao Vizcaya Argentaria,Financial services,1.0,1.0,False,False
+Banco Bradesco,Financial services,1.0,1.0,False,False
+Banco Santander,Financial services,1.0,1.0,False,False
+Banco do Brasil,Financial services,0.0,0.0,False,False
+Bank of America,Financial services,1.0,1.0,False,False
+Bank of China,Financial services,0.0,0.0,False,False
+Bank of Communications,Financial services,0.0,0.0,False,False
+Bank of Montreal,Financial services,1.0,1.0,False,False
+Bank of Nova Scotia,Financial services,1.0,1.0,False,False
+Barclays,Financial services,1.0,1.0,False,False
+Bayer,Chemicals,,1.0,False,False
+Bayer,Health care and pharmaceuticals,1.0,,False,False
+Beijing Automotive Group,Automotive,0.0,0.0,False,False
+Beijing Jianlong Heavy Industry Group,Metals and mining,0.0,0.0,False,False
+Berkshire Hathaway,Financial services,0.0,0.0,False,False
+Best Buy,Retail,1.0,1.0,False,False
+Bharat Petroleum,Oil and gas,1.0,1.0,False,False
+Boeing,Aerospace and defense,0.0,0.0,False,False
+Bosch Group,Automotive,0.0,0.0,False,False
+Bouygues,Engineering and construction,0.0,1.0,True,False
+Bristol-Myers Squibb,Health care and pharmaceuticals,1.0,1.0,False,False
+British American Tobacco,"Food, beverages and agriculture",1.0,,False,False
+British American Tobacco,Household and personal products,,1.0,False,False
+Broadcom,Technology,0.0,0.0,False,False
+Brookfield,Financial services,1.0,1.0,False,False
+CFE,Energy and utilities,,0.0,False,False
+CFE,Industrial goods,0.0,,False,False
+CHS,"Food, beverages and agriculture",0.0,0.0,False,False
+CITIC Group,Financial services,0.0,0.0,False,False
+CK Hutchison Holdings,Retail,1.0,1.0,False,False
+COFCO,Financial services,0.0,0.0,False,False
+COSCO Shipping,Transportation and logistics,1.0,1.0,False,False
+CPC,Oil and gas,1.0,1.0,False,False
+CRH,Industrial goods,1.0,1.0,False,False
+CRRC Group,Industrial goods,0.0,0.0,False,False
+CVS Health,Health care and pharmaceuticals,1.0,1.0,False,False
+Canadian Imperial Bank of Commerce,Financial services,1.0,1.0,False,False
+Capital One Financial,Financial services,0.0,1.0,True,False
+Cardinal Health,Health care and pharmaceuticals,,0.0,False,False
+Cardinal Health,Retail,0.0,,False,False
+Carrefour,Retail,0.0,0.0,False,False
+Caterpillar,Engineering and construction,,0.0,False,False
+Caterpillar,Industrial goods,0.0,,False,False
+Cencora,Health care and pharmaceuticals,,0.0,False,False
+Cencora,Retail,0.0,,False,False
+Cenovus Energy,Metals and mining,1.0,1.0,False,False
+Centene,Health care and pharmaceuticals,0.0,0.0,False,False
+Charter Communications,Telecommunications and media,0.0,0.0,False,False
+Chery Holding Group,Automotive,0.0,0.0,False,False
+Chevron,Oil and gas,1.0,1.0,False,False
+China Baowu Steel Group,Metals and mining,0.0,0.0,False,False
+China Communications Construction,Engineering and construction,0.0,0.0,False,False
+China Construction Bank,Financial services,0.0,0.0,False,False
+China Datang,Energy and utilities,0.0,0.0,False,False
+China Electronics,Industrial goods,0.0,,False,False
+China Electronics,Technology,,0.0,False,False
+China Energy Engineering Group,Engineering and construction,0.0,0.0,False,False
+China Energy Investment,Energy and utilities,,0.0,False,False
+China Energy Investment,Metals and mining,0.0,,False,False
+China FAW Group,Automotive,0.0,0.0,False,False
+China Huadian,Energy and utilities,0.0,0.0,False,False
+China Huaneng Group,Energy and utilities,0.0,0.0,False,False
+China Life Insurance,Financial services,0.0,0.0,False,False
+China Merchants Bank,Financial services,0.0,0.0,False,False
+China Minmetals,Metals and mining,0.0,0.0,False,False
+China Minsheng Banking,Financial services,0.0,0.0,False,False
+China Mobile Communications,Telecommunications and media,0.0,0.0,False,False
+China National Aviation Fuel Group,Financial services,,0.0,False,False
+China National Aviation Fuel Group,Oil and gas,0.0,,False,False
+China National Building Material Group,Industrial goods,1.0,0.0,False,True
+China National Coal Group,Metals and mining,0.0,0.0,False,False
+China National Offshore Oil,Metals and mining,0.0,0.0,False,False
+China National Petroleum,Oil and gas,0.0,1.0,True,False
+China North Industries Group,Aerospace and defense,0.0,0.0,False,False
+China Pacific Insurance (Group),Financial services,0.0,0.0,False,False
+China Poly Group,Real estate,0.0,0.0,False,False
+China Post Group,Transportation and logistics,0.0,0.0,False,False
+China Railway Construction,Engineering and construction,0.0,0.0,False,False
+China Railway Engineering Group,Engineering and construction,0.0,0.0,False,False
+China Resources,Financial services,,0.0,False,False
+China Resources,Health care and pharmaceuticals,0.0,,False,False
+China South Industries Group,Aerospace and defense,0.0,0.0,False,False
+China Southern Power Grid,Energy and utilities,0.0,0.0,False,False
+China State Construction Engineering,Engineering and construction,0.0,0.0,False,False
+China Telecommunications,Telecommunications and media,0.0,0.0,False,False
+China United Network Communications,Telecommunications and media,0.0,0.0,False,False
+China Vanke,Real estate,0.0,0.0,False,False
+Christian Dior,Household and personal products,0.0,,False,False
+Christian Dior,Retail,,0.0,False,False
+Chubb,Financial services,0.0,0.0,False,False
+Cigna,Health care and pharmaceuticals,0.0,0.0,False,False
+Cisco Systems,Technology,,1.0,False,False
+Cisco Systems,Telecommunications and media,1.0,,False,False
+Citigroup,Financial services,1.0,1.0,False,False
+Coca-Cola,"Food, beverages and agriculture",1.0,1.0,False,False
+Comcast,Telecommunications and media,0.0,0.0,False,False
+Commonwealth Bank of Australia,Financial services,1.0,1.0,False,False
+Compass Group,"Food, beverages and agriculture",1.0,,False,False
+Compass Group,Industrial goods,,1.0,False,False
+ConocoPhillips,Metals and mining,1.0,1.0,False,False
+Contemporary Amperex Technology,Automotive,0.0,0.0,False,False
+Continental,Automotive,0.0,0.0,False,False
+Coop Group,Retail,1.0,1.0,False,False
+Costco Wholesale,Retail,0.0,0.0,False,False
+Credit Agricole,Financial services,0.0,1.0,True,False
+Cummins,Industrial goods,1.0,1.0,False,False
+D.R. Horton,Engineering and Construction,0.0,,False,False
+D.R. Horton,Engineering and construction,,0.0,False,False
+DHL Group,Transportation and logistics,1.0,1.0,False,False
+DZ Bank,Financial services,0.0,1.0,True,False
+Dai-ichi Life Holdings,Financial services,1.0,1.0,False,False
+Daimler Truck Holding,Automotive,0.0,0.0,False,False
+Daiwa House Industry,Engineering and construction,1.0,1.0,False,False
+Deere,Engineering and construction,,1.0,False,False
+Deere,Industrial goods,0.0,,False,False
+Dell Technologies,Technology,1.0,1.0,False,False
+Delta Air Lines,Transportation and Logistics,1.0,,False,False
+Delta Air Lines,Transportation and logistics,,1.0,False,False
+Denso,Automotive,0.0,0.0,False,False
+Deutsche Bahn,Transportation and logistics,0.0,1.0,True,False
+Deutsche Bank,Financial services,1.0,1.0,False,False
+Deutsche Telekom,Telecommunications and media,1.0,1.0,False,False
+Dollar General,Retail,0.0,0.0,False,False
+Dongfeng Motor,Automotive,0.0,0.0,False,False
+Dow,Chemicals,0.0,0.0,False,False
+E.ON,Energy and utilities,0.0,0.0,False,False
+ELO Group,Retail,0.0,0.0,False,False
+ENEOS Holdings,Oil and gas,0.0,0.0,False,False
+ENI,Oil and gas,1.0,1.0,False,False
+Ecopetrol,Metals and mining,,1.0,False,False
+Ecopetrol,Oil and gas,1.0,,False,False
+Edeka Zentrale,"Food, beverages and agriculture",,1.0,False,False
+Edeka Zentrale,Retail,1.0,,False,False
+Electricite de France,Energy and utilities,1.0,1.0,False,False
+Elevance Health,Health care and pharmaceuticals,1.0,1.0,False,False
+Eli Lilly,Health care and pharmaceuticals,0.0,0.0,False,False
+Emirates Group,Transportation and logistics,0.0,0.0,False,False
+Enbridge,Energy and utilities,,1.0,False,False
+Enbridge,Oil and gas,1.0,,False,False
+Enel,Energy and utilities,1.0,1.0,False,False
+Energie Baden-Wurttemberg,Energy and utilities,0.0,0.0,False,False
+Energy Transfer,Energy and utilities,,0.0,False,False
+Energy Transfer,Oil and gas,0.0,,False,False
+Engie,Energy and utilities,1.0,1.0,False,False
+Enterprise Products Partners,Energy and utilities,,0.0,False,False
+Enterprise Products Partners,Oil and gas,0.0,,False,False
+Equinor,Oil and gas,1.0,1.0,False,False
+Exxon Mobil,Oil and gas,1.0,1.0,False,False
+Fairfax Financial Holdings,Financial services,0.0,0.0,False,False
+Fannie Mae,Financial services,0.0,0.0,False,False
+FedEx,Transportation and logistics,0.0,0.0,False,False
+Ford Motor,Automotive,0.0,0.0,False,False
+Freddie Mac,Financial services,0.0,0.0,False,False
+GS Caltex,Oil and gas,0.0,0.0,False,False
+GSK,Health care and pharmaceuticals,1.0,1.0,False,False
+Gazprom,Energy and utilities,,0.0,False,False
+Gazprom,Oil and gas,0.0,,False,False
+General Dynamics,Aerospace and defense,0.0,0.0,False,False
+General Motors,Automotive,0.0,0.0,False,False
+George Weston,Retail,1.0,1.0,False,False
+Glencore,Metals and mining,1.0,1.0,False,False
+Goldman Sachs Group,Financial services,1.0,1.0,False,False
+Greenland Holding Group,Real estate,0.0,0.0,False,False
+Groupe BPCE,Financial services,0.0,1.0,True,False
+Guangdong Guangxin Holdings,Financial services,0.0,0.0,False,False
+Guangxi Investment Group,Financial services,0.0,0.0,False,False
+Guangzhou Automobile Industry Group,Automotive,0.0,0.0,False,False
+Guangzhou Industrial Investment Holdings,Industrial goods,0.0,0.0,False,False
+Guangzhou Municipal Construction Group,Engineering and construction,0.0,0.0,False,False
+Guangzhou Pharmaceutical Holdings,Health care and pharmaceuticals,0.0,0.0,False,False
+HBIS Group,Metals and mining,0.0,0.0,False,False
+HCA Healthcare,Health care and pharmaceuticals,1.0,1.0,False,False
+HD Hyundai,Oil and gas,0.0,0.0,False,False
+HDFC Bank,Financial services,0.0,0.0,False,False
+HP,Technology,1.0,1.0,False,False
+HSBC Holdings,Financial services,1.0,1.0,False,False
+Haier Smart Home,Household and personal products,,1.0,False,False
+Haier Smart Home,Industrial goods,0.0,,False,False
+Hailiang Group,Financial services,0.0,1.0,True,False
+Hangzhou Industrial Investment Group,Financial services,0.0,0.0,False,False
+Hangzhou Iron and Steel Group,Metals and mining,0.0,0.0,False,False
+Hanwha,Financial services,1.0,1.0,False,False
+Heineken,"Food, beverages and agriculture",1.0,1.0,False,False
+Hengli Group,Household and personal products,0.0,0.0,False,False
+Hitachi,Industrial goods,0.0,,False,False
+Hitachi,Technology,,1.0,False,False
+Home Depot,Retail,0.0,0.0,False,False
+Hon Hai Precision Industry,Industrial goods,1.0,,False,False
+Hon Hai Precision Industry,Technology,,1.0,False,False
+Honda Motor,Automotive,0.0,0.0,False,False
+Honeywell International,Industrial goods,0.0,0.0,False,False
+Huawei Investment & Holding,Technology,,0.0,False,False
+Huawei Investment & Holding,Telecommunications and media,0.0,,False,False
+Humana,Health care and pharmaceuticals,0.0,0.0,False,False
+Hunan Iron & Steel Group,Metals and mining,0.0,0.0,False,False
+Hyundai Mobis,Automotive,1.0,1.0,False,False
+Hyundai Motor,Automotive,0.0,0.0,False,False
+IBM,Technology,1.0,1.0,False,False
+ING Group,Financial services,1.0,1.0,False,False
+Iberdrola,Energy and utilities,1.0,1.0,False,False
+Idemitsu Kosan,Oil and gas,0.0,0.0,False,False
+Indian Oil,Oil and gas,1.0,1.0,False,False
+Inditex,Retail,1.0,1.0,False,False
+Industrial & Commercial Bank of China,Financial services,0.0,0.0,False,False
+Industrial Bank,Financial services,0.0,0.0,False,False
+Ingka Group,Retail,1.0,1.0,False,False
+Intel,Industrial goods,1.0,,False,False
+Intel,Technology,,1.0,False,False
+Intesa Sanpaolo,Financial services,1.0,1.0,False,False
+Itau Unibanco Holding,Financial services,1.0,1.0,False,False
+Itochu,Financial services,1.0,1.0,False,False
+J. Sainsbury,Retail,1.0,1.0,False,False
+JBS,"Food, beverages and agriculture",1.0,1.0,False,False
+JD.com,Retail,0.0,0.0,False,False
+JPMorgan Chase,Financial services,1.0,1.0,False,False
+Japan Post Holdings,Financial services,0.0,0.0,False,False
+Jardine Matheson,Automotive,1.0,1.0,False,False
+Jiangsu Shagang Group,Metals and mining,0.0,0.0,False,False
+Jiangxi Copper,Metals and mining,0.0,0.0,False,False
+Jinchuan Group,Metals and mining,0.0,0.0,False,False
+Jingye Group,Metals and mining,0.0,0.0,False,False
+Jinneng Holding Group,Metals and mining,0.0,0.0,False,False
+Johnson & Johnson,Health care and pharmaceuticals,1.0,1.0,False,False
+KB Financial Group,Financial services,1.0,1.0,False,False
+KDDI,Telecommunications and media,0.0,1.0,True,False
+Kia,Automotive,1.0,0.0,False,True
+Koc Holding,Energy and utilities,0.0,0.0,False,False
+Korea Electric Power,Energy and utilities,0.0,0.0,False,False
+Kroger,Retail,0.0,0.0,False,False
+LG Chem,Chemicals,1.0,1.0,False,False
+LG Electronics,Industrial goods,0.0,,False,False
+LG Electronics,Technology,,0.0,False,False
+La Poste,Transportation and logistics,1.0,1.0,False,False
+Landesbank Baden-Wurttemberg,Financial services,1.0,1.0,False,False
+Lennar,Engineering and Construction,0.0,,False,False
+Lennar,Engineering and construction,,0.0,False,False
+Lenovo Group,Technology,1.0,1.0,False,False
+Liberty Mutual Insurance Group,Financial services,0.0,0.0,False,False
+Life Insurance Corp. of India,Financial services,0.0,0.0,False,False
+Linde,Chemicals,0.0,0.0,False,False
+Lloyds Banking Group,Financial services,1.0,1.0,False,False
+Lockheed Martin,Aerospace and defense,0.0,0.0,False,False
+Louis Dreyfus,"Food, beverages and agriculture",0.0,0.0,False,False
+Lowe's,Retail,1.0,1.0,False,False
+Lufthansa Group,Transportation and logistics,0.0,0.0,False,False
+Lukoil,Oil and gas,1.0,0.0,False,True
+Luxshare Precision Industry,Technology,0.0,0.0,False,False
+LyondellBasell Industries,Chemicals,1.0,1.0,False,False
+MS&AD Insurance Group Holdings,Financial services,1.0,1.0,False,False
+Maersk Group,Transportation and logistics,1.0,1.0,False,False
+Magna International,Automotive,1.0,1.0,False,False
+Mapfre Group,Financial services,0.0,0.0,False,False
+Marathon Petroleum,Oil and gas,0.0,0.0,False,False
+Marubeni,Financial services,1.0,1.0,False,False
+Massachusetts Mutual Life Insurance,Financial services,1.0,1.0,False,False
+Mazda Motor,Automotive,0.0,0.0,False,False
+McKesson,Health care and pharmaceuticals,,0.0,False,False
+McKesson,Retail,0.0,,False,False
+Meiji Yasuda Life Insurance,Financial services,1.0,1.0,False,False
+Meituan,Retail,0.0,0.0,False,False
+Mercadona,"Food, beverages and agriculture",0.0,,False,False
+Mercadona,Retail,,0.0,False,False
+Mercedes-Benz Group,Automotive,0.0,0.0,False,False
+Merck,Health care and pharmaceuticals,0.0,1.0,True,False
+MetLife,Financial services,1.0,1.0,False,False
+Meta Platforms,Retail,,1.0,False,False
+Meta Platforms,Technology,1.0,,False,False
+Metro,"Food, beverages and agriculture",,0.0,False,False
+Metro,Retail,0.0,,False,False
+Microsoft,Technology,0.0,0.0,False,False
+Midea Group,Industrial goods,0.0,,False,False
+Midea Group,Technology,,0.0,False,False
+Migros Group,Retail,1.0,1.0,False,False
+Mitsubishi,Financial services,,1.0,False,False
+Mitsubishi,Industrial goods,1.0,,False,False
+Mitsubishi Electric,Industrial goods,1.0,,False,False
+Mitsubishi Electric,Technology,,1.0,False,False
+Mitsubishi Heavy Industries,Industrial goods,1.0,1.0,False,False
+Mitsubishi UFJ Financial Group,Financial services,1.0,1.0,False,False
+Mitsui,Financial services,0.0,1.0,True,False
+Mizuho Financial Group,Financial services,1.0,1.0,False,False
+Molina Healthcare,Health care and pharmaceuticals,0.0,0.0,False,False
+Mondelez International,"Food, beverages and agriculture",1.0,1.0,False,False
+Morgan Stanley,Financial services,1.0,1.0,False,False
+Munich Re Group,Financial services,1.0,1.0,False,False
+National Australia Bank,Financial services,1.0,1.0,False,False
+Nationwide,Financial services,1.0,1.0,False,False
+Netflix,Telecommunications and media,1.0,1.0,False,False
+New Hope Holding Group,"Food, beverages and agriculture",0.0,0.0,False,False
+New York Life Insurance,Financial services,1.0,0.0,False,True
+Nike,Household and personal products,1.0,,False,False
+Nike,Retail,,0.0,False,False
+Nippon Life Insurance,Financial services,1.0,1.0,False,False
+Nissan Motor,Automotive,0.0,0.0,False,False
+Northrop Grumman,Aerospace and defense,1.0,1.0,False,False
+Northwestern Mutual,Financial services,0.0,0.0,False,False
+Novartis,Health care and pharmaceuticals,1.0,1.0,False,False
+Novo Nordisk,Health care and pharmaceuticals,1.0,1.0,False,False
+Nvidia,Technology,0.0,0.0,False,False
+OMV Group,Oil and gas,1.0,1.0,False,False
+Oil & Natural Gas,Metals and mining,0.0,1.0,True,False
+Olam Group,"Food, beverages and agriculture",,1.0,False,False
+Olam Group,Retail,1.0,,False,False
+Oracle,Technology,1.0,1.0,False,False
+Orange,Telecommunications and media,1.0,1.0,False,False
+Orlen,Oil and gas,1.0,1.0,False,False
+PBF Energy,Oil and gas,0.0,0.0,False,False
+PDD Holdings,Retail,0.0,0.0,False,False
+POSCO Holdings,Metals and mining,0.0,1.0,True,False
+PTT,Oil and gas,1.0,1.0,False,False
+Paccar,Automotive,0.0,,False,False
+Paccar,Engineering and construction,,0.0,False,False
+Pacific Construction Group,Engineering and construction,0.0,1.0,True,False
+Panasonic Holdings,Industrial goods,1.0,,False,False
+Panasonic Holdings,Technology,,1.0,False,False
+Pegatron,Industrial goods,1.0,,False,False
+Pegatron,Technology,,1.0,False,False
+Pemex,Metals and mining,1.0,1.0,False,False
+People's Insurance Co. of China,Financial services,0.0,0.0,False,False
+PepsiCo,"Food, beverages and agriculture",1.0,1.0,False,False
+Performance Food Group,"Food, beverages and agriculture",,0.0,False,False
+Performance Food Group,Retail,1.0,,False,False
+Pertamina,Oil and gas,0.0,1.0,True,False
+Petrobras,Oil and gas,0.0,1.0,True,False
+Petronas,Energy and utilities,,1.0,False,False
+Petronas,Oil and gas,1.0,,False,False
+Pfizer,Health care and pharmaceuticals,1.0,1.0,False,False
+Philip Morris International,"Food, beverages and agriculture",1.0,,False,False
+Philip Morris International,Household and personal products,,1.0,False,False
+Phillips 66,Oil and gas,0.0,0.0,False,False
+Phoenix Pharma,Health care and pharmaceuticals,,0.0,False,False
+Phoenix Pharma,Retail,1.0,,False,False
+Ping An Insurance,Financial services,0.0,0.0,False,False
+Plains GP Holdings,Energy and utilities,,0.0,False,False
+Plains GP Holdings,Oil and gas,0.0,,False,False
+PowerChina,Engineering and construction,0.0,0.0,False,False
+Procter & Gamble,Household and personal products,1.0,1.0,False,False
+Progressive,Financial services,1.0,0.0,False,True
+Prudential Financial,Financial services,1.0,1.0,False,False
+Publix Super Markets,Retail,0.0,0.0,False,False
+Qualcomm,Industrial goods,1.0,,False,False
+Qualcomm,Technology,,1.0,False,False
+Quanta Computer,Technology,0.0,1.0,True,False
+RTX,Aerospace and Defense,1.0,,False,False
+RTX,Aerospace and defense,,0.0,False,False
+Rabobank Group,Financial services,0.0,0.0,False,False
+Raizen,Oil and gas,0.0,0.0,False,False
+Reliance Industries,Oil and gas,1.0,1.0,False,False
+Renault,Automotive,1.0,0.0,False,True
+Repsol,Oil and gas,1.0,1.0,False,False
+Rio Tinto Group,Metals and mining,1.0,1.0,False,False
+Roche Group,Health care and pharmaceuticals,1.0,1.0,False,False
+Rosneft Oil,Oil and gas,0.0,0.0,False,False
+Royal Ahold Delhaize,Retail,1.0,1.0,False,False
+Royal Bank of Canada,Financial services,1.0,1.0,False,False
+S.F. Holding,Transportation and logistics,0.0,1.0,True,False
+SAIC Motor,Automotive,0.0,0.0,False,False
+SAP,Technology,1.0,1.0,False,False
+SK,Oil and gas,0.0,1.0,True,False
+SNCF Group,Transportation and logistics,1.0,0.0,False,True
+Saint-Gobain,Industrial goods,1.0,1.0,False,False
+Salesforce,Technology,1.0,1.0,False,False
+Samsung Electronics,Industrial goods,1.0,,False,False
+Samsung Electronics,Technology,,1.0,False,False
+Sanofi,Health care and pharmaceuticals,1.0,1.0,False,False
+Saudi Aramco,Metals and mining,1.0,1.0,False,False
+Sberbank,Financial services,0.0,0.0,False,False
+Schlumberger,Oil and gas,1.0,1.0,False,False
+Schneider Electric,Industrial goods,1.0,,False,False
+Schneider Electric,Technology,,1.0,False,False
+Seven & I Holdings,Retail,1.0,1.0,False,False
+Shaanxi Coal & Chemical Industry,Metals and mining,0.0,0.0,False,False
+Shaanxi Yanchang Petroleum (Group),Metals and mining,0.0,0.0,False,False
+Shandong Energy Group,Metals and mining,0.0,0.0,False,False
+Shandong Hi-Speed Group,Transportation and logistics,0.0,0.0,False,False
+Shandong Weiqiao Pioneering Group,Household and personal products,1.0,0.0,False,True
+Shanghai Construction Group,Engineering and construction,0.0,0.0,False,False
+Shanghai Delong Steel Group,Metals and mining,0.0,0.0,False,False
+Shanghai Pharmaceuticals Holding,Health care and pharmaceuticals,,0.0,False,False
+Shanghai Pharmaceuticals Holding,Retail,0.0,,False,False
+Shanghai Pudong Development Bank,Financial services,0.0,0.0,False,False
+Shell,Oil and gas,1.0,1.0,False,False
+Shenghong Holding Group,Chemicals,0.0,0.0,False,False
+Shenzhen Investment Holdings,Financial services,0.0,0.0,False,False
+Shudao Investment Group,Engineering and construction,0.0,0.0,False,False
+Siemens,Industrial goods,1.0,1.0,False,False
+Siemens Energy,Energy and utilities,1.0,0.0,False,True
+Sinomach,Industrial goods,0.0,0.0,False,False
+Sinopec Group,Oil and gas,0.0,0.0,False,False
+Sinopharm,Health care and pharmaceuticals,0.0,0.0,False,False
+Societe Generale,Financial services,0.0,0.0,False,False
+SoftBank Group,Telecommunications and media,1.0,1.0,False,False
+Sompo Holdings,Financial services,1.0,1.0,False,False
+Sony,Industrial goods,1.0,,False,False
+Sony,Technology,,1.0,False,False
+Standard Chartered,Financial services,1.0,1.0,False,False
+Starbucks,"Food, beverages and agriculture",1.0,1.0,False,False
+State Bank of India,Financial services,1.0,0.0,False,True
+State Farm Insurance,Financial services,0.0,0.0,False,False
+State Grid,Energy and utilities,0.0,0.0,False,False
+State Power Investment,Energy and utilities,0.0,0.0,False,False
+Stellantis,Automotive,1.0,1.0,False,False
+StoneX Group,Financial services,0.0,1.0,True,False
+Sumitomo,Financial services,0.0,0.0,False,False
+Sumitomo Mitsui Financial Group,Financial services,1.0,1.0,False,False
+Suncor Energy,Oil and gas,0.0,1.0,True,False
+Susun Construction Group,Engineering and construction,0.0,0.0,False,False
+Suzuki Motor,Automotive,0.0,0.0,False,False
+Swiss Re,Financial services,1.0,1.0,False,False
+Sysco,"Food, beverages and agriculture",,0.0,False,False
+Sysco,Retail,0.0,,False,False
+TD Synnex,Industrial goods,,1.0,False,False
+TD Synnex,Retail,1.0,,False,False
+TIAA,Financial services,1.0,1.0,False,False
+TJX,Retail,1.0,1.0,False,False
+Taikang Insurance Group,Financial services,0.0,0.0,False,False
+Taiwan Semiconductor Manufacturing,Industrial goods,1.0,,False,False
+Taiwan Semiconductor Manufacturing,Technology,,1.0,False,False
+Talanx,Financial services,1.0,1.0,False,False
+Target,Retail,1.0,1.0,False,False
+Tata Motors,Automotive,0.0,1.0,True,False
+Telefonica,Telecommunications and media,1.0,1.0,False,False
+Tencent Holdings,Retail,,1.0,False,False
+Tencent Holdings,Technology,0.0,,False,False
+Tesco,Retail,1.0,1.0,False,False
+Tesla,Automotive,0.0,0.0,False,False
+Thermo Fisher Scientific,Health care and pharmaceuticals,,1.0,False,False
+Thermo Fisher Scientific,Industrial goods,1.0,,False,False
+ThyssenKrupp,Metals and mining,0.0,1.0,True,False
+Tokio Marine Holdings,Financial services,1.0,1.0,False,False
+Tokyo Electric Power,Energy and utilities,1.0,0.0,False,True
+TongLing Nonferrous Metals Group,Metals and mining,0.0,0.0,False,False
+Tongwei Group,Energy and utilities,0.0,0.0,False,False
+Toronto-Dominion Bank,Financial services,1.0,1.0,False,False
+TotalEnergies,Oil and gas,0.0,1.0,True,False
+Toyota Motor,Automotive,0.0,0.0,False,False
+Toyota Tsusho,Financial services,1.0,1.0,False,False
+Trafigura Group,Financial services,0.0,0.0,False,False
+Travelers,Financial services,0.0,0.0,False,False
+Tsingshan Holding Group,Metals and mining,0.0,0.0,False,False
+Tyson Foods,"Food, beverages and agriculture",1.0,1.0,False,False
+U.S. Bancorp,Financial services,1.0,1.0,False,False
+U.S. Postal Service,Transportation and logistics,0.0,0.0,False,False
+UBS Group,Financial services,1.0,1.0,False,False
+US Foods Holding,"Food, beverages and agriculture",,0.0,False,False
+US Foods Holding,Retail,0.0,,False,False
+USAA,Financial services,0.0,0.0,False,False
+Uber Technologies,Retail,,1.0,False,False
+Uber Technologies,Technology,1.0,,False,False
+UniCredit Group,Financial services,1.0,1.0,False,False
+Unilever,Household and personal products,1.0,1.0,False,False
+Uniper,Energy and utilities,0.0,0.0,False,False
+United Airlines Holdings,Transportation and logistics,1.0,1.0,False,False
+United Parcel Service,Transportation and logistics,0.0,0.0,False,False
+UnitedHealth Group,Health care and pharmaceuticals,1.0,1.0,False,False
+VTB Bank,Financial services,0.0,0.0,False,False
+Vale,Metals and mining,1.0,1.0,False,False
+Valero Energy,Oil and gas,0.0,0.0,False,False
+Veolia Environnement,Energy and utilities,1.0,1.0,False,False
+Verizon Communications,Telecommunications and media,1.0,1.0,False,False
+Vinci,Engineering and construction,0.0,1.0,True,False
+Visa,Financial services,0.0,1.0,True,False
+Vodafone Group,Telecommunications and media,1.0,1.0,False,False
+Volkswagen,Automotive,0.0,0.0,False,False
+Volvo,Automotive,0.0,,False,False
+Volvo,Engineering and construction,,1.0,False,False
+Walgreens Boots Alliance,Health care and pharmaceuticals,,0.0,False,False
+Walgreens Boots Alliance,Retail,1.0,,False,False
+Walmart,Retail,1.0,1.0,False,False
+Walt Disney,Telecommunications and media,1.0,1.0,False,False
+Warner Bros. Discovery,Telecommunications and media,0.0,1.0,True,False
+Wells Fargo,Financial services,1.0,0.0,False,True
+Wilmar International,"Food, beverages and agriculture",0.0,1.0,True,False
+Woolworths Group,Retail,1.0,1.0,False,False
+World Kinect,Energy and utilities,0.0,1.0,True,False
+Wuchan Zhongda Group,Financial services,0.0,0.0,False,False
+X5 Retail Group,Retail,0.0,0.0,False,False
+XMXYG,Financial services,0.0,0.0,False,False
+Xiamen C&D,Financial services,0.0,0.0,False,False
+Xiamen ITG Holding Group,Financial services,0.0,0.0,False,False
+Xiaomi,Industrial goods,0.0,,False,False
+Xiaomi,Retail,,0.0,False,False
+ZF Friedrichshafen,Automotive,0.0,0.0,False,False
+Zhejiang Communications Investment Group,Transportation and logistics,0.0,0.0,False,False
+Zhejiang Geely Holding Group,Automotive,0.0,0.0,False,False
+Zhejiang Hengyi Group,Chemicals,0.0,0.0,False,False
+Zhejiang Rongsheng Holding Group,Chemicals,0.0,0.0,False,False
+Zijin Mining Group,Metals and mining,0.0,0.0,False,False
+Zurich Insurance Group,Financial services,1.0,1.0,False,False

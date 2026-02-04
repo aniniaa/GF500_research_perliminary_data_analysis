@@ -1,0 +1,19 @@
+Row Labels,Sum of NZ_2024,Sum of NZ_2025,,,,
+Aerospace and defense,3,1,,Real estate,0,0
+Automotive,7,7,,Aerospace and defense,3,1
+Chemicals,3,3,,Household and personal products,4,2
+Energy and utilities,7,6,,Chemicals,3,3
+Engineering and construction,1,5,,Engineering and construction,1,5
+Financial services,63,66,,Energy and utilities,7,6
+"Food, beverages and agriculture",11,12,,Automotive,7,7
+Health care and pharmaceuticals,15,16,,Transportation and logistics,9,10
+Household and personal products,4,2,,"Food, beverages and agriculture",11,12
+Industrial goods,19,21,,Metals and mining,9,12
+Metals and mining,9,12,,Technology,10,12
+Oil and gas,19,24,,Telecommunications and media,9,13
+Real estate,0,0,,Health care and pharmaceuticals,15,16
+Retail,25,22,,Industrial goods,19,21
+Technology,10,12,,Retail,25,22
+Telecommunications and media,9,13,,Oil and gas,19,24
+Transportation and logistics,9,10,,Financial services,63,66
+Grand Total,214,232,,,,

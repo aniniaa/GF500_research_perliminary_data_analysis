@@ -38,19 +38,19 @@ aig,Financial services,North America,---0-,---0-,---0-,---1-,---0-
 air france-klm group,Transportation and logistics,Europe,---00,---11,---00,---11,---01
 air liquide,Chemicals,Europe,--0--,--1--,--1--,--0--,--0--
 airbus,Aerospace and defense,Europe,00100,00111,00000,01110,00011
-aisin,Automotive,Asia,0000-,0001-,0111-,1000-,0-101-
+aisin,Automotive,Asia,0000-,0001-,1111-,1000-,0-101-
 albertsons,Retail,North America,00000,01111,00000,00111,00010
 alfresa holdings,Health care and pharmaceuticals,Asia,0----,0----,0----,0----,0----
 alibaba group holding,Retail,Asia,00000,00000,01111,00000,01110
 alimentation couche-tard,Retail,North America,00000,00000,00011,00000,00010
-allianz,Financial services,Europe,11111,00000,00000,11111,00111
+allianz,Financial services,Europe,11111,00000,11000,11111,00111
 allstate,Financial services,North America,00000,00000,00000,00111,01000
-alphabet,Retail,North America,11000,00001,10000,01111,0111-1
+alphabet,Retail,North America,11000,00001,11000,01111,0111-1
 aluminum corp. of china,Metals and mining,Asia,00000,00000,00000,00000,00000
 amazon,Retail,North America,00000,00000,00000,11111,00011
 amer international group,Industrial goods,Asia,000--,000--,000--,000--,000--
 american airlines group,Transportation and logistics,North America,-0000,-1111,-0000,-1111,-1011
-american express,Financial services,North America,11111,00001,10000,01111,00111
+american express,Financial services,North America,11111,00001,11000,01111,00111
 amgen,Health care and pharmaceuticals,North America,0---0,0---1,1---1,0---0,0---0
 anglo american,Energy and utilities,Other,000--,000--,111--,000--,000--
 anheuser-busch inbev,"Food, beverages and agriculture",Europe,11111,11111,00000,01111,00010
@@ -58,31 +58,31 @@ anhui conch group,Industrial goods,Asia,000--,000--,000--,000--,0-10--
 ansteel group,Metals and mining,Asia,00000,00000,00001,00000,00000
 anz group holdings,Financial services,Other,---11,---00,---00,---10,---01
 apollo global management,Financial services,North America,---0-,---0-,---1-,---0-,---1-
-apple,Technology,North America,11111,11111,01111,10000,01111
+apple,Technology,North America,11111,11111,11111,10000,01111
 arcelormittal,Metals and mining,Europe,00000,00000,10100,01011,01111
 archer daniels midland,"Food, beverages and agriculture",North America,00000,00000,00000,00000,00000
 arrow electronics,Retail,North America,0000-,0000-,0000-,0000-,0000-
-assicurazioni generali,Financial services,Europe,00000,00000,00000,11111,01011
+assicurazioni generali,Financial services,Europe,00000,00000,11000,11111,01011
 astrazeneca,Health care and pharmaceuticals,Europe,11111,01111,00000,11111,00110
 at&t,Telecommunications and media,North America,00000,11111,11110,00001,00111
 aviation industry corp. of china,Aerospace and defense,Asia,0000-,0000-,0000-,0101-,0001-
-aviva,Financial services,Europe,11---,00---,00---,11---,01---
-axa,Financial services,Europe,11111,00000,00000,11111,01111
+aviva,Financial services,Europe,11---,00---,11---,11---,01---
+axa,Financial services,Europe,11111,00000,11000,11111,01111
 bae systems,Aerospace and defense,Europe,0---0,0---1,0---0,1---1,0---0
-banco bilbao vizcaya argentaria,Financial services,Europe,11000,00000,00000,11111,01111
-banco bradesco,Financial services,Other,00000,00000,00000,11111,01111
+banco bilbao vizcaya argentaria,Financial services,Europe,11000,00000,11000,11111,01111
+banco bradesco,Financial services,Other,00000,00000,11000,11111,01111
 banco do brasil,Financial services,Other,00000,00000,11110,00000,01111
-banco santander,Financial services,Europe,00000,00000,00000,11111,01111
-bank of america,Financial services,North America,11100,00000,00000,11111,0-1111
+banco santander,Financial services,Europe,00000,00000,11000,11111,01111
+bank of america,Financial services,North America,11100,00000,11000,11111,0-1111
 bank of china,Financial services,Asia,00000,00000,00111,00000,00101
 bank of communications,Financial services,Asia,00000,00000,00000,00000,0-1000
-bank of montreal,Financial services,North America,0-000,0-000,0-000,1-111,0-111
+bank of montreal,Financial services,North America,0-000,0-000,1-000,1-111,0-111
 bank of new york (bny),Financial services,North America,----0,----0,----0,----0,----1
 bank of new york mellon,Financial services,North America,---0-,---0-,---1-,---0-,---1-
 bank of nova scotia,Financial services,North America,00000,00000,00000,01111,00011
-barclays,Financial services,Europe,11111,00000,00000,11111,01101
+barclays,Financial services,Europe,11111,00000,01000,11111,01101
 basf,Chemicals,Europe,00000,00000,10000,01111,01011
-bayer,Chemicals,Europe,00000,11111,00000,11111,01111
+bayer,Chemicals,Europe,00000,11111,11000,11111,01111
 beijing automotive group,Automotive,Asia,00000,00000,01101,00000,00000
 beijing jianlong heavy industry group,Metals and mining,Asia,00000,00000,00000,00000,00000
 berkshire hathaway,Financial services,North America,00000,00000,00000,00000,00000
@@ -90,7 +90,7 @@ best buy,Retail,North America,00000,11111,11000,00111,01011
 bharat petroleum,Oil and gas,Asia,00000,00000,00000,01111,00010
 bhp group,Metals and mining,Other,00000,00000,00000,11111,01011
 bmw group,Automotive,Europe,11111,11111,11100,00011,01111
-bnp paribas,Financial services,Europe,00000,00000,00111,11000,01011
+bnp paribas,Financial services,Europe,00000,00000,11111,11000,01011
 boehringer ingelheim,Health care and pharmaceuticals,Europe,0----,0----,0----,0----,0----
 boeing,Aerospace and defense,North America,00000,00000,00010,11100,01011
 bosch group,Automotive,Europe,00000,00001,11111,00000,00111
@@ -98,7 +98,7 @@ bouygues,Engineering and construction,Europe,00000,00010,00000,00001,00000
 bp,Oil and gas,Europe,00000,00000,00000,11111,01011
 bridgestone,Automotive,Asia,000--,001--,111--,000--,0-10--
 bristol-myers squibb,Health care and pharmaceuticals,North America,00000,00011,11100,00011,00110
-british american tobacco,Household and personal products,Europe,00000,11111,10000,01111,00110
+british american tobacco,Household and personal products,Europe,00000,11111,11000,01111,00110
 broadcom,Technology,North America,--000,--000,--000,--000,--000
 brookfield,Financial services,North America,---00,---00,---00,---11,---01
 brookfield asset management,Financial services,North America,000--,000--,000--,111--,0-10--
@@ -185,17 +185,17 @@ compass group,Industrial goods,Europe,0-000,0-111,0-000,0-111,0-011
 conocophillips,Metals and mining,North America,-0000,-0000,-0000,-1111,-1011
 contemporary amperex technology,Automotive,Asia,--000,--000,--011,--000,--001
 continental,Automotive,Europe,11111,11111,11111,00000,01110
-coop group,Retail,Europe,00000,00100,10000,01111,01000
+coop group,Retail,Europe,00000,00100,11000,01111,01000
 costco wholesale,Retail,North America,00000,00000,00000,00000,00000
 country garden holdings,Real estate,Asia,000-0,000-0,100-0,000-0,0-10-0
 cpc,Oil and gas,Asia,-0000,-0000,-0000,-0011,-0011
 credit agricole,Financial services,Europe,11111,00000,00110,10001,00111
-credit suisse group,Financial services,Europe,11---,00---,00---,11---,00---
+credit suisse group,Financial services,Europe,11---,00---,11---,11---,00---
 crh,Industrial goods,Europe,00000,01111,11000,00111,00000
 crrc group,Industrial goods,Asia,00000,00000,00111,00000,00000
 crédit mutuel group,Financial services,Europe,---00,---00,---00,---11,---01
 cummins,Industrial goods,North America,---00,---11,---00,---11,---00
-cvs health,Health care and pharmaceuticals,North America,00000,11111,00000,01111,00001
+cvs health,Health care and pharmaceuticals,North America,00000,11111,01000,01111,00001
 d.r. horton,Engineering and construction,North America,--000,--000,--000,--000,--000
 dai-ichi life holdings,Financial services,Asia,00000,00000,00000,11111,00000
 daimler truck holding,Automotive,Europe,--000,--000,--111,--000,--001
@@ -204,10 +204,10 @@ danaher,Health care and pharmaceuticals,North America,-00--,-00--,-00--,-00--,-0
 danone,"Food, beverages and agriculture",Europe,11---,11---,11---,00---,01---
 deere,Engineering and construction,North America,00000,00111,00000,00001,00000
 dell technologies,Technology,North America,11111,11111,00000,11111,00010
-delta air lines,Transportation and logistics,North America,-0000,-0111,-0000,-1111,-0011
+delta air lines,Transportation and logistics,North America,-0000,-0111,-1000,-1111,-0011
 denso,Automotive,Asia,00000,00011,11111,00000,00111
 deutsche bank,Transportation and logistics,Europe,00001,11110,11110,00001,00101
-deutsche telekom,Telecommunications and media,Europe,11111,11111,00000,11111,00111
+deutsche telekom,Telecommunications and media,Europe,11111,11111,11000,11111,00111
 dollar general,Retail,North America,00000,00000,00000,00000,00001
 dollar tree,Retail,North America,0----,0----,0----,0----,0----
 dongfeng motor,Automotive,Asia,00000,00000,00001,00000,00100
@@ -228,12 +228,12 @@ energi danmark group,Energy and utilities,Europe,--0--,--0--,--1--,--0--,--1--
 energie baden-wurttemberg,Energy and utilities,Europe,-0000,-0111,-1111,-0000,-1111
 energy transfer,Energy and utilities,North America,00000,00000,00000,00000,00000
 engie,Energy and utilities,Europe,00000,11111,00000,11111,0-1011
-eni,Oil and gas,Europe,00000,00000,00100,11011,00111
+eni,Oil and gas,Europe,00000,00000,10100,11011,00111
 enterprise products partners,Energy and utilities,North America,00000,00000,00000,00000,00000
-equinor,Oil and gas,Europe,00000,00000,00000,11111,00001
+equinor,Oil and gas,Europe,00000,00000,11000,11111,00001
 ericsson,Telecommunications and media,Europe,0----,1----,1----,0----,0----
 exelon,Energy and utilities,North America,00---,00---,00---,11---,00---
-exor group,Financial services,Europe,0000-,0000-,0000-,0111-,0-111-
+exor group,Financial services,Europe,0000-,0000-,0100-,0111-,0-111-
 exxon mobil,Oil and gas,North America,00000,00000,00000,01111,00011
 fairfax financial holdings,Financial services,North America,---00,---00,---00,---00,---00
 fannie mae,Financial services,North America,00000,00000,00000,00000,00000
@@ -252,13 +252,13 @@ gasterra,Energy and utilities,Europe,--0--,--0--,--0--,--0--,--0--
 gazprom,Energy and utilities,Europe,00000,00000,00000,00000,00001
 ge vernova,Energy and utilities,North America,----0,----0,----0,----1,----1
 general dynamics,Aerospace and defense,North America,00000,00000,01011,00000,01000
-general electric,Industrial goods,North America,0000-,0000-,0000-,1111-,0111-
+general electric,Industrial goods,North America,0000-,0000-,1100-,1111-,0111-
 general electric (ge aerospace),Aerospace and defense,North America,----0,----0,----0,----1,----1
 general motors,Automotive,North America,11111,11111,11111,00000,00001
 george weston,Retail,North America,00000,00000,00000,01111,00010
 gilead sciences,Health care and pharmaceuticals,North America,0----,1----,0----,0----,0----
 glencore,Metals and mining,Europe,00000,00000,00000,11111,0-1000
-goldman sachs group,Financial services,North America,11111,00000,00000,11111,01111
+goldman sachs group,Financial services,North America,11111,00000,11000,11111,01111
 gree electric appliances,Industrial goods,Asia,00---,00---,00---,00---,00---
 greenland holding group,Real estate,Asia,00000,00000,00000,00000,00000
 groupe bpce,Financial services,Europe,00000,00000,00110,11001,0-1011
@@ -291,7 +291,7 @@ home depot,Retail,North America,01111,00011,00000,00000,00000
 hon hai precision industry,Technology,Asia,00001,00111,00000,11111,00010
 honda motor,Automotive,Asia,00000,00000,11111,00000,01001
 honeywell international,Industrial goods,North America,00000,00111,11111,00000,00101
-hp,Technology,North America,11111,11111,00000,11111,00111
+hp,Technology,North America,11111,11111,11000,11111,00111
 hsbc holdings,Financial services,Europe,11111,00000,00000,11111,00011
 huawei investment & holding,Technology,Asia,00000,00000,00000,00000,00000
 huayang new material technology group,Industrial goods,Asia,0----,0----,0----,0----,0----
@@ -312,8 +312,8 @@ intel,Technology,North America,11111,00000,10000,01111,0-1011
 international airlines group,Transportation and logistics,Europe,----0,----0,----0,----1,----1
 intesa sanpaolo,Financial services,Europe,00000,00001,00000,01111,01101
 investor,Financial services,Europe,-0---,-0---,-0---,-1---,-0---
-itau unibanco holding,Financial services,Other,00000,00000,00000,01111,01111
-itochu,Financial services,Asia,00000,00000,00000,11111,01011
+itau unibanco holding,Financial services,Other,00000,00000,01000,01111,01111
+itochu,Financial services,Asia,00000,00000,11000,11111,01011
 j. sainsbury,Retail,Europe,00000,11111,00000,11111,0-1000
 jabil,Industrial goods,North America,0000-,0000-,0111-,0000-,0000-
 japan post holdings,Financial services,Asia,00000,00000,11111,00000,0-1000
@@ -326,7 +326,7 @@ jiangsu shagang group,Metals and mining,Asia,00000,00000,00000,00000,00000
 jiangxi copper,Metals and mining,Asia,00000,00000,00000,00000,00000
 jinchuan group,Metals and mining,Asia,00000,00000,00000,00000,00000
 jinneng holding group,Metals and mining,Asia,00000,00000,00000,00000,00000
-johnson & johnson,Health care and pharmaceuticals,North America,11111,11111,01000,10111,00101
+johnson & johnson,Health care and pharmaceuticals,North America,11111,11111,11000,10111,00101
 jpmorgan chase,Financial services,North America,11100,00000,11000,00111,00111
 kansai electric power,Energy and utilities,Asia,0----,0----,0----,0----,0----
 kb financial group,Financial services,Asia,00111,01111,01000,10111,0-1010
@@ -337,8 +337,8 @@ korea gas,Oil and gas,Asia,--00-,--00-,--10-,--00-,--00-
 kraft heinz,"Food, beverages and agriculture",North America,0----,0----,0----,0----,0----
 kroger,Retail,North America,00000,00000,00000,00000,00000
 kuehne + nagel international,Transportation and logistics,Europe,-00--,-11--,-10--,-01--,-00--
-l'oreal,Household and personal products,Europe,00000,11111,00000,11111,001-11
-la poste,Transportation and logistics,Europe,11001,11111,10000,01111,01100
+l'oreal,Household and personal products,Europe,00000,11111,11000,11111,001-11
+la poste,Transportation and logistics,Europe,11001,11111,11000,01111,01100
 landesbank baden-wurttemberg,Financial services,Europe,---00,---00,---00,---11,---01
 legal & general group,Financial services,Europe,00---,00---,00---,11---,00---
 lennar,Engineering and construction,North America,--000,--000,--000,--000,--000
@@ -359,7 +359,7 @@ lufthansa group,Transportation and logistics,Europe,--000,--011,--111,--000,--11
 lukoil,Oil and gas,Europe,00-00,00-00,00-00,00-10,00-00
 luxshare precision industry,Technology,Asia,--000,--011,--111,--000,--100
 lyondellbasell industries,Chemicals,Europe,00000,00000,00000,01111,01010
-maersk group,Transportation and logistics,Europe,00000,00011,00000,11111,01011
+maersk group,Transportation and logistics,Europe,00000,00011,10000,11111,01011
 magna international,Automotive,North America,00000,00011,11100,00011,00101
 magnit,Retail,Europe,--0-0,--0-1,--0-0,--0-1,--0-0
 manulife financial,Financial services,North America,00---,00---,00---,11---,0-1---
@@ -370,29 +370,29 @@ massachusetts mutual life insurance,Financial services,North America,-0000,-0000
 mazda motor,Automotive,Asia,0--00,0--00,0--11,0--00,0--01
 mckesson,Health care and pharmaceuticals,North America,00000,00111,01000,00000,00000
 medipal holdings,Retail,Asia,00---,00---,00---,00---,00---
-medtronic,Health care and pharmaceuticals,Europe,000-0,000-1,100-0,011-1,010-1
+medtronic,Health care and pharmaceuticals,Europe,000-0,000-1,110-0,011-1,010-1
 meiji yasuda life insurance,Financial services,Asia,00000,00000,00000,11111,00010
 meituan,Retail,Asia,--000,--000,--000,--000,--000
 mercadona,Retail,Europe,-0-00,-0-00,-0-00,-0-00,-0-00
 merck,Health care and pharmaceuticals,North America,00000,01111,11110,00001,01011
-metlife,Financial services,North America,00000,00000,10000,01111,01111
+metlife,Financial services,North America,00000,00000,11000,01111,01111
 metro,"Food, beverages and agriculture",Europe,00000,11110,11111,00000,00000
-microsoft,Technology,North America,11111,11111,00011,11100,00111
+microsoft,Technology,North America,11111,11111,11011,11100,00111
 midea group,Technology,Asia,00000,00000,00000,00000,0-1000
-migros group,Retail,Europe,00000,01111,00000,01111,01111
+migros group,Retail,Europe,00000,01111,01000,01111,01111
 mitsubishi,Financial services,Asia,0-000,0-000,0-000,0-111,0-011
 mitsubishi chemical holdings,Chemicals,Asia,000--,000--,011--,000--,010--
 mitsubishi corp,Financial services,Asia,-0---,-0---,-0---,-1---,-0---
 mitsubishi electric,Technology,Asia,00000,11111,00000,11111,00000
 mitsubishi heavy industries,Industrial goods,Asia,00000,00000,00100,01011,01000
-mitsubishi ufj financial group,Financial services,Asia,00000,00000,00100,11011,00111
-mitsui,Financial services,Asia,00000,01000,00000,11101,01001
-mizuho financial group,Financial services,Asia,00000,00000,10000,01111,001-1-1
+mitsubishi ufj financial group,Financial services,Asia,00000,00000,10100,11011,00111
+mitsui,Financial services,Asia,00000,01000,10000,11101,01001
+mizuho financial group,Financial services,Asia,00000,00000,11000,01111,001-1-1
 molina healthcare,Health care and pharmaceuticals,North America,--000,--000,--000,--000,--000
 mondelez international,"Food, beverages and agriculture",North America,00000,11111,00000,01111,00000
-morgan stanley,Financial services,North America,11110,00000,00000,11111,0-1111
+morgan stanley,Financial services,North America,11110,00000,11000,11111,0-1111
 ms&ad insurance group holdings,Financial services,Asia,00000,00000,00000,11111,00000
-munich re group,Financial services,Europe,00000,00000,00000,11111,01111
+munich re group,Financial services,Europe,00000,00000,11000,11111,01111
 national australia bank,Financial services,Other,---11,---00,---00,---11,---11
 nationwide,Financial services,North America,00000,00000,00000,00111,00111
 naturgy energy group,Energy and utilities,Europe,--0--,--0--,--1--,--0--,--1--
@@ -407,7 +407,7 @@ nissan motor,Automotive,Asia,00000,11111,11111,00000,00111
 nokia,Aerospace and defense,Europe,0----,1----,0----,0----,0----
 northrop grumman,Aerospace and defense,North America,00000,00000,00000,01111,01001
 northwestern mutual,Financial services,North America,00000,00000,00000,00000,00000
-novartis,Health care and pharmaceuticals,Europe,11111,11111,00000,11111,00111
+novartis,Health care and pharmaceuticals,Europe,11111,11111,11000,11111,00111
 novo nordisk,Health care and pharmaceuticals,Europe,---11,---10,---00,---11,---01
 nrg energy,Energy and utilities,North America,--0--,--1--,--0--,--1--,--0--
 nucor,Metals and mining,North America,-000-,-000-,-000-,-001-,-101-
@@ -416,7 +416,7 @@ nvidia,Technology,North America,---00,---01,---00,---00,---00
 occidental petroleum,Energy and utilities,North America,--0--,--0--,--0--,--1--,--0--
 oil & natural gas,Metals and mining,Asia,00000,00000,01000,00101,01001
 omv group,Oil and gas,Europe,-0000,-0000,-0000,-1111,-0011
-oracle,Technology,North America,00000,00000,00000,01111,01000
+oracle,Technology,North America,00000,00000,01000,01111,01000
 orange,Telecommunications and media,Europe,00000,11111,00000,11111,01011
 paccar,Engineering and construction,North America,---00,---11,---00,---00,---00
 pacific construction group,Engineering and construction,Asia,00000,00000,00000,00001,00001
@@ -431,10 +431,10 @@ pertamina,Oil and gas,Asia,00000,00000,00000,00101,00000
 perusahaan listrik negara,Energy and utilities,Asia,----0,----0,----0,----1,----1
 petrobras,Oil and gas,Other,00000,00000,00110,01001,00111
 petronas,Energy and utilities,Asia,00000,00000,00000,11111,00000
-pfizer,Health care and pharmaceuticals,North America,00111,11111,10000,01111,00111
-philip morris international,Household and personal products,North America,00000,11111,00000,11111,01111
+pfizer,Health care and pharmaceuticals,North America,00111,11111,11000,01111,00111
+philip morris international,Household and personal products,North America,00000,11111,11000,11111,01111
 phillips 66,Oil and gas,North America,00000,00000,00000,00000,00000
-phoenix group holdings,Financial services,Europe,00---,00---,00---,11---,01---
+phoenix group holdings,Financial services,Europe,00---,00---,10---,11---,01---
 phoenix pharma,Health care and pharmaceuticals,Europe,00000,00000,00101,01010,00111
 ping an insurance,Financial services,Asia,00000,00000,01111,00000,01110
 plains gp holdings,Energy and utilities,North America,-0000,-0000,-0000,-0000,-0000
@@ -442,10 +442,10 @@ pnc financial services group,Financial services,North America,----0,----0,----0,
 poste italiane,Financial services,Europe,000--,000--,011--,100--,011--
 power corp. of canada,Financial services,North America,0000-,0000-,0000-,0010-,0000-
 powerchina,Engineering and construction,Asia,00000,00000,00000,00000,00000
-procter & gamble,Household and personal products,North America,11110,11111,10000,01111,01111
+procter & gamble,Household and personal products,North America,11110,11111,11000,01111,01111
 progressive,Financial services,North America,00000,00000,00001,00110,00110
 prudential,Financial services,Europe,1----,0----,0----,0----,0----
-prudential financial,Financial services,North America,00000,00000,00000,10111,00-111
+prudential financial,Financial services,North America,00000,00000,10000,10111,00-111
 ptt,Oil and gas,Asia,00000,00000,00000,01111,00011
 publix super markets,Retail,North America,00000,00000,00000,00000,0-1000
 qnb group,Financial services,Other,----0,----0,----0,----0,----0
@@ -463,7 +463,7 @@ rite aid,Health care and pharmaceuticals,North America,0----,0----,0----,0----,0
 roche group,Health care and pharmaceuticals,Europe,00000,00001,00000,11111,000-10
 rosneft oil,Oil and gas,Europe,00-00,00-00,00-11,01-00,00-10
 royal ahold delhaize,Retail,Europe,00000,11111,00000,11111,00001
-royal bank of canada,Financial services,North America,00000,00000,00000,11111,00111
+royal bank of canada,Financial services,North America,00000,00000,11000,11111,00111
 rwe,Energy and utilities,Europe,-00--,-11--,-11--,-00--,-00--
 s.f. holding,Transportation and logistics,Asia,-0000,-0001,-0000,-0001,-1001
 saic motor,Automotive,Asia,00000,00000,00001,00000,00000
@@ -472,12 +472,12 @@ salesforce,Technology,North America,--000,--011,--000,--111,--011
 samsung c&t,Financial services,Asia,0000-,0000-,0011-,0000-,0001-
 samsung electronics,Technology,Asia,00111,00000,00000,00111,01001
 samsung life insurance,Financial services,Asia,001--,000--,011--,000--,0-11--
-sanofi,Health care and pharmaceuticals,Europe,11111,11111,10000,01111,00111
-sap,Technology,Europe,10111,11111,10000,01111,01111
+sanofi,Health care and pharmaceuticals,Europe,11111,11111,11000,01111,00111
+sap,Technology,Europe,10111,11111,11000,01111,01111
 saudi aramco,Metals and mining,Other,00000,00000,00000,01111,01011
 sberbank,Financial services,Europe,00000,00000,11111,00000,0-1011
 schlumberger,Oil and gas,North America,---00,---00,---00,---11,---10
-schneider electric,Technology,Europe,11111,11111,10000,01111,01111
+schneider electric,Technology,Europe,11111,11111,11000,01111,01111
 seven & i holdings,Retail,Asia,11111,00000,00100,11011,00000
 shaanxi coal & chemical industry,Metals and mining,Asia,00000,00000,00001,00000,00100
 shaanxi construction engineering holding,Engineering and Construction,Asia,--00-,--00-,--00-,--00-,--00-
@@ -495,8 +495,8 @@ shenghong holding group,Chemicals,Asia,00000,00000,00000,00000,00000
 shenzhen investment holdings,Financial services,Asia,00000,00000,00000,00000,00000
 shougang group,Metals and mining,Asia,0000-,0000-,0000-,0000-,0000-
 shudao investment group,Engineering and construction,Asia,-0000,-0000,-0000,-0000,-0000
-siemens,Industrial goods,Europe,11110,11111,10000,01111,00011
-siemens energy,Energy and utilities,Europe,00000,01111,10101,01010,01100
+siemens,Industrial goods,Europe,11110,11111,11000,01111,00011
+siemens energy,Energy and utilities,Europe,00000,01111,11101,01010,01100
 sinomach,Industrial goods,Asia,00000,00000,00000,00000,00000
 sinopec group,Oil and gas,Asia,00000,00000,10001,00000,0-1001
 sinopharm,Health care and pharmaceuticals,Asia,00000,00000,00000,00000,00000
@@ -525,11 +525,11 @@ suncor energy,Oil and gas,North America,-0000,-0000,-0000,-1101,-0001
 suning.com group,Automotive,Asia,0----,0----,0----,0----,0----
 susun construction group,Engineering and construction,Asia,-0000,-0000,-0000,-0000,-0000
 suzuki motor,Automotive,Asia,00000,00000,00111,01000,0-1001
-swiss re,Financial services,Europe,11111,00000,00000,11111,01111
+swiss re,Financial services,Europe,11111,00000,11000,11111,01111
 sysco,"Food, beverages and agriculture",North America,00000,00111,00000,00000,00001
 taikang insurance group,Financial services,Asia,00000,00000,00000,00000,00000
 taiwan semiconductor manufacturing,Technology,Asia,11100,00000,00000,10111,00001
-takeda pharmaceutical,Health care and pharmaceuticals,Asia,00---,11---,00---,11---,01---
+takeda pharmaceutical,Health care and pharmaceuticals,Asia,00---,11---,11---,11---,01---
 talanx,Financial services,Europe,00000,00000,10000,01111,01111
 target,Retail,North America,11111,11111,00000,11111,00010
 tata motors,Automotive,Asia,11111,01000,00000,10101,01000
@@ -542,11 +542,11 @@ thermo fisher scientific,Health care and pharmaceuticals,North America,00000,001
 thyssenkrupp,Metals and mining,Europe,00000,11111,11110,00001,00000
 tiaa,Financial services,North America,00000,00000,00000,01111,00011
 tjx,Retail,North America,00000,00000,00000,01111,01011
-tokio marine holdings,Financial services,Asia,00000,00000,10000,01111,00111
+tokio marine holdings,Financial services,Asia,00000,00000,11000,01111,00111
 tokyo electric power,Energy and utilities,Asia,00000,00000,01001,00100,00001
 tongling nonferrous metals group,Metals and mining,Asia,00000,00000,00000,00000,00000
 tongwei group,Energy and utilities,Asia,--001,--000,--111,--000,--111
-toronto-dominion bank,Financial services,North America,01111,00000,00000,11111,01111
+toronto-dominion bank,Financial services,North America,01111,00000,11000,11111,01111
 toshiba,Industrial goods,Asia,00---,11---,00---,01---,01---
 totalenergies,Oil and gas,Europe,00000,00000,00010,11101,00011
 toyota motor,Automotive,Asia,00000,00111,11111,00000,01110
@@ -559,7 +559,7 @@ tyson foods,"Food, beverages and agriculture",North America,00000,11111,00000,11
 u.s. bancorp,Financial services,North America,0--00,0--00,0--00,0--11,0--10
 u.s. postal service,Transportation and logistics,North America,00000,00000,00000,00000,00000
 uber technologies,Retail,North America,--000,--011,--000,--111,--001
-ubs group,Financial services,Europe,11111,00000,00000,11111,01011
+ubs group,Financial services,Europe,11111,00000,11000,11111,01011
 umicore,Chemicals,Other,-0---,-0---,-0---,-1---,-0---
 unicredit group,Financial services,Europe,0--00,0--00,0--00,0--11,0--10
 unilever,Household and personal products,Europe,11111,11111,00000,11111,0-10-1-1
@@ -579,14 +579,14 @@ vinci,Engineering and construction,Europe,00000,01111,11110,00001,00111
 visa,Financial services,North America,---11,---11,---10,---01,---11
 vodafone group,Telecommunications and media,Europe,11111,11111,00000,11111,0-1000
 volkswagen,Automotive,Europe,00000,11111,11111,00000,01011
-volvo,Engineering and construction,Europe,00000,11111,00010,11101,00001
+volvo,Engineering and construction,Europe,00000,11111,11010,11101,00001
 vtb bank,Financial services,Europe,---00,---00,---01,---00,---00
 walgreens boots alliance,Health care and pharmaceuticals,North America,00000,00000,01000,00010,00000
 walmart,Retail,North America,11111,11111,00000,11111,0-10-1-1
 walt disney,Telecommunications and media,North America,00000,00011,00000,11111,01011
 warner bros. discovery,Telecommunications and media,North America,--000,--000,--000,--001,--001
 weichai power,Industrial goods,Asia,00---,00---,00---,00---,00---
-wells fargo,Financial services,North America,11000,00000,00000,11110,01111
+wells fargo,Financial services,North America,11000,00000,11000,11110,01111
 westpac banking,Financial services,Other,----0,----0,----0,----1,----1
 wh group,"Food, beverages and agriculture",Asia,0----,0----,0----,0----,0----
 wilmar international,"Food, beverages and agriculture",Asia,00000,00001,00000,00001,00000
@@ -610,4 +610,4 @@ zhejiang geely holding group,Automotive,Asia,00000,00000,01111,00000,00000
 zhejiang hengyi group,Chemicals,Asia,00000,00000,00000,00000,00000
 zhejiang rongsheng holding group,Chemicals,Asia,00000,00000,00000,00000,00000
 zijin mining group,Metals and mining,Asia,00000,00000,01111,00000,00111
-zurich insurance group,Financial services,Europe,11111,00000,00000,11111,01111
+zurich insurance group,Financial services,Europe,11111,00000,11000,11111,01111
